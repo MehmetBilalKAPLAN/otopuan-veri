@@ -1,0 +1,788 @@
+[
+ {
+  "id": "clio",
+  "marka": "Renault",
+  "model": "Clio",
+  "wk": "Renault_Clio"
+ },
+ {
+  "id": "megane",
+  "marka": "Renault",
+  "model": "Megane (Sedan / HB)",
+  "wk": "Renault_Mégane"
+ },
+ {
+  "id": "captur",
+  "marka": "Renault",
+  "model": "Captur",
+  "wk": "Renault_Captur"
+ },
+ {
+  "id": "austral",
+  "marka": "Renault",
+  "model": "Austral",
+  "wk": "Renault_Austral"
+ },
+ {
+  "id": "sandero",
+  "marka": "Dacia",
+  "model": "Sandero / Sandero Stepway",
+  "wk": "Dacia_Sandero"
+ },
+ {
+  "id": "duster",
+  "marka": "Dacia",
+  "model": "Duster",
+  "wk": "Dacia_Duster"
+ },
+ {
+  "id": "jogger",
+  "marka": "Dacia",
+  "model": "Jogger",
+  "wk": "Dacia_Jogger"
+ },
+ {
+  "id": "egea",
+  "marka": "Fiat",
+  "model": "Egea (Sedan / HB / SW)",
+  "wk": "Fiat_Egea"
+ },
+ {
+  "id": "egeacross",
+  "marka": "Fiat",
+  "model": "Egea Cross",
+  "wk": "Fiat_Tipo"
+ },
+ {
+  "id": "doblo",
+  "marka": "Fiat",
+  "model": "Doblo",
+  "wk": "Fiat_Doblò"
+ },
+ {
+  "id": "fiorino",
+  "marka": "Fiat",
+  "model": "Fiorino",
+  "wk": "Fiat_Fiorino"
+ },
+ {
+  "id": "corolla",
+  "marka": "Toyota",
+  "model": "Corolla",
+  "wk": "Toyota_Corolla"
+ },
+ {
+  "id": "chr",
+  "marka": "Toyota",
+  "model": "C-HR",
+  "wk": "Toyota_C-HR"
+ },
+ {
+  "id": "yaris",
+  "marka": "Toyota",
+  "model": "Yaris",
+  "wk": "Toyota_Yaris"
+ },
+ {
+  "id": "corollacross",
+  "marka": "Toyota",
+  "model": "Corolla Cross",
+  "wk": "Toyota_Corolla_Cross"
+ },
+ {
+  "id": "hilux",
+  "marka": "Toyota",
+  "model": "Hilux",
+  "wk": "Toyota_Hilux"
+ },
+ {
+  "id": "rav4",
+  "marka": "Toyota",
+  "model": "RAV4",
+  "wk": "Toyota_RAV4"
+ },
+ {
+  "id": "yariscross",
+  "marka": "Toyota",
+  "model": "Yaris Cross",
+  "wk": "Toyota_Yaris_Cross"
+ },
+ {
+  "id": "golf",
+  "marka": "Volkswagen",
+  "model": "Golf",
+  "wk": "Volkswagen_Golf"
+ },
+ {
+  "id": "polo",
+  "marka": "Volkswagen",
+  "model": "Polo",
+  "wk": "Volkswagen_Polo"
+ },
+ {
+  "id": "troc",
+  "marka": "Volkswagen",
+  "model": "T-Roc",
+  "wk": "Volkswagen_T-Roc"
+ },
+ {
+  "id": "passat",
+  "marka": "Volkswagen",
+  "model": "Passat",
+  "wk": "Volkswagen_Passat"
+ },
+ {
+  "id": "tiguan",
+  "marka": "Volkswagen",
+  "model": "Tiguan",
+  "wk": "Volkswagen_Tiguan"
+ },
+ {
+  "id": "tcross",
+  "marka": "Volkswagen",
+  "model": "T-Cross",
+  "wk": "Volkswagen_T-Cross"
+ },
+ {
+  "id": "id4",
+  "marka": "Volkswagen",
+  "model": "ID.4 / ID.7",
+  "wk": "Volkswagen_ID.4"
+ },
+ {
+  "id": "octavia",
+  "marka": "Skoda",
+  "model": "Octavia",
+  "wk": "Škoda_Octavia"
+ },
+ {
+  "id": "superb",
+  "marka": "Skoda",
+  "model": "Superb",
+  "wk": "Škoda_Superb"
+ },
+ {
+  "id": "fabia",
+  "marka": "Skoda",
+  "model": "Fabia",
+  "wk": "Škoda_Fabia"
+ },
+ {
+  "id": "kamiq",
+  "marka": "Skoda",
+  "model": "Kamiq",
+  "wk": "Škoda_Kamiq"
+ },
+ {
+  "id": "karoq",
+  "marka": "Skoda",
+  "model": "Karoq",
+  "wk": "Škoda_Karoq"
+ },
+ {
+  "id": "scala",
+  "marka": "Skoda",
+  "model": "Scala",
+  "wk": "Škoda_Scala"
+ },
+ {
+  "id": "kodiaq",
+  "marka": "Skoda",
+  "model": "Kodiaq",
+  "wk": "Škoda_Kodiaq"
+ },
+ {
+  "id": "leon",
+  "marka": "Seat",
+  "model": "Leon",
+  "wk": "SEAT_León"
+ },
+ {
+  "id": "ibiza",
+  "marka": "Seat",
+  "model": "Ibiza",
+  "wk": "SEAT_Ibiza"
+ },
+ {
+  "id": "arona",
+  "marka": "Seat",
+  "model": "Arona",
+  "wk": "SEAT_Arona"
+ },
+ {
+  "id": "ateca",
+  "marka": "Seat",
+  "model": "Ateca",
+  "wk": "SEAT_Ateca"
+ },
+ {
+  "id": "formentor",
+  "marka": "Cupra",
+  "model": "Formentor",
+  "wk": "Cupra_Formentor"
+ },
+ {
+  "id": "leon_c",
+  "marka": "Cupra",
+  "model": "Leon (Cupra)",
+  "wk": "Cupra_Leon"
+ },
+ {
+  "id": "a3",
+  "marka": "Audi",
+  "model": "A3",
+  "wk": "Audi_A3"
+ },
+ {
+  "id": "a4",
+  "marka": "Audi",
+  "model": "A4",
+  "wk": "Audi_A4"
+ },
+ {
+  "id": "q3",
+  "marka": "Audi",
+  "model": "Q3",
+  "wk": "Audi_Q3"
+ },
+ {
+  "id": "q5",
+  "marka": "Audi",
+  "model": "Q5",
+  "wk": "Audi_Q5"
+ },
+ {
+  "id": "i20",
+  "marka": "Hyundai",
+  "model": "i20",
+  "wk": "Hyundai_i20"
+ },
+ {
+  "id": "bayon",
+  "marka": "Hyundai",
+  "model": "Bayon",
+  "wk": "Hyundai_Bayon"
+ },
+ {
+  "id": "i30",
+  "marka": "Hyundai",
+  "model": "i30",
+  "wk": "Hyundai_i30"
+ },
+ {
+  "id": "elantra",
+  "marka": "Hyundai",
+  "model": "Elantra",
+  "wk": "Hyundai_Elantra"
+ },
+ {
+  "id": "tucson",
+  "marka": "Hyundai",
+  "model": "Tucson",
+  "wk": "Hyundai_Tucson"
+ },
+ {
+  "id": "kona",
+  "marka": "Hyundai",
+  "model": "Kona Elektrik",
+  "wk": "Hyundai_Kona_Electric"
+ },
+ {
+  "id": "ioniq5",
+  "marka": "Hyundai",
+  "model": "Ioniq 5",
+  "wk": "Hyundai_Ioniq_5"
+ },
+ {
+  "id": "i10",
+  "marka": "Hyundai",
+  "model": "i10",
+  "wk": "Hyundai_i10"
+ },
+ {
+  "id": "ceed",
+  "marka": "Kia",
+  "model": "Ceed / XCeed",
+  "wk": "Kia_Ceed"
+ },
+ {
+  "id": "sportage",
+  "marka": "Kia",
+  "model": "Sportage",
+  "wk": "Kia_Sportage"
+ },
+ {
+  "id": "stonic",
+  "marka": "Kia",
+  "model": "Stonic",
+  "wk": "Kia_Stonic"
+ },
+ {
+  "id": "niro",
+  "marka": "Kia",
+  "model": "Niro",
+  "wk": "Kia_Niro"
+ },
+ {
+  "id": "picanto",
+  "marka": "Kia",
+  "model": "Picanto",
+  "wk": "Kia_Picanto"
+ },
+ {
+  "id": "rio",
+  "marka": "Kia",
+  "model": "Rio",
+  "wk": "Kia_Rio"
+ },
+ {
+  "id": "sorento",
+  "marka": "Kia",
+  "model": "Sorento",
+  "wk": "Kia_Sorento"
+ },
+ {
+  "id": "p208",
+  "marka": "Peugeot",
+  "model": "208",
+  "wk": "Peugeot_208"
+ },
+ {
+  "id": "p2008",
+  "marka": "Peugeot",
+  "model": "2008",
+  "wk": "Peugeot_2008"
+ },
+ {
+  "id": "p308",
+  "marka": "Peugeot",
+  "model": "308",
+  "wk": "Peugeot_308"
+ },
+ {
+  "id": "p3008",
+  "marka": "Peugeot",
+  "model": "3008",
+  "wk": "Peugeot_3008"
+ },
+ {
+  "id": "p5008",
+  "marka": "Peugeot",
+  "model": "5008",
+  "wk": "Peugeot_5008"
+ },
+ {
+  "id": "rifter",
+  "marka": "Peugeot",
+  "model": "Rifter / Partner",
+  "wk": "Peugeot_Rifter"
+ },
+ {
+  "id": "c3",
+  "marka": "Citroen",
+  "model": "C3",
+  "wk": "Citroën_C3"
+ },
+ {
+  "id": "c4",
+  "marka": "Citroen",
+  "model": "C4",
+  "wk": "Citroën_C4"
+ },
+ {
+  "id": "celysee",
+  "marka": "Citroen",
+  "model": "C-Elysee",
+  "wk": "Citroën_C-Elysée"
+ },
+ {
+  "id": "berlingo",
+  "marka": "Citroen",
+  "model": "Berlingo",
+  "wk": "Citroën_Berlingo"
+ },
+ {
+  "id": "c5aircross",
+  "marka": "Citroen",
+  "model": "C5 Aircross",
+  "wk": "Citroën_C5_Aircross"
+ },
+ {
+  "id": "corsa",
+  "marka": "Opel",
+  "model": "Corsa",
+  "wk": "Opel_Corsa"
+ },
+ {
+  "id": "astra",
+  "marka": "Opel",
+  "model": "Astra",
+  "wk": "Opel_Astra"
+ },
+ {
+  "id": "mokka",
+  "marka": "Opel",
+  "model": "Mokka",
+  "wk": "Opel_Mokka"
+ },
+ {
+  "id": "crossland",
+  "marka": "Opel",
+  "model": "Crossland",
+  "wk": "Opel_Crossland"
+ },
+ {
+  "id": "grandland",
+  "marka": "Opel",
+  "model": "Grandland",
+  "wk": "Opel_Grandland"
+ },
+ {
+  "id": "insignia",
+  "marka": "Opel",
+  "model": "Insignia",
+  "wk": "Opel_Insignia"
+ },
+ {
+  "id": "focus",
+  "marka": "Ford",
+  "model": "Focus",
+  "wk": "Ford_Focus"
+ },
+ {
+  "id": "fiesta",
+  "marka": "Ford",
+  "model": "Fiesta",
+  "wk": "Ford_Fiesta"
+ },
+ {
+  "id": "puma",
+  "marka": "Ford",
+  "model": "Puma",
+  "wk": "Ford_Puma_(2019)"
+ },
+ {
+  "id": "kuga",
+  "marka": "Ford",
+  "model": "Kuga",
+  "wk": "Ford_Kuga"
+ },
+ {
+  "id": "courier",
+  "marka": "Ford",
+  "model": "Tourneo Courier",
+  "wk": "Ford_Tourneo_Courier"
+ },
+ {
+  "id": "juke",
+  "marka": "Nissan",
+  "model": "Juke (F16)",
+  "wk": "Nissan_Juke"
+ },
+ {
+  "id": "qashqai",
+  "marka": "Nissan",
+  "model": "Qashqai",
+  "wk": "Nissan_Qashqai"
+ },
+ {
+  "id": "micra",
+  "marka": "Nissan",
+  "model": "Micra",
+  "wk": "Nissan_Micra"
+ },
+ {
+  "id": "xtrail",
+  "marka": "Nissan",
+  "model": "X-Trail",
+  "wk": "Nissan_X-Trail"
+ },
+ {
+  "id": "civic",
+  "marka": "Honda",
+  "model": "Civic",
+  "wk": "Honda_Civic"
+ },
+ {
+  "id": "city",
+  "marka": "Honda",
+  "model": "City",
+  "wk": "Honda_City"
+ },
+ {
+  "id": "crv",
+  "marka": "Honda",
+  "model": "CR-V",
+  "wk": "Honda_CR-V"
+ },
+ {
+  "id": "hrv",
+  "marka": "Honda",
+  "model": "HR-V",
+  "wk": "Honda_HR-V"
+ },
+ {
+  "id": "jazz",
+  "marka": "Honda",
+  "model": "Jazz",
+  "wk": "Honda_Jazz"
+ },
+ {
+  "id": "b1",
+  "marka": "BMW",
+  "model": "1 Serisi",
+  "wk": "BMW_1_Series"
+ },
+ {
+  "id": "b3",
+  "marka": "BMW",
+  "model": "3 Serisi",
+  "wk": "BMW_3_Series"
+ },
+ {
+  "id": "b5",
+  "marka": "BMW",
+  "model": "5 Serisi",
+  "wk": "BMW_5_Series"
+ },
+ {
+  "id": "x1",
+  "marka": "BMW",
+  "model": "X1",
+  "wk": "BMW_X1"
+ },
+ {
+  "id": "i4",
+  "marka": "BMW",
+  "model": "i4",
+  "wk": "BMW_i4"
+ },
+ {
+  "id": "aclass",
+  "marka": "Mercedes-Benz",
+  "model": "A Serisi",
+  "wk": "Mercedes-Benz_A-Class"
+ },
+ {
+  "id": "cclass",
+  "marka": "Mercedes-Benz",
+  "model": "C Serisi",
+  "wk": "Mercedes-Benz_C-Class"
+ },
+ {
+  "id": "eclass",
+  "marka": "Mercedes-Benz",
+  "model": "E Serisi",
+  "wk": "Mercedes-Benz_E-Class"
+ },
+ {
+  "id": "cla",
+  "marka": "Mercedes-Benz",
+  "model": "CLA",
+  "wk": "Mercedes-Benz_CLA-Class"
+ },
+ {
+  "id": "gla",
+  "marka": "Mercedes-Benz",
+  "model": "GLA",
+  "wk": "Mercedes-Benz_GLA-Class"
+ },
+ {
+  "id": "cooper",
+  "marka": "MINI",
+  "model": "Cooper",
+  "wk": "Mini_Hatch"
+ },
+ {
+  "id": "countryman",
+  "marka": "MINI",
+  "model": "Countryman",
+  "wk": "Mini_Countryman"
+ },
+ {
+  "id": "t10x",
+  "marka": "TOGG",
+  "model": "T10X",
+  "wk": "Togg_T10X"
+ },
+ {
+  "id": "t10f",
+  "marka": "TOGG",
+  "model": "T10F",
+  "wk": "Togg_T10F"
+ },
+ {
+  "id": "modely",
+  "marka": "Tesla",
+  "model": "Model Y",
+  "wk": "Tesla_Model_Y"
+ },
+ {
+  "id": "model3",
+  "marka": "Tesla",
+  "model": "Model 3",
+  "wk": "Tesla_Model_3"
+ },
+ {
+  "id": "sealu",
+  "marka": "BYD",
+  "model": "Seal U",
+  "wk": "BYD_Sealion_6"
+ },
+ {
+  "id": "seal",
+  "marka": "BYD",
+  "model": "Seal",
+  "wk": "BYD_Seal"
+ },
+ {
+  "id": "atto3",
+  "marka": "BYD",
+  "model": "Atto 3",
+  "wk": "BYD_Atto_3"
+ },
+ {
+  "id": "tiggo7",
+  "marka": "Chery",
+  "model": "Tiggo 7",
+  "wk": "Chery_Tiggo_7"
+ },
+ {
+  "id": "tiggo8",
+  "marka": "Chery",
+  "model": "Tiggo 8 Pro",
+  "wk": "Chery_Tiggo_8"
+ },
+ {
+  "id": "omoda5",
+  "marka": "Omoda",
+  "model": "Omoda 5",
+  "wk": "Omoda_5"
+ },
+ {
+  "id": "j7",
+  "marka": "Jaecoo",
+  "model": "Jaecoo 7",
+  "wk": "Jaecoo_7"
+ },
+ {
+  "id": "hs",
+  "marka": "MG",
+  "model": "HS",
+  "wk": "MG_HS"
+ },
+ {
+  "id": "zs",
+  "marka": "MG",
+  "model": "ZS",
+  "wk": "MG_ZS"
+ },
+ {
+  "id": "mg7",
+  "marka": "MG",
+  "model": "MG7",
+  "wk": "MG_7"
+ },
+ {
+  "id": "swift",
+  "marka": "Suzuki",
+  "model": "Swift",
+  "wk": "Suzuki_Swift"
+ },
+ {
+  "id": "vitara",
+  "marka": "Suzuki",
+  "model": "Vitara",
+  "wk": "Suzuki_Vitara"
+ },
+ {
+  "id": "m3",
+  "marka": "Mazda",
+  "model": "Mazda3",
+  "wk": "Mazda3"
+ },
+ {
+  "id": "cx5",
+  "marka": "Mazda",
+  "model": "CX-5",
+  "wk": "Mazda_CX-5"
+ },
+ {
+  "id": "cx30",
+  "marka": "Mazda",
+  "model": "CX-30",
+  "wk": "Mazda_CX-30"
+ },
+ {
+  "id": "xc40",
+  "marka": "Volvo",
+  "model": "XC40",
+  "wk": "Volvo_XC40"
+ },
+ {
+  "id": "xc60",
+  "marka": "Volvo",
+  "model": "XC60",
+  "wk": "Volvo_XC60"
+ },
+ {
+  "id": "s60",
+  "marka": "Volvo",
+  "model": "S60",
+  "wk": "Volvo_S60"
+ },
+ {
+  "id": "renegade",
+  "marka": "Jeep",
+  "model": "Renegade",
+  "wk": "Jeep_Renegade"
+ },
+ {
+  "id": "compass",
+  "marka": "Jeep",
+  "model": "Compass",
+  "wk": "Jeep_Compass"
+ },
+ {
+  "id": "avenger",
+  "marka": "Jeep",
+  "model": "Avenger",
+  "wk": "Jeep_Avenger"
+ },
+ {
+  "id": "defender",
+  "marka": "Land Rover",
+  "model": "Defender",
+  "wk": "Land_Rover_Defender_(L663)"
+ },
+ {
+  "id": "evoque",
+  "marka": "Land Rover",
+  "model": "Range Rover Evoque",
+  "wk": "Range_Rover_Evoque"
+ },
+ {
+  "id": "giulia",
+  "marka": "Alfa Romeo",
+  "model": "Giulia",
+  "wk": "Alfa_Romeo_Giulia_(952)"
+ },
+ {
+  "id": "stelvio",
+  "marka": "Alfa Romeo",
+  "model": "Stelvio",
+  "wk": "Alfa_Romeo_Stelvio"
+ },
+ {
+  "id": "asx",
+  "marka": "Mitsubishi",
+  "model": "ASX",
+  "wk": "Mitsubishi_ASX"
+ },
+ {
+  "id": "l200",
+  "marka": "Mitsubishi",
+  "model": "L200",
+  "wk": "Mitsubishi_Triton"
+ }
+]
