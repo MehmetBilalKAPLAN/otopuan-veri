@@ -1,0 +1,31 @@
+ÖZET: {'uyumlu': 105, 'celiski': 1, 'belirsiz': 25, 'hata': 0}
+
+--- ÇELİŞKİ ve HATA satırları (bunları Claude'a yapıştırın) ---
+crossland | Opel Crossland | bizim [2017, 2026, 'D'] | wiki 2017–2024 | bizim bitiş 2026, Wikipedia üretim bitişi 2024
+
+--- BELİRSİZ ---
+egeacross | [2021, 2026, 'K'] |  | Wikipedia yılı bulunamadı
+yaris | [2020, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı
+corollacross | [2022, 2026, 'D'] | July 2020 – present | başlangıç 2022 hiçbir nesil başlangıcıyla eşleşmiyor: [2020]
+yariscross | [2021, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı
+passat | [2015, 2026, 'D'] | 1973–present | başlangıç 2015 hiçbir nesil başlangıcıyla eşleşmiyor: [1973, 1993, 2001, 2005, 2010, 2019]
+id4 | [2022, 2026, 'D'] |  | Wikipedia yılı bulunamadı
+karoq | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
+kona | [2019, 2026, 'D'] | 2017–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [2017, 2023]
+c5aircross | [2019, 2026, 'D'] | 2017–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [2017, 2025]
+juke | [2021, 2026, 'K'] | 2010–present | başlangıç 2021 hiçbir nesil başlangıcıyla eşleşmiyor: [2009, 2010, 2019, 2027]
+crv | [2019, 2026, 'D'] | 1995–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [1995, 2001, 2002, 2007, 2012, 2017, 2023]
+hrv | [2015, 2026, 'D'] | 1999–2006; 2013–present | başlangıç 2015 hiçbir nesil başlangıcıyla eşleşmiyor: [1999, 2013, 2021]
+jazz | [2020, 2026, 'D'] |  | Wikipedia yılı bulunamadı
+modely | [2023, 2026, 'V'] |  | Wikipedia yılı bulunamadı
+model3 | [2023, 2026, 'D'] |  | Wikipedia yılı bulunamadı
+sealu | [2024, 2026, 'V'] | {{ubl | Wikipedia yılı bulunamadı
+seal | [2024, 2026, 'V'] |  | Wikipedia yılı bulunamadı
+j7 | [2025, 2026, 'D'] | 2023–present | başlangıç 2025 hiçbir nesil başlangıcıyla eşleşmiyor: [2023]
+hs | [2022, 2026, 'V'] | 2018–present | başlangıç 2022 hiçbir nesil başlangıcıyla eşleşmiyor: [2018, 2024]
+zs | [2022, 2026, 'D'] |  | Wikipedia yılı bulunamadı
+mg7 | [2025, 2026, 'V'] | 2007–2013; 2022–present | başlangıç 2025 hiçbir nesil başlangıcıyla eşleşmiyor: [2007, 2022]
+xc40 | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
+renegade | [2015, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
+giulia | [2017, 2026, 'D'] | 2015–present | başlangıç 2017 hiçbir nesil başlangıcıyla eşleşmiyor: [2015]
+stelvio | [2018, 2026, 'D'] | 2016–present | başlangıç 2018 hiçbir nesil başlangıcıyla eşleşmiyor: [2016]
