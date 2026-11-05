@@ -2,6 +2,7 @@
 Kapsam: yalnızca ABD'de satılan model/yıllar. Türkiye'ye özgü modeller sonuçsuz kalır.
 Çıktı: cikti/geri_cagirma.json  {id: {durum, sorgu, kayitlar:[...]}}"""
 import json, re, sys, time, urllib.parse, urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 API = 'https://api.nhtsa.gov/recalls/recallsByVehicle?'
 MARKA = {'Mercedes-Benz': 'Mercedes-Benz', 'Citroen': 'Citroen', 'Skoda': 'Skoda', 'MINI': 'Mini', 'TOGG': None}
@@ -43,14 +44,15 @@ def model_icin(item, yillar, bekle=0.3):
     durum = 'hata' if hata == len(yillar) and yillar else ('kayit_var' if kayit else 'kayit_yok')
     return {'durum': durum, 'sorgu': marka + ' ' + mdl, 'kayitlar': sorted(kayit, key=lambda x: x['tarih'], reverse=True)}
 
-def run(items, bizim, bekle=0.3):
-    cikti = {}
-    for it in items:
+def run(items, bizim, bekle=0.15, isci=8):
+    def is_(it):
         b = bizim.get(it['id'])
-        yillar = list(range(max(b[0], 2005), min(b[1], 2026) + 1)) if b else []
-        cikti[it['id']] = model_icin(it, yillar, bekle)
-        print(it['id'], cikti[it['id']]['durum'], len(cikti[it['id']]['kayitlar']), flush=True)
-    return cikti
+        yillar = list(range(max(b[0], 2015), min(b[1], 2026) + 1)) if b else []
+        r = model_icin(it, yillar, bekle)
+        print(it['id'], r['durum'], len(r['kayitlar']), flush=True)
+        return it['id'], r
+    with ThreadPoolExecutor(isci) as ex:
+        return dict(ex.map(is_, items))
 
 if __name__ == '__main__':
     items = json.load(open('modeller.json', encoding='utf-8'))
