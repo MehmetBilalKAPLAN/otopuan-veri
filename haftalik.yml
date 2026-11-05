@@ -27,6 +27,7 @@ jobs:
         run: |
           python test_wiki.py
           python test_nhtsa.py
+          python test_araclo.py
 
       - name: Wikipedia'dan nesil ve yılları çek, karşılaştır
         run: |
@@ -44,6 +45,12 @@ jobs:
         run: |
           python nhtsa.py | tee cikti/nhtsa_ozet.txt
           { echo '### NHTSA özeti'; echo '```'; tail -n 3 cikti/nhtsa_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: araclo.com sayfa metinlerini indir (ham veri)
+        continue-on-error: true
+        run: |
+          python araclo.py | tee cikti/araclo_ozet.txt
+          { echo '### araclo özeti'; echo '```'; tail -n 2 cikti/araclo_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Değişiklik varsa depoya işle
         run: |
