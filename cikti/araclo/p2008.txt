@@ -1,0 +1,374 @@
+https://www.araclo.com/vehicles/peugeot-2008/kronik-sorunlar
+
+Peugeot 2008 Kronik Sorunlar ve Bilinen Arızalar | Araclo
+Araclo
+Araçlar
+Araçlar
+Araç Kataloğu Tüm marka, model, nesil ve motorlar
+Araç Öneri Sihirbazı Yeni Birkaç soruyla sana uygun aracı bul
+Broşürler Teknik dökümanlar ve kataloglar
+İnteraktif Kullanım Kılavuzu Yeni Uyarı ışıkları, tuşlar, lastik ve acil durumlar
+İlan İncelemeleri Yeni 2. el ilan analizleri
+Öne Çıkanlar
+Tüm marka ve modelleri keşfet, 2. el ilanları analiz et, teknik broşürlere ulaş.
+Öneri sihirbazı birkaç soruyla eşleştirir.
+Sihirbazı Aç
+Topluluk
+Topluluk
+Forum Sorular, deneyimler ve tartışmalar
+Blog Güncel yazılar ve rehberler
+Güncel Haberler Otomobil dünyasından gelişmeler
+Raporlar Yeni Pazar ve ilan istatistikleri
+Keşfet
+2026 Lansman Takvimi Yeni Yeni araç çıkış tarihleri
+Kamp Alanları Haritası Yeni Kamp ve karavan noktaları haritası
+KGM Yol Durumu Yeni Kapalı ve çalışma yapılan yollar
+Oyunlar
+Araçdle Yeni Günün arabasını tahmin et
+Şoför Testi Beta Ne kadar iyi bir şoförsün?
+Grand Prix Yeni Çok oyunculu araç bilgi yarışı
+Sorularını sor, deneyimlerini paylaş.
+Foruma Git
+Kampanya & Tarifeler
+Kampanya & Tarifeler
+Fiyat Pusulası Premium Fiyat, kampanya ve ÖTV'siz fiyat tek ekranda Sağdaki sayfaları kapsar, tek ekranda birleştirir
+Satış Kampanyaları Güncel sıfır araç kampanyaları
+Sıfır Araç Fiyatları Yeni Markaların güncel fiyat listeleri
+ÖTV Muafiyetli Araçlar Yeni Engelli muafiyetli araç modelleri ve ÖTV'siz fiyatları
+Elektrikli Şarj Tarifeleri Operatör bazlı şarj fiyatları
+Şarj İstasyonları Haritası Yeni Şarj noktalarını haritada bul
+Geçiş Ücretleri Yeni Otoyol ve köprü geçiş tarifeleri
+Trafik Cezaları Yeni 2026 ceza tutarları ve puanları
+Öne Çıkanlar
+Güncel kampanyaları, ÖTV'siz araçları ve elektrikli şarj tarifelerini karşılaştır.
+Sıfır araçlarda güncel fırsatlar.
+Kampanyalar
+Hesaplama & Araçlar
+Hesaplama & Araçlar
+Şarj Hesaplayıcı Şarj maliyetini hesapla
+Rota Planlama Yol maliyeti ve rota planı
+Kaza Tutanağı Yeni İnteraktif tutanak örneği
+Ceza İtiraz Dilekçesi Yeni Trafik cezası itiraz dilekçesi hazırla
+Öne Çıkanlar
+Şarj ve yol maliyetini hesapla, ÖTV muafiyetini öğren, resmi dilekçeleri hazırla.
+Elektrikli aracının şarj maliyetini gör.
+Şarj Hesapla
+Ehliyet & Eğitim
+Ehliyet & Eğitim
+Ehliyet Dersleri Yeni Sınav konuları ve ders notları
+Trafik İşaretleri Yeni Levhalar ve anlamları
+Hız Sınırları Yeni Araç türüne göre yasal hız limitleri
+Sınava Hazırlık
+MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırları.
+4 ders, 71 konu — sınav ağırlıklarıyla.
+Derslere Başla
+Giriş Yap
+Peugeot 2008 Kronik Sorunları
+4 nesil · 10 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
+Model
+Peugeot 2008
+Peugeot 2008 genel bakış
+2008 II (P24) 2023– 1.2 PureTech
+1.5 BlueHDi
+1.2 Hybrid
+Elektrik 115 kW Elektrikli
+Elektrik 100 kW Elektrikli
+2008 II (P24) 2020–2023 1.2 PureTech
+1.5 BlueHDi
+Elektrik Elektrikli
+2008 I (A94) 2016–2019 1.2 PureTech
+1.6 BlueHDi
+1.5 BlueHDi
+2008 I (A94) 2013–2016 1.2 VTi
+1.6 VTi
+1.6 e-HDi
+Peugeot 2008 Nesiller ve motorlar arasında gezin
+Detaylar Kronik Sorunlar 51 Değerlendirmeler Dokümanlar
+Peugeot 2008 Kronik Sorunları
+51 bilinen sorun · önem sırasıyla · nesle göre
+22 kritik 10 yüksek 18 orta 1 düşük
+2008 II (P24) 2023– 7 2008 II (P24) 2020–2023 6 2008 I (A94) 2016–2019 3 2008 I (A94) 2013–2016 7 Tüm nesiller 28
+2008 II (P24) 2023– 7 sorun
+Neslin tamamında · 6
+Kritik Fren hidrolik destek fonksiyonunun devre dışı kalması (geri çağırma) 2023–2023 Onarım maliyeti düşük
+Belirtiler
+Fren pedalına basılı beklerken fren desteği kesilebilir; pedal sertleşir, fren mesafesi uzar
+Alırken kontrol edin
+2023 sonbaharında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; yazılım güncellemesinin yapıldığını serviste teyit edin
+Kritik ABS-ESP valf bloğunda iç fren hidroliği kaçağı (geri çağırma) 2024–2024 Onarım maliyeti düşük
+Belirtiler
+Fren hidroliği seviyesi düşer; denge kontrolü, ABS ve fren kuvveti dağılımı uyarı lambalarıyla devre dışı kalabilir
+Alırken kontrol edin
+2024 ortasında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; fren hidroliği seviyesini ve ABS uyarı lambasını kontrol edin
+Kritik Yakıt deposunun sızdırmazlık kusuru, yangın riski (geri çağırma) 2023–2025 Onarım maliyeti düşük
+Belirtiler
+Araç altında ya da depo çevresinde yakıt kokusu ve damlama; sızan yakıt sıcak parçalarla temas ederse yangın çıkabilir
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla yakıt deposu geri çağırma kaydını sorun; park yerinde araç altında yakıt izi arayın
+Yüksek Acil fren ve şerit asistanının birlikte kapanması (geri çağırma) 2023–2024 Onarım maliyeti düşük
+Belirtiler
+Multimedya ünitesindeki sürüş destek düğmesine uzun basınca acil fren desteği ve şeritte tutma aynı anda devre dışı kalır; sürücü fark etmeyebilir
+Alırken kontrol edin
+Gösterge ve ekranda acil fren ile şerit asistanının açık olduğunu kontrol edin; multimedya yazılım güncellemesi geri çağırmasını şasi numarasıyla sorun
+Orta Multimedya ekranının kararması ve donması 2023–2025 Onarım maliyeti orta
+Belirtiler
+Ekran açılmaz, kararır ya da karıncalanır; klima ayarı, radyo ve geri görüş kamerası kullanılamaz, bazen akü bağlantısı kesilince düzelir
+Alırken kontrol edin
+Ekranı ve klima menüsünü 15 dakika kullanın, kamerayı birkaç kez açıp kapatın; ekran ünitesi değişimi ve yazılım güncellemesi kaydını serviste sorun
+Orta Telematik kutusu arızası: acil çağrı sisteminin çalışmaması (geri çağırma) 2024–2024 Onarım maliyeti düşük
+Belirtiler
+Acil çağrı ve bağlantılı servisler çalışmaz, ilgili uyarı yanar; hız sınırlayıcı devre dışı kalabilir, park halinde akü boşalabilir
+Alırken kontrol edin
+Göstergede acil çağrı arıza uyarısı olup olmadığına bakın; telematik kutusu değişimi geri çağırmasını şasi numarasıyla sorun
+1.2 PureTech motorunda · 1
+Kritik Yüksek basınçlı yakıt borusunda gevşek ya da eksik somun, yangın riski (geri çağırma) 2023–2025 Onarım maliyeti düşük
+Belirtiler
+Motor bölümünde benzin kokusu, tüketim artışı; yakıt pompası ile enjeksiyon rampası arasından sızıntı yangına yol açabilir
+Alırken kontrol edin
+Motor çalışırken kaputu açıp benzin kokusu arayın; yakıt borusu geri çağırmasını şasi numarasıyla sorun
+2008 II (P24) 2020–2023 6 sorun
+Neslin tamamında · 5
+Kritik Arka fren hortumunun yanlış yerleştirilmesi (geri çağırma) Onarım maliyeti düşük
+Belirtiler
+Hortum sürtünerek zamanla yırtılabilir; fren pedalı boşa gider, fren mesafesi uzar
+Alırken kontrol edin
+2019 sonunda üretilen ilk araçlarda şasi numarasıyla geri çağırma kaydını sorun; arka fren hortumlarını lifte sürtünme izine karşı kontrol ettirin
+Orta Multimedya ekranının kararması ve donması 2020–2023 Onarım maliyeti orta
+Belirtiler
+Ekran kararır ya da dokunmaya tepki vermez; klima ayarı, radyo ve geri görüş kamerası da devre dışı kalır, bazen kontak kapatıp açınca düzelir
+Alırken kontrol edin
+Ekranı ve klima menüsünü 15 dakika kullanın, geri vitese birkaç kez takıp kamerayı deneyin; yazılım güncellemesi ve ekran ünitesi değişimi kaydını serviste sorun
+Orta 12 V akünün zayıflaması ve start-stop sisteminin çalışmaması 2020–2023 Onarım maliyeti düşük
+Belirtiler
+Start-stop devreye girmez, gösterge enerji tasarrufu moduna geçer, park halinde akü boşalır; anahtarsız giriş ve ekran gibi elektronik sistemlerde arızalar görülür
+Alırken kontrol edin
+Trafikte start-stop'un devreye girdiğini görün; akünün şarj durumunu ve park halindeki akım çekişini serviste ölçtürün
+Orta Anahtarsız giriş ve çalıştırmanın anahtarı tanımaması 2020–2023 Onarım maliyeti düşük
+Belirtiler
+Kapılar anahtarsız açılmaz, gösterge anahtarın algılanmadığını söyler ve motor çalışmaz; arıza aralıklı görülür
+Alırken kontrol edin
+Anahtarsız kilit açmayı ve çalıştırmayı birkaç kez deneyin; yedek anahtarı da test edin
+Düşük Lastik basınç uyarısının yersiz yanması 2020–2023 Onarım maliyeti düşük
+Belirtiler
+Lastik basınçları doğru olduğu halde basınç uyarısı yanar ya da sık sık tekrarlar
+Alırken kontrol edin
+Basınçları ölçüp sistemi sıfırlayın; uyarının kısa sürüşte geri gelip gelmediğine bakın
+Elektrik motorunda · 1
+Kritik Yüksek gerilim kablo demetinde kusur, yangın riski (geri çağırma) 2022–2022 Onarım maliyeti düşük
+Belirtiler
+Belirgin bir belirti vermeyebilir; kusurlu kablo demeti kısa devreye ve yangına yol açabilir
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla yüksek gerilim kablo demeti geri çağırmasının yapılıp yapılmadığını sorun
+2008 I (A94) 2016–2019 3 sorun
+Kritik Arka aks bağlantı cıvatalarının kırılma riski (geri çağırma) 2019–2019 Onarım maliyeti düşük
+Belirtiler
+Arka takımdan vuruntu, araç yolda savrulma eğilimi gösterir; en kötü durumda arka aks bağlantısı kopar
+Alırken kontrol edin
+2019 ilk yarısında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; arka aks bağlantılarını lifte kontrol ettirin
+Kritik Marş motoru rölesi arızası: marşın basmaması ya da kendiliğinden çalışması (geri çağırma) 2016–2016 Onarım maliyeti düşük
+Belirtiler
+Marş basmaz ya da sürekli devrede kalır; marş motoru aşırı ısınıp yangın çıkarabilir, araç beklenmedik şekilde hareket edebilir
+Alırken kontrol edin
+2016 ortasında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; birkaç kez çalıştırıp marşın normal devreden çıktığını dinleyin
+Orta Multimedya dokunmatik ekranının donması ve Bluetooth bağlantı sorunları Onarım maliyeti orta
+Belirtiler
+Ekran kilitlenir, dokunmaya tepki vermez ya da ses tamamen kesilir; telefon bağlantısı kopar
+Alırken kontrol edin
+Telefonu eşleştirip müzik ve arama deneyin; ekranı 15 dakika kullanın, yazılım güncellemesinin yapılıp yapılmadığını serviste sorun
+2008 I (A94) 2013–2016 7 sorun
+Kritik Ön salıncak bağlantı cıvatalarının gevşemesi ya da kırılması (geri çağırma) 2013–2014 Onarım maliyeti düşük
+Belirtiler
+Ön takımdan vuruntu ve boşluk hissi; en kötü durumda salıncak yerinden çıkar ve direksiyon hakimiyeti kaybolur
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla salıncak bağlantısı geri çağırmasının yapılıp yapılmadığını sorun; ön takımı lifte kaldırıp kontrol ettirin
+Kritik Ön alt şasinin paslanmaya karşı korumasının yetersiz olması (geri çağırma) 2015–2015 Onarım maliyeti düşük
+Belirtiler
+Ön alt şasi içten paslanır, zamanla çatlayabilir; ön takım ve direksiyon hakimiyeti etkilenir
+Alırken kontrol edin
+2015 başında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; alt şasiyi lifte paslanma ve çatlak için kontrol ettirin
+Kritik Yakıt deposundaki geri dönüşsüz valfin kusurlu olması (geri çağırma) 2015–2015 Onarım maliyeti düşük
+Belirtiler
+Depo çevresinde yakıt kokusu ya da sızıntı; yangın riski taşır
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla yakıt deposu geri çağırmasının yapılıp yapılmadığını sorun; depo altını sızıntı izine karşı kontrol edin
+Kritik El freninin fabrikada yanlış ayarlanması, aracı tutmaması (geri çağırma) 2014–2015 Onarım maliyeti düşük
+Belirtiler
+El freni kolu sonuna kadar çekilmezse araç yokuşta ya da park halinde kayabilir
+Alırken kontrol edin
+Yokuşta el frenini normal kuvvetle çekip aracın tutup tutmadığını deneyin; şasi numarasıyla geri çağırma kaydını sorun
+Kritik Ön emniyet kemeri bağlantı vidasının yeterince sıkılmaması (geri çağırma) 2015–2015 Onarım maliyeti düşük
+Belirtiler
+Kemer bağlantısı gevşek kalabilir; kaza anında kemer yeterli koruma sağlamayabilir
+Alırken kontrol edin
+2015 ortasında üretilen araçlarda şasi numarasıyla geri çağırma kaydını sorun; kemer bağlantılarında oynama olup olmadığına bakın
+Orta Multimedya dokunmatik ekranının donması ve Bluetooth bağlantı sorunları Onarım maliyeti orta
+Belirtiler
+Ekran kilitlenir ya da kendiliğinden yeniden başlar; telefon bağlanmaz, müzik listeleri açılmaz, Bluetooth menüsü kaybolabilir
+Alırken kontrol edin
+Telefonu eşleştirip müzik ve arama deneyin; ekranı 15 dakika kullanın, yazılım sürümünü serviste sorun
+Orta Klima gaz kaçağı ve kompresör arızası 2013–2016 Onarım maliyeti orta
+Belirtiler
+Klima soğutmaz ya da ılık hava verir; gaz dolumundan kısa süre sonra soğutma yine düşer
+Alırken kontrol edin
+Sıcak havada klimayı 10 dakika çalıştırıp havalandırma çıkışının soğuduğunu kontrol edin; kondenser bağlantılarında yağlı iz arayın
+Tüm nesillerde (motor ve şanzıman) 28 sorun
+STLA-ZK02-115kW-FWD motorunda · 3
+Kritik Kalkışta aracın seçilen yönün tersine hareket etmesi (geri çağırma) 2023–2023 Onarım maliyeti düşük
+Belirtiler
+Motor ve gövde beyni arasındaki iletişim hatasıyla araç ileri yerine geri ya da tersi yönde hareket edebilir
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla geri çağırma yazılım güncellemesinin yapıldığını sorun
+Yüksek Dahili şarj cihazı arızası 2023–2023 Onarım maliyeti yüksek
+Belirtiler
+Evde ya da AC istasyonda şarj olmaz; hızlı DC şarj çalışmaya devam eder
+Alırken kontrol edin
+Aracı bir AC şarj ünitesinde şarj edin; serviste şasi numarasıyla şarj cihazı ek garanti kapsamını sorun
+Orta 12 V akünün boşalması ve elektrikli sürüş sistemi hatası 2023–2024 Onarım maliyeti düşük
+Belirtiler
+Araç açılmaz ya da hazır moduna geçmez, ekranda sistem hatası uyarısı çıkar
+Alırken kontrol edin
+12 V akünün tarihine ve voltajına baktırın; servis kayıtlarında akü değişimi ve yazılım güncellemesi var mı sorun
+EB-1.2PureTech-T motorunda · 2
+Kritik Yağ içinde çalışan triger kayışının bozulması Onarım maliyeti yüksek
+Belirtiler
+Kayış şişer ve parçalanır, parçalar yağ süzgecini tıkar; yağ basıncı uyarısı, kayış koparsa motor ağır hasar görür
+Alırken kontrol edin
+Kayış değişim ve bakım faturalarını isteyin; uzatılmış garanti kapsamını şasi numarasıyla yetkili serviste sorun
+Yüksek Yağ tüketimi ve yakıtla yağ incelmesi Onarım maliyeti yüksek
+Belirtiler
+Yağ seviyesi düşer, kısa mesafe kullanımda yağ yakıtla incelir ve kayışı bozar
+Alırken kontrol edin
+Yağ çubuğuna bakın; bakım arasında yağ eklenip eklenmediğini sorun
+DV5-1.5BlueHDi motorunda · 2
+Kritik Eksantrik zincirinin erken aşınması ve kopması 2017–2023 Onarım maliyeti yüksek
+Belirtiler
+Motordan anormal metalik ses gelir; zincir koparsa supaplar pistona çarpar ve motor ağır hasar görür
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla zincir kontrol kampanyası ve garanti uzatması kaydını sorun; soğuk çalıştırmada motoru dinleyin
+Yüksek AdBlue deposu ve pompasının arızalanması 2017–2020 Onarım maliyeti yüksek
+Belirtiler
+AdBlue uyarısı yanar, depo dolu olsa da boş görünür; geri sayım bitince motor çalışmaz ya da güç kısılır
+Alırken kontrol edin
+AdBlue uyarı geçmişini ve depo değişim kaydını sorun; yetkili serviste özel kapsam kaydına baktırın
+EB-1.2PureTech-T-MHEV motorunda · 1
+Kritik 48V marş-şarj ünitesinde elektrik arkı (geri çağırma) 2023–2026 Onarım maliyeti düşük
+Belirtiler
+Islak havada ünitenin kutup kapağına su girer; ünite aşırı ısınır, en kötü durumda motor bölmesinde yangın çıkar
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla geri çağırma kaydını sorun
+EB-1.2PureTech-NA motorunda · 2
+Kritik Piston soğutma yağ memesi kusuru (geri çağırma) 2022–2024 Onarım maliyeti düşük
+Belirtiler
+Hasarlı meme krank milini ve yatakları bozabilir; motor arızası ve egzoza yağ kaçağıyla yangın riski
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla geri çağırma kaydını sorun
+Yüksek Yağ içindeki triger kayışının dağılması Onarım maliyeti yüksek
+Belirtiler
+Kayış parçaları yağ pompası süzgecini tıkar; yağ basıncı uyarısı yanar, ileri aşamada eksantrik ve supaplar zarar görür
+Alırken kontrol edin
+Kayış kontrol ve değişim kayıtlarını isteyin; serviste kayış genişliğini yağ dolum ağzından ölçtürün
+STLA-ECMP-100kW-FWD motorunda · 3
+Kritik Yazılım kaynaklı sürüş sırasında güç kesilmesi 2020–2023 Onarım maliyeti düşük
+Belirtiler
+Yolda uyarı lambası yanar, motor gücü kesilir; araç bir süre çalıştırılamayabilir
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla tahrik ve batarya yazılımı geri çağırmalarının yapılıp yapılmadığını sorun
+Yüksek Dahili şarj cihazı arızası 2020–2023 Onarım maliyeti yüksek
+Belirtiler
+Evde ya da AC istasyonda şarj olmaz veya çok yavaş şarj olur; hızlı DC şarj çalışmaya devam eder
+Alırken kontrol edin
+Aracı AC prizde birkaç dakika şarj edip şarj gücüne bakın; serviste şarj cihazı değişimi ve yazılım güncellemesi kaydını sorun
+Orta 12 V akünün boşalması Onarım maliyeti düşük
+Belirtiler
+Araç uzun süre park edildikten sonra açılmaz ya da sürüşe hazır moduna geçmez
+Alırken kontrol edin
+Aracı birkaç kez kapatıp açın; 12 V akünün yaşını ve yazılım güncellemelerini sorun
+EP6-1.6VTi motorunda · 5
+Yüksek Triger zinciri uzaması ve gergi arızası 80.000–120.000 km Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırmada metalik takırtı, arıza lambası; ihmal edilirse zincir atlayıp motor hasar görebilir
+Alırken kontrol edin
+Motoru tamamen soğukken çalıştırıp ilk saniyeleri dinleyin; zincir setinin değiştiğini gösteren kayıt isteyin
+Orta Termostat, su pompası ve genleşme kabı kaçağı 70.000 km sonrası Onarım maliyeti orta
+Belirtiler
+Antifriz eksilir, hararet göstergesi oynar; ihmal edilirse silindir kapak contası yanabilir
+Alırken kontrol edin
+Antifriz seviyesini ve motorun arkasındaki termostat ve su borusu çevresini sızıntı izi için kontrol edin
+Orta Değişken supap kontrol (Valvetronic) sistemi arızası Onarım maliyeti orta
+Belirtiler
+Arıza lambası, motor devir almaz ya da çekişi düşer, rölantide düzensizlik
+Alırken kontrol edin
+Arıza tespit cihazıyla supap kontrol sistemine ait kayıtlı hata olup olmadığına baktırın
+Orta Yağ tüketimi ve yağ kaçakları Onarım maliyeti düşük
+Belirtiler
+Yağ seviyesi bakımlar arasında düşer; motor üzerinde ve altında yağ izi
+Alırken kontrol edin
+Yağ çubuğunu kontrol edin, sahibine ne sıklıkla yağ eklediğini sorun; motor altında yağ izi arayın
+Orta Eksantrik faz ayar selenoidi ve dişlisi arızası Onarım maliyeti orta
+Belirtiler
+Rölantide düzensizlik, egzoz emisyon arıza lambası; temizlik geçici çözüm olur, sorun geri döner
+Alırken kontrol edin
+Arıza tespit cihazıyla eksantrik zamanlamasına ait hata kaydı olup olmadığına baktırın
+DV6-1.6TDCi motorunda · 4
+Yüksek Yağ yolları kurumla tıkanınca turbo arızası Onarım maliyeti yüksek
+Belirtiler
+Güç kaybı, turbodan ıslık sesi, mavi duman; kök neden giderilmezse yeni takılan turbo da kısa sürede bozulur
+Alırken kontrol edin
+Yağ değişim kayıtlarına bakın; turbo değiştiyse yağ besleme hatları ve karter süzgecinin de yenilendiğini sorun
+Orta Enjektör contalarının kaçırması 2005–2010 Onarım maliyeti orta
+Belirtiler
+Motor üstünde siyah kurum birikir, tıslama sesi ve egzoz kokusu gelir; kaçan gaz motor yağını kirletir
+Alırken kontrol edin
+Motor kapağını kaldırıp enjektör diplerinde kurum ve yağlı kir olup olmadığına bakın
+Orta EGR valfi arızası Onarım maliyeti orta
+Belirtiler
+Araç acil moda geçer, güç düşer, rölanti bozulur ve arıza lambası yanar
+Orta Partikül filtresinin tıkanması Onarım maliyeti orta
+Belirtiler
+Uyarı lambası yanar, güç kısılır; yakıt yağa karışır, yağ seviyesi yükselir ve rölanti devri artar
+Alırken kontrol edin
+Yağ çubuğunda seviyenin üst çizgiyi aşıp aşmadığına, filtre katkı sıvısının zamanında yenilendiğine bakın
+6 ileri e-DCT şanzımanında · 1
+Kritik Şanzıman yazılımı kaynaklı kavrama açılması (geri çağırma) 2023–2024 Onarım maliyeti düşük
+Belirtiler
+Kavramalar sürüş sırasında aniden açılır, araç çekişini kaybeder
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla şanzıman ve motor beyni yazılım güncellemesinin yapılıp yapılmadığını sorun
+4 ileri otomatik (DP0) şanzımanında · 3
+Kritik Aşırı ısınma ve şanzıman yağının bozulması Onarım maliyeti yüksek
+Belirtiler
+Sıcakken kayma, vites geçmeme; yağ yanık kokar
+Alırken kontrol edin
+Uzun deneme sürüşü yapın, yağın rengine ve kokusuna bakın; LPG'li ve radyatörü tıkalı araçta dikkatli olun
+Kritik Valf gövdesi ve filtre kirlenmesiyle kavrama aşınması Onarım maliyeti yüksek
+Belirtiler
+Yükte devir kaçırma ve kayma, sert ya da gecikmeli geçişler
+Alırken kontrol edin
+Sıcak motorda yükte kayma olup olmadığını deneyin; şanzıman yağı değişim kaydını sorun
+Yüksek Basınç ayar selenoidi arızası: şanzımanın 3. viteste kalması 100.000 km sonrası Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırdıktan birkaç dakika sonra sert geçiş, 'vites kutusunu kontrol ettirin' uyarısı, 3. viteste kalır
+Alırken kontrol edin
+Soğuk motorla 5–10 dakika sürün, uyarı ve 3. viteste kalma olup olmadığına bakın
+8 ileri otomatik şanzımanında · 2
+Yüksek Tork konvertörü titremesi ve kirlenmiş solenoidler 100.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Hafif gazda titreme, kayma, vites geçişlerinde düzensizlik; ağır durumda şanzıman değişimi
+Alırken kontrol edin
+Şanzıman yağının 60-80 bin km'de değiştiğini sorun; 60-80 km/s sabit hızda hafif gazda titreme olmamalı
+Orta Düşük hızda sarsıntılı ve gecikmeli vites geçişi Onarım maliyeti düşük
+Belirtiler
+Şehir içinde 1-2 ve 2-3 geçişlerinde vuruntu, yavaşlarken sert vites küçültme; çoğu yazılım güncellemesiyle düzelir
+Alırken kontrol edin
+Soğuk motorla dur-kalk trafikte geçişleri deneyin; serviste şanzıman yazılım güncellemesinin yapıldığını sorun
+Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
+Araclo
+Otomobil platformu ve araç özellikleri rehberi.
+master@araclo.com
+İletişim Formu → Tüm Özellikler
+Güvenlik
+SSL Şifreli Bağlantı
+Cloudflare
+Yasal Bilgiler
+KVKK Aydınlatma Metni Gizlilik Politikası Kullanım Şartları Forum ve Yorum Kuralları Çerez Politikası Telif ve İçerik Lisansı Teknik ve Hukuki Sorumluluk Reddi Çerez Ayarları
+© 2026 Araclo. Tüm hakları saklıdır.
