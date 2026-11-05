@@ -18,7 +18,7 @@ def parse_range(s):
     devam = bool(re.search(r'present|günümüz|ongoing|current', s, re.I))
     return min(ys), (None if devam else max(ys))
 
-rows, ozet = [], {'uyumlu': 0, 'celiski': 0, 'belirsiz': 0, 'hata': 0}
+rows, ozet = [], {'uyumlu': 0, 'aralikta': 0, 'celiski': 0, 'belirsiz': 0, 'hata': 0}
 for r in sonuc:
     b = bizim.get(r['id'])
     if 'hata' in r:
@@ -38,8 +38,8 @@ for r in sonuc:
         elif any(abs(frm - g) <= 1 for g in gen_starts):
             durum, neden = 'uyumlu', f'başlangıç {frm}, bir nesil başlangıcıyla (±1) uyumlu: {gen_starts}'
         else:
-            durum, neden = 'belirsiz', f'başlangıç {frm} hiçbir nesil başlangıcıyla eşleşmiyor: {gen_starts}'
-    ozet[{'uyumlu': 'uyumlu', 'celiski': 'celiski'}.get(durum, 'belirsiz')] += 1
+            durum, neden = 'aralikta', f'başlangıç {frm} Wikipedia üretim aralığında ({wb}-{we or "günümüz"}); nesil başlangıcıyla eşleşmiyor {gen_starts} (Türkiye lansmanı sonradan olabilir)'
+    ozet[durum if durum in ozet else 'belirsiz'] += 1
     rows.append([r['id'], r['marka'], r['model'], b, r['uretim'], ' | '.join(map(str, gen_starts)), durum, neden])
 
 with open('cikti/karsilastirma.csv', 'w', encoding='utf-8-sig', newline='') as f:
@@ -50,6 +50,10 @@ print('\n--- ÇELİŞKİ ve HATA satırları (bunları Claude\'a yapıştırın)
 for r in rows:
     if r[6] in ('celiski', 'hata'):
         print(r[0], '|', r[1], r[2], '| bizim', r[3], '| wiki', r[4], '|', r[7])
+print('\n--- ARALIKTA (çelişki yok, nesil eşleşmesi yok) ---')
+for r in rows:
+    if r[6] == 'aralikta':
+        print(r[0], '|', r[3], '|', r[4], '|', r[7][:110])
 print('\n--- BELİRSİZ ---')
 for r in rows:
     if r[6] == 'belirsiz':

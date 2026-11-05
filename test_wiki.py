@@ -24,3 +24,17 @@ assert clean('{{ubl|2022–present (China)|2024–present (Turkey)}}') == '2022�
 assert clean('{{unbulleted list|2018–2020|{{start date|2021}}–present}}').startswith('2018–2020; 2021'), clean('{{unbulleted list|2018–2020|{{start date|2021}}–present}}')
 assert years_in(clean('{{plainlist|\n* 2019–2023\n* 2024–present\n}}')) == [2019, 2023, 2024]
 print('test_wiki: ubl/plainlist geçti')
+
+ORNEK3 = """{{Infobox automobile
+| name = Test
+| production = {{ubl
+|2018–2026 (China)<ref>{{cite web |url=http://x |title=a}}</ref>
+|July 2017 – present<ref name="r">gerçek</ref>
+}}
+| model_years = 2019–present
+| assembly = [[Kvasiny]], [[Czech Republic|Czechia]]
+}}"""
+f3 = infobox_fields(ORNEK3)
+assert set(['name', 'production', 'model_years', 'assembly']) <= set(f3), list(f3)
+assert years_in(clean(f3['production'])) == [2018, 2026, 2017], clean(f3['production'])
+print('test_wiki: çok satırlı ubl geçti')

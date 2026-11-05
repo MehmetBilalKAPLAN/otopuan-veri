@@ -4,6 +4,8 @@ import json, re, time, urllib.parse, urllib.request
 
 UA = 'OtoPuanVeri/0.1 (https://github.com/MehmetBilalKAPLAN/otopuan-veri)'
 API = 'https://en.wikipedia.org/w/api.php'
+# Anlam ayrımı sayfasına giden bağlantıların elle düzeltmesi (id -> sayfa)
+WK_DUZELTME = {'egeacross': 'Fiat_Tipo_(2015)', 'jazz': 'Honda_Fit'}
 
 def wikitext(title):
     q = urllib.parse.urlencode({'action': 'parse', 'page': title.replace('_', ' '), 'prop': 'wikitext',
@@ -14,6 +16,32 @@ def wikitext(title):
     if 'error' in d:
         raise RuntimeError(d['error'].get('info', 'hata'))
     return d['parse']['title'], d['parse']['wikitext']
+
+def split_fields(block):
+    """Bilgi kutusu bloğunu üst düzey '| ad = değer' alanlarına ayırır; iç içe {{...}} ve [[...]] içindeki '|' işaretlerini bölmez."""
+    fields, depth_c, depth_b, cur = {}, 0, 0, []
+    i, n = 0, len(block)
+    parts, buf = [], ''
+    while i < n:
+        two = block[i:i + 2]
+        if two == '{{': depth_c += 1; buf += two; i += 2; continue
+        if two == '}}': depth_c -= 1; buf += two; i += 2; continue
+        if two == '[[': depth_b += 1; buf += two; i += 2; continue
+        if two == ']]': depth_b -= 1; buf += two; i += 2; continue
+        ch = block[i]
+        if ch == '|' and depth_c == 1 and depth_b == 0:
+            parts.append(buf); buf = ''
+        else:
+            buf += ch
+        i += 1
+    parts.append(buf)
+    for p in parts[1:]:
+        if '=' in p:
+            k, v = p.split('=', 1)
+            k = k.strip().lower()
+            if k and '{' not in k and '[' not in k:
+                fields[k] = v.strip()
+    return fields
 
 def infobox_fields(text):
     """İlk {{Infobox automobile ...}} bloğundaki alanları sözlük olarak döndürür."""
@@ -32,13 +60,8 @@ def infobox_fields(text):
         else:
             j += 1
     block = text[start:j]
-    if block.endswith('}}'): block = block[:-2]
-    fields = {}
-    for line in re.split(r'\n\s*\|', block)[1:]:
-        if '=' in line:
-            k, v = line.split('=', 1)
-            fields[k.strip().lower()] = v.strip()
-    return fields
+    f = split_fields(block)
+    return {k: (v[:-2].rstrip() if v.endswith('}}') and v.count('{{') < v.count('}}') else v) for k, v in f.items()}
 
 def all_infoboxes(text):
     """Sayfadaki tüm {{Infobox automobile}} bloklarını (nesil bölümlerinde de bulunur) alan sözlükleri olarak döndürür."""
@@ -58,12 +81,9 @@ def all_infoboxes(text):
             else:
                 j += 1
         block = text[start:j]
-        if block.endswith('}}'): block = block[:-2]
-        fields = {}
-        for line in re.split(r'\n\s*\|', block)[1:]:
-            if '=' in line:
-                k, v = line.split('=', 1); fields[k.strip().lower()] = v.strip()
-        out.append(fields); pos = max(j, start + 2)
+        f = split_fields(block)
+        out.append({k: (v[:-2].rstrip() if v.endswith('}}') and v.count('{{') < v.count('}}') else v) for k, v in f.items()})
+        pos = max(j, start + 2)
     return out
 
 def clean(v):
@@ -119,11 +139,35 @@ def probe(title):
                             'model_yillari': clean(b.get('model_years', ''))} for b in all_infoboxes(text)],
     }
 
+def search_titles(q, n=5):
+    qs = urllib.parse.urlencode({'action': 'query', 'list': 'search', 'srsearch': q, 'srlimit': n,
+                                 'format': 'json', 'formatversion': 2})
+    req = urllib.request.Request(API + '?' + qs, headers={'User-Agent': UA})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        d = json.load(r)
+    return [x['title'] for x in d.get('query', {}).get('search', [])]
+
+def probe_with_fallback(title, ad):
+    """Önce verilen sayfayı dener; bilgi kutusu/üretim yoksa (ör. anlam ayrımı sayfası) arama sonuçlarını sırayla dener."""
+    r = probe(title)
+    if r['uretim_yillari']:
+        return r
+    for t in search_titles(ad + ' car'):
+        time.sleep(0.5)
+        try:
+            r2 = probe(t)
+        except Exception:
+            continue
+        if r2['uretim_yillari']:
+            r2['yedek_arama'] = 'sayfa ' + title + ' yerine ' + t + ' kullanıldı'
+            return r2
+    return r
+
 def run(items, wait=1.0):
     out = []
     for it in items:
         try:
-            r = probe(it['wk'])
+            r = probe_with_fallback(WK_DUZELTME.get(it['id'], it['wk']), it['marka'] + ' ' + it['model'].split('(')[0].strip())
             r.update({'id': it['id'], 'marka': it['marka'], 'model': it['model']})
         except Exception as e:
             r = {'id': it['id'], 'marka': it['marka'], 'model': it['model'], 'hata': str(e)}
