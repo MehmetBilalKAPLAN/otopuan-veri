@@ -19,3 +19,8 @@ ORNEK2 = ORNEK + "\n{{Infobox automobile\n| name = Nesil 2\n| production = 2022�
 ib = all_infoboxes(ORNEK2)
 assert len(ib) == 2 and clean(ib[1]['production']) == '2022–2025', ib
 print('test_wiki: çoklu bilgi kutusu geçti')
+
+assert clean('{{ubl|2022–present (China)|2024–present (Turkey)}}') == '2022–present (China); 2024–present (Turkey)', clean('{{ubl|2022–present (China)|2024–present (Turkey)}}')
+assert clean('{{unbulleted list|2018–2020|{{start date|2021}}–present}}').startswith('2018–2020; 2021'), clean('{{unbulleted list|2018–2020|{{start date|2021}}–present}}')
+assert years_in(clean('{{plainlist|\n* 2019–2023\n* 2024–present\n}}')) == [2019, 2023, 2024]
+print('test_wiki: ubl/plainlist geçti')

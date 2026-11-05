@@ -17,7 +17,7 @@ def wikitext(title):
 
 def infobox_fields(text):
     """İlk {{Infobox automobile ...}} bloğundaki alanları sözlük olarak döndürür."""
-    m = re.search(r'\{\{\s*Infobox automobile\b', text, re.I)
+    m = re.search(r'\{\{\s*Infobox (?:automobile|car)\b', text, re.I)
     if not m:
         return {}
     i, depth, start = m.start(), 0, m.start()
@@ -44,7 +44,7 @@ def all_infoboxes(text):
     """Sayfadaki tüm {{Infobox automobile}} bloklarını (nesil bölümlerinde de bulunur) alan sözlükleri olarak döndürür."""
     out, pos = [], 0
     while True:
-        m = re.search(r'\{\{\s*Infobox automobile\b', text[pos:], re.I)
+        m = re.search(r'\{\{\s*Infobox (?:automobile|car)\b', text[pos:], re.I)
         if not m:
             break
         start = pos + m.start(); j = start; depth = 0
@@ -70,6 +70,12 @@ def clean(v):
     v = re.sub(r'<ref[^>]*?/>|<ref[^>]*?>.*?</ref>', '', v, flags=re.S)
     v = re.sub(r'\{\{\s*(?:start date|end date)[^|}]*\|(\d{4})[^}]*\}\}', r'\1', v, flags=re.I)
     v = re.sub(r'\{\{\s*(?:nowrap|nobr)\s*\|([^}]*)\}\}', r'\1', v, flags=re.I)
+    for _ in range(4):
+        v2 = re.sub(r'\{\{\s*(?:unbulleted list|ubl|plainlist|flatlist|hlist|ublist|unbulleted)\s*\|([^{}]*)\}\}',
+                    lambda m: '; '.join(x.strip(' *') for x in m.group(1).split('|') if x.strip(' *')), v, flags=re.I)
+        if v2 == v:
+            break
+        v = v2
     v = re.sub(r'\[\[(?:[^|\]]*\|)?([^\]]*)\]\]', r'\1', v)
     v = re.sub(r'<br\s*/?>', '; ', v)
     v = re.sub(r"'''?|<[^>]+>", '', v)
@@ -91,7 +97,18 @@ def probe(title):
     page_title, text = wikitext(title)
     f = infobox_fields(text)
     prod = clean(f.get('production', ''))
+    kutular = all_infoboxes(text)
+    if not prod:
+        for b in kutular:
+            p = clean(b.get('production', ''))
+            if p:
+                prod = p; break
+    if not prod:
+        m = re.search(r'\|\s*production\s*=\s*(.+)', text)
+        if m:
+            prod = clean(m.group(1))
     return {
+        'ham_alanlar': sorted(f.keys())[:25],
         'sayfa': page_title,
         'url': 'https://en.wikipedia.org/wiki/' + urllib.parse.quote(page_title.replace(' ', '_')),
         'uretim': prod,

@@ -28,7 +28,7 @@ for r in sonuc:
     ranges = [parse_range(k['uretim']) for k in r.get('bilgi_kutulari', [])] + [(wb, we)]
     starts = sorted({x[0] for x in ranges if x[0]})
     gen_starts = sorted(set(starts) | {y for h in r['nesil_basliklari'] for y in years_in(h)[:1]})
-    durum, neden = 'belirsiz', 'Wikipedia yılı bulunamadı'
+    durum, neden = 'belirsiz', 'Wikipedia yılı bulunamadı | ham üretim: ' + repr(r['uretim'])[:60] + ' | alanlar: ' + ','.join(r.get('ham_alanlar', [])[:12])
     if b and wb:
         frm, to = b[0], b[1]
         if frm < wb:
