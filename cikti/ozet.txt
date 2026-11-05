@@ -2,7 +2,7 @@
 
 --- ÇELİŞKİ ve HATA satırları (bunları Claude'a yapıştırın) ---
 crossland | Opel Crossland | bizim [2017, 2026, 'D'] | wiki 2017–2024 | bizim bitiş 2026, Wikipedia üretim bitişi 2024
-seal | BYD Seal | bizim [2024, 2026, 'V'] | wiki January 2025 – present | bizim başlangıç 2024, Wikipedia üretim başlangıcı 2025
+seal | BYD Seal | bizim [2024, 2026, 'D'] | wiki January 2025 – present | bizim başlangıç 2024, Wikipedia üretim başlangıcı 2025
 
 --- ARALIKTA (çelişki yok, nesil eşleşmesi yok) ---
 egeacross | [2021, 2026, 'K'] | 2015–2026; 1,417,047 built | başlangıç 2021 Wikipedia üretim aralığında (2015-2026); nesil başlangıcıyla eşleşmiyor [2015] (Türkiye lansman
