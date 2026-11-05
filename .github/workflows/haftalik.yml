@@ -40,19 +40,35 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Bağlantı denemesi (NHTSA ve araclo erişilebilir mi)
+        continue-on-error: true
+        run: |
+          for u in "https://api.nhtsa.gov/recalls/recallsByVehicle?make=honda&model=civic&modelYear=2020" "https://www.araclo.com/vehicles/honda-civic/kronik-sorunlar"; do
+            curl -s -m 15 -o /dev/null -A "otopuan-veri/1.0" -w "$u -> HTTP %{http_code} %{time_total}s\n" "$u" || echo "$u -> BAGLANTI HATASI"
+          done | tee cikti_baglanti.txt
+          { echo '### Bağlantı denemesi'; echo '```'; cat cikti_baglanti.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
       - name: NHTSA resmi geri çağırma kayıtlarını çek
         continue-on-error: true
-        timeout-minutes: 12
+        timeout-minutes: 10
         run: |
-          python nhtsa.py | tee cikti/nhtsa_ozet.txt
-          { echo '### NHTSA özeti'; echo '```'; tail -n 3 cikti/nhtsa_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          python nhtsa.py > cikti/nhtsa_ozet.txt || true
+
+      - name: NHTSA özeti
+        if: always()
+        run: |
+          { echo '### NHTSA özeti'; echo '```'; tail -n 4 cikti/nhtsa_ozet.txt 2>/dev/null || echo 'çıktı yok'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
 
       - name: araclo.com sayfa metinlerini indir (ham veri)
         continue-on-error: true
-        timeout-minutes: 12
+        timeout-minutes: 10
         run: |
-          python araclo.py | tee cikti/araclo_ozet.txt
-          { echo '### araclo özeti'; echo '```'; tail -n 2 cikti/araclo_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          python araclo.py > cikti/araclo_ozet.txt || true
+
+      - name: araclo özeti
+        if: always()
+        run: |
+          { echo '### araclo özeti'; echo '```'; tail -n 4 cikti/araclo_ozet.txt 2>/dev/null || echo 'çıktı yok'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Değişiklik varsa depoya işle
         run: |
