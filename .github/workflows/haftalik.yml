@@ -46,7 +46,11 @@ jobs:
             echo "Değişiklik yok."
           else
             git commit -m "Haftalık veri güncellemesi $(date -u +%F)"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push && break
+              echo "Push denemesi $i başarısız, tekrar deneniyor"
+              sleep 5
+            done
           fi
 
       - name: Hosting'e yükle (FTP bilgileri tanımlıysa)
