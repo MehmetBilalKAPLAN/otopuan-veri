@@ -24,14 +24,19 @@ def metin(h):
     h = html.unescape(re.sub(r'<[^>]+>', ' ', h))
     return '\n'.join(x for x in (re.sub(r'[ \t]+', ' ', l).strip() for l in h.split('\n')) if x)
 
+ARD = [0]
+
 def indir(url, ham=None):
     if ham is not None: return 200, ham
+    if ARD[0] >= 8: return 0, 'ag_kesildi'
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=30) as r:
+        with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=15) as r:
+            ARD[0] = 0
             return r.status, r.read().decode('utf-8', 'replace')
     except urllib.error.HTTPError as e:
         return e.code, ''
     except Exception as e:
+        ARD[0] += 1
         return 0, str(e)
 
 def run(items, bekle=2.0, izin=None):

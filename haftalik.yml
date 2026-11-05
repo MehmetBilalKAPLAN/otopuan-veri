@@ -1,0 +1,96 @@
+name: Haftalik veri guncelleme
+
+on:
+  schedule:
+    - cron: '17 4 * * 1'      # her Pazartesi 04:17 UTC (Türkiye saatiyle 07:17)
+  workflow_dispatch:           # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write              # güncel çıktıyı depoya işlemek için
+
+concurrency:
+  group: veri-guncelleme
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Birim test (ağsız)
+        run: |
+          python test_wiki.py
+          python test_nhtsa.py
+          python test_araclo.py
+
+      - name: Wikipedia'dan nesil ve yılları çek, karşılaştır
+        run: |
+          mkdir -p cikti
+          python hepsi.py | tee cikti/ozet.txt
+          {
+            echo '### Oto Puan veri güncelleme özeti'
+            echo '```'
+            head -n 60 cikti/ozet.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Bağlantı denemesi (NHTSA ve araclo erişilebilir mi)
+        continue-on-error: true
+        run: |
+          for u in "https://api.nhtsa.gov/recalls/recallsByVehicle?make=honda&model=civic&modelYear=2020" "https://www.araclo.com/vehicles/honda-civic/kronik-sorunlar"; do
+            curl -s -m 15 -o /dev/null -A "otopuan-veri/1.0" -w "$u -> HTTP %{http_code} %{time_total}s\n" "$u" || echo "$u -> BAGLANTI HATASI"
+          done | tee cikti_baglanti.txt
+          { echo '### Bağlantı denemesi'; echo '```'; cat cikti_baglanti.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: NHTSA resmi geri çağırma kayıtlarını çek
+        continue-on-error: true
+        timeout-minutes: 10
+        run: |
+          python nhtsa.py > cikti/nhtsa_ozet.txt || true
+
+      - name: NHTSA özeti
+        if: always()
+        run: |
+          { echo '### NHTSA özeti'; echo '```'; tail -n 4 cikti/nhtsa_ozet.txt 2>/dev/null || echo 'çıktı yok'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: araclo.com sayfa metinlerini indir (ham veri)
+        continue-on-error: true
+        timeout-minutes: 10
+        run: |
+          python araclo.py > cikti/araclo_ozet.txt || true
+
+      - name: araclo özeti
+        if: always()
+        run: |
+          { echo '### araclo özeti'; echo '```'; tail -n 4 cikti/araclo_ozet.txt 2>/dev/null || echo 'çıktı yok'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Değişiklik varsa depoya işle
+        run: |
+          git config user.name  "otopuan-bot"
+          git config user.email "otopuan-bot@users.noreply.github.com"
+          git add cikti
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+          else
+            git commit -m "Haftalık veri güncellemesi $(date -u +%F)"
+            git push
+          fi
+
+      - name: Hosting'e yükle (FTP bilgileri tanımlıysa)
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_DIR:  ${{ secrets.FTP_DIR }}
+        run: |
+          if [ -z "$FTP_HOST" ] || [ -z "$FTP_USER" ] || [ -z "$FTP_PASS" ]; then
+            echo "FTP secret'ları tanımlı değil, yükleme atlandı."
+          else
+            python deploy_ftp.py cikti/nesiller.json cikti/karsilastirma.csv cikti/geri_cagirma.json
+          fi

@@ -13,14 +13,21 @@ def sorgu_model(ad, marka):
     if ad in MODEL: return MODEL[ad]
     return re.split(r'\s*[/(]', ad)[0].strip()
 
-def getir(url, deneme=3):
+ARD_HATA = [0]
+SINIR = 20
+
+def getir(url, deneme=2):
+    if ARD_HATA[0] >= SINIR:
+        return {'hata': 'ag_kesildi'}
     for i in range(deneme):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'otopuan-veri/1.0'}), timeout=30) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'otopuan-veri/1.0'}), timeout=10) as r:
+                ARD_HATA[0] = 0
                 return json.load(r)
         except Exception as e:
             son = str(e)
-            time.sleep(2 * (i + 1))
+            ARD_HATA[0] += 1
+            time.sleep(1)
     return {'hata': son}
 
 def model_icin(item, yillar, bekle=0.3):
