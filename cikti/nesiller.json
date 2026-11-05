@@ -40,7 +40,7 @@
    },
    {
     "ad": "Clio II",
-    "uretim": "{{ubl",
+    "uretim": "1998–2012 (France) ; 1998–2012 (Spain); 2000–2016 (Argentina) ; 2001–2017 (Colombia) ; 2000–2016 (Mexico) ; 1998–2015 (Slovenia)",
     "model_yillari": ""
    },
    {
@@ -329,10 +329,6 @@
  },
  {
   "ham_alanlar": [
-   "1.5 l ''[[renault k-type engine#k9k|k9k]] dci 100'' i4 turbo (north africa)<ref>{{cite web|url",
-   "[[dacia dokker]] (passenger version)<ref name",
-   "[[dacia lodgy]]<ref name",
-   "[[dacia logan mcv]]<ref name",
    "aka",
    "assembly",
    "battery",
@@ -346,14 +342,15 @@
    "layout",
    "length",
    "manufacturer",
-   "morocco: [[tangier]] (july 2024–present)<ref>{{cite web|url",
    "name",
    "platform",
    "predecessor",
    "production",
    "related",
-   "romania: [[mioveni]] (2021–2024)<ref>{{cite web|url",
-   "transmission"
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Dacia Jogger",
   "url": "https://en.wikipedia.org/wiki/Dacia_Jogger",
@@ -419,14 +416,45 @@
   "model": "Egea (Sedan / HB / SW)"
  },
  {
-  "ham_alanlar": [],
-  "sayfa": "Fiat Tipo",
-  "url": "https://en.wikipedia.org/wiki/Fiat_Tipo",
-  "uretim": "",
-  "uretim_yillari": [],
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
+  "sayfa": "Fiat Tipo (2015)",
+  "url": "https://en.wikipedia.org/wiki/Fiat_Tipo_%282015%29",
+  "uretim": "2015–2026; 1,417,047 built",
+  "uretim_yillari": [
+   2015,
+   2026
+  ],
   "model_yillari": "",
   "nesil_basliklari": [],
-  "bilgi_kutulari": [],
+  "bilgi_kutulari": [
+   {
+    "ad": "Fiat Tipo",
+    "uretim": "2015–2026; 1,417,047 built",
+    "model_yillari": ""
+   }
+  ],
   "id": "egeacross",
   "marka": "Fiat",
   "model": "Egea Cross"
@@ -616,7 +644,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "November 2016 – September 2023 ; 2018–2025 (China)",
     "model_yillari": "2018-2022 (North America)"
    },
    {
@@ -643,8 +671,10 @@
   ],
   "sayfa": "Toyota Yaris",
   "url": "https://en.wikipedia.org/wiki/Toyota_Yaris",
-  "uretim": "{{unbulleted list",
-  "uretim_yillari": [],
+  "uretim": "January 1999 – present",
+  "uretim_yillari": [
+   1999
+  ],
   "model_yillari": "",
   "nesil_basliklari": [
    "First generation (XP10/XP20; 1999)",
@@ -656,7 +686,7 @@
   "bilgi_kutulari": [
    {
     "ad": "Toyota Yaris",
-    "uretim": "{{unbulleted list",
+    "uretim": "January 1999 – present",
     "model_yillari": ""
    }
   ],
@@ -666,19 +696,6 @@
  },
  {
   "ham_alanlar": [
-   "'''japan''': [[toyota, aichi]] ([[takaoka plant]] 2021–2025); [[kanegasaki, iwate]] (iwate plant 2025–present)<ref>{{cite news |date",
-   "'''taiwan''': [[zhongli district|zhongli]] ([[kuozui motors|kuozui]])<ref>{{cite web|title",
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "6.5-[[ampere hour|ah]] [[nickel-metal hydride]] (1.8&nbsp;l hybrid models 2020-2024)<ref>{{cite news |url",
-   "7",
-   "8",
-   "9",
-   "[[lexus ux]]<ref name",
    "aka",
    "assembly",
    "battery",
@@ -690,7 +707,20 @@
    "engine",
    "height",
    "image",
-   "layout"
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "transmission"
   ],
   "sayfa": "Toyota Corolla Cross",
   "url": "https://en.wikipedia.org/wiki/Toyota_Corolla_Cross",
@@ -713,7 +743,6 @@
  },
  {
   "ham_alanlar": [
-   "[[hino briska|toyota briska]]<ref name",
    "aka",
    "body_style",
    "caption",
@@ -774,7 +803,7 @@
    },
    {
     "ad": "Fourth generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "August 1983 – August 1988 ; 1984–1998 (South Africa) ; January 1985 – March 1987 (Uruguay) ; December 1985 – June 1991 (Peru)",
     "model_yillari": "1984–1988"
    },
    {
@@ -854,7 +883,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "May 1994 – May 2000 (RAV4) ; 1997–2003 (RAV4 EV)",
     "model_yillari": "1996–2000"
    },
    {
@@ -864,17 +893,17 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{unbulleted list",
-    "model_yillari": "{{unbulleted list"
+    "uretim": "November 2005 – December 2012 (export) ; November 2005 – May 2016 (Japan) ; September 2012 – September 2014 (RAV4 EV)",
+    "model_yillari": "2006–2012 (export) ; 2006–2016 (Japan)"
    },
    {
     "ad": "Fourth generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "December 2012 – November 2018 ; 2013–2019 (China)",
     "model_yillari": "2013–2018"
    },
    {
     "ad": "Fifth generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "November 2018 – December 2025 ; 2018–2022 (Russia)",
     "model_yillari": "2019–2025"
    },
    {
@@ -900,8 +929,11 @@
   ],
   "sayfa": "Toyota Yaris Cross",
   "url": "https://en.wikipedia.org/wiki/Toyota_Yaris_Cross",
-  "uretim": "{{unbulleted list",
-  "uretim_yillari": [],
+  "uretim": "2020–present (XP210) ; 2023–present (AC200)",
+  "uretim_yillari": [
+   2020,
+   2023
+  ],
   "model_yillari": "",
   "nesil_basliklari": [
    "XP210 series (2020)",
@@ -911,7 +943,7 @@
   "bilgi_kutulari": [
    {
     "ad": "Toyota Yaris Cross",
-    "uretim": "{{unbulleted list",
+    "uretim": "2020–present (XP210) ; 2023–present (AC200)",
     "model_yillari": ""
    },
    {
@@ -1035,7 +1067,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "November 2017 – November 2025 (SUV) ; November 2017 – 2027 (cabriolet)",
     "model_yillari": ""
    },
    {
@@ -1126,7 +1158,7 @@
    },
    {
     "ad": "Second generation",
-    "uretim": "{{ubl",
+    "uretim": "2016–2024 ; 2017–present (China) ; 2020–2026 (Tiguan X)",
     "model_yillari": "2018–2024 (North America)"
    },
    {
@@ -1404,18 +1436,13 @@
  },
  {
   "ham_alanlar": [
-   "2018–2026 (china)<ref>{{cite web |date",
    "assembly",
    "body_style",
-   "china: [[ningbo]] ([[saic volkswagen|saic-vw]])<ref>{{cite web|title",
    "class",
-   "czech republic: [[kvasiny]];<ref>{{cite web|title",
    "designer",
    "engine",
-   "germany: [[osnabrück]] (2018–2019)<ref name",
    "height",
    "image",
-   "july 2017 – present<ref>{{cite web | url",
    "layout",
    "length",
    "manufacturer",
@@ -1425,21 +1452,24 @@
    "predecessor",
    "production",
    "related",
-   "slovakia: [[bratislava]] ([[volkswagen bratislava plant]], 2020–2023)<ref>{{cite web |date",
    "transmission",
    "wheelbase",
    "width"
   ],
   "sayfa": "Škoda Karoq",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Karoq",
-  "uretim": "{{ubl",
-  "uretim_yillari": [],
+  "uretim": "July 2017 – present (Global) ; 2018–2026 (China)",
+  "uretim_yillari": [
+   2017,
+   2018,
+   2026
+  ],
   "model_yillari": "",
   "nesil_basliklari": [],
   "bilgi_kutulari": [
    {
     "ad": "Škoda Karoq",
-    "uretim": "{{ubl",
+    "uretim": "July 2017 – present (Global) ; 2018–2026 (China)",
     "model_yillari": ""
    }
   ],
@@ -1520,7 +1550,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "October 2016–2024 (Global) ; 2016–2026 (China)",
     "model_yillari": ""
    },
    {
@@ -1535,7 +1565,6 @@
  },
  {
   "ham_alanlar": [
-   "3-[[vehicle door|door]] [[hatchback]] (2013–2018)<ref>{{cite web|url",
    "aka",
    "body_style",
    "caption",
@@ -1746,7 +1775,6 @@
  },
  {
   "ham_alanlar": [
-   "2.5&nbsp;l [[turbo fuel stratified injection|tfsi]] [[straight-five engine|i5]] (vz5)<ref>{{cite web|url",
    "assembly",
    "battery",
    "body_style",
@@ -1792,7 +1820,6 @@
  },
  {
   "ham_alanlar": [
-   "3-[[vehicle door|door]] [[hatchback]] (2013–2018)<ref>{{cite web|url",
    "aka",
    "body_style",
    "caption",
@@ -1909,7 +1936,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{Unbulleted list",
+    "uretim": "2012–2020 ; October 2013–2020 (Convertible)",
     "model_yillari": "2015–2020 (saloon); 2015–2019 (convertible)"
    },
    {
@@ -1960,7 +1987,7 @@
    },
    {
     "ad": "First generation (B5/8D)",
-    "uretim": "1994 – 2001 ; 1,674,943 built",
+    "uretim": "November 1994 – 2001 (Germany); 1998–2003 (China; FAW-VW); 1997–2000 (Indonesia, Australia)-->",
     "model_yillari": ""
    },
    {
@@ -2456,7 +2483,6 @@
  },
  {
   "ham_alanlar": [
-   "257&nbsp;kw ([[direct current|dc]], 84&nbsp;kwh, ccs adapter)<ref>{{cite web|title",
    "assembly",
    "battery",
    "body_style",
@@ -2466,8 +2492,6 @@
    "electric_range",
    "height",
    "image",
-   "india: [[chennai]] ([[hyundai motor india|hmil]])<ref>{{cite web |title",
-   "indonesia: [[cikarang|cikarang, west java]] ([[hyundai motor manufacturing indonesia|hmmi]])<ref>{{cite web |title",
    "layout",
    "length",
    "manufacturer",
@@ -2478,9 +2502,11 @@
    "platform",
    "production",
    "related",
-   "singapore: [[jurong]] ([[list of hyundai motor company manufacturing facilities#hyundai motor group innovation center in singapore|hmgics]])<ref>{{cite news |last",
-   "south korea: [[ulsan]] ([[hyundai ulsan plant|ulsan plant 1]])<ref>{{cite web|last",
-   "sp"
+   "sp",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Hyundai Ioniq 5",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
@@ -2927,12 +2953,12 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "2002–2011 ; 2007–2009 (Russia)",
     "model_yillari": "2002–2009 (South Korea and Europe); 2003–2009 (North America)"
    },
    {
     "ad": "Second generation",
-    "uretim": "{{ubl",
+    "uretim": "2009–2014 ; 2009–2021 (Russia)",
     "model_yillari": "2010–2014 (South Korea and Europe); 2011–2015 (North America)"
    },
    {
@@ -3203,10 +3229,8 @@
    "class",
    "designer",
    "image",
-   "kazakhstan: [[kostanay]] (saryarka avtoprom)<ref>{{cite web|url",
    "layout",
    "manufacturer",
-   "morocco: [[casablanca]] (somaca casablanca plant)<ref>{{cite web |url",
    "name",
    "predecessor",
    "production",
@@ -3424,10 +3448,8 @@
    "class",
    "designer",
    "image",
-   "kazakhstan: [[kostanay]] (saryarka avtoprom)<ref>{{cite web|url",
    "layout",
    "manufacturer",
-   "morocco: [[casablanca]] (somaca casablanca plant)<ref>{{cite web |url",
    "name",
    "predecessor",
    "production",
@@ -3676,7 +3698,7 @@
    },
    {
     "ad": "Mokka A",
-    "uretim": "{{Unbulleted list",
+    "uretim": "2012–2019 (Vauxhall/Opel) ; 2012–2022 (Buick)",
     "model_yillari": "2013–2022 (Buick)"
    },
    {
@@ -3691,7 +3713,6 @@
  },
  {
   "ham_alanlar": [
-   "6-speed [[automatic transmission|automatic]]<ref>{{cite web|url",
    "aka",
    "assembly",
    "body_style",
@@ -3948,12 +3969,6 @@
  },
  {
   "ham_alanlar": [
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
    "assembly",
    "battery",
    "body_style",
@@ -3972,7 +3987,13 @@
    "platform",
    "powerout",
    "predecessor",
-   "production"
+   "production",
+   "related",
+   "sp",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Ford Puma (crossover)",
   "url": "https://en.wikipedia.org/wiki/Ford_Puma_%28crossover%29",
@@ -4037,7 +4058,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{ubl",
+    "uretim": "2019–2025 (North America) ; 2019–present (Europe) ; 2020–2026 (Taiwan)",
     "model_yillari": ""
    }
   ],
@@ -4185,7 +4206,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{ubl",
+    "uretim": "2021–present (UK) ; May 2023 – 2026 (China)",
     "model_yillari": ""
    }
   ],
@@ -4254,7 +4275,7 @@
    },
    {
     "ad": "Fourth generation",
-    "uretim": "{{ubl",
+    "uretim": "March 2010 – July 2022 (Thailand) ; May 2010 – April 2020 (India) ; October 2011 – September 2020 (Brazil) ; March 2011 – present (Mexico)",
     "model_yillari": ""
    },
    {
@@ -4320,7 +4341,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{ubl",
+    "uretim": "2013–2022 ; 2014–present (China) ; 2014–2019 (Indonesia) ; 2014–2020 (Thailand) ; 2015–2024 (Malaysia) ; 2018–2022 (Russia)",
     "model_yillari": ""
    },
    {
@@ -4553,14 +4574,50 @@
   "model": "HR-V"
  },
  {
-  "ham_alanlar": [],
-  "sayfa": "Honda Jazz",
-  "url": "https://en.wikipedia.org/wiki/Honda_Jazz",
-  "uretim": "",
-  "uretim_yillari": [],
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "successor"
+  ],
+  "sayfa": "Honda Fit",
+  "url": "https://en.wikipedia.org/wiki/Honda_Fit",
+  "uretim": "June 2001 – present",
+  "uretim_yillari": [
+   2001
+  ],
   "model_yillari": "",
-  "nesil_basliklari": [],
-  "bilgi_kutulari": [],
+  "nesil_basliklari": [
+   "First generation (GD/GE; 2001)",
+   "Second generation (GE/GG; 2007)",
+   "Third generation (GK/GH/GP; 2013)",
+   "Fourth generation (GR/GS; 2020)"
+  ],
+  "bilgi_kutulari": [
+   {
+    "ad": "Honda Fit/Jazz",
+    "uretim": "June 2001 – present",
+    "model_yillari": ""
+   },
+   {
+    "ad": "Third generation",
+    "uretim": "September 2013 – 2022",
+    "model_yillari": "2015–2020 (North America)"
+   },
+   {
+    "ad": "Fourth generation",
+    "uretim": "February 2020 – present",
+    "model_yillari": ""
+   }
+  ],
   "id": "jazz",
   "marka": "Honda",
   "model": "Jazz"
@@ -4731,8 +4788,6 @@
    "layout",
    "length",
    "manufacturer",
-   "maximum {{convert|580|km|miles|0|abbr",
-   "maximum {{convert|590|km|miles|0|abbr",
    "model_code",
    "model_years",
    "motor",
@@ -4742,7 +4797,9 @@
    "production",
    "related",
    "successor",
-   "transmission"
+   "transmission",
+   "weight",
+   "wheelbase"
   ],
   "sayfa": "BMW i4",
   "url": "https://en.wikipedia.org/wiki/BMW_i4",
@@ -4802,7 +4859,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "October 1996 – May 2004 ; February 1999 – September 2005 (Brazil)",
     "model_yillari": ""
    },
    {
@@ -4812,7 +4869,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{ubl",
+    "uretim": "July 2012 – May 2018 (Germany) ; August 2013 – May 2018 (Finland)",
     "model_yillari": "2013–2018"
    },
    {
@@ -5060,7 +5117,6 @@
    "image",
    "layout",
    "manufacturer",
-   "mini one (2001–2022)<ref>{{cite web |title",
    "model_years",
    "name",
    "predecessor",
@@ -5307,7 +5363,6 @@
    "body_style",
    "caption",
    "chassis",
-   "china: [[xi'an, shaanxi]]<ref>{{cite web |title",
    "class",
    "designer",
    "drivetrain",
@@ -5325,12 +5380,17 @@
    "production",
    "related",
    "successor",
-   "thailand: [[rayong]] ([[byd auto#th|byd auto (thailand)]], 2024–present)<ref>{{cite web |last"
+   "transmission",
+   "weight"
   ],
   "sayfa": "BYD Song Plus",
   "url": "https://en.wikipedia.org/wiki/BYD_Song_Plus",
-  "uretim": "{{ubl",
-  "uretim_yillari": [],
+  "uretim": "September 2020 – 2026 (China) ; 2023–present (export)",
+  "uretim_yillari": [
+   2020,
+   2026,
+   2023
+  ],
   "model_yillari": "",
   "nesil_basliklari": [
    "Pre-facelift (2020–2023)",
@@ -5339,7 +5399,7 @@
   "bilgi_kutulari": [
    {
     "ad": "BYD Song Plus",
-    "uretim": "{{ubl",
+    "uretim": "September 2020 – 2026 (China) ; 2023–present (export)",
     "model_yillari": ""
    }
   ],
@@ -5348,14 +5408,49 @@
   "model": "Seal U"
  },
  {
-  "ham_alanlar": [],
-  "sayfa": "BYD Seal",
-  "url": "https://en.wikipedia.org/wiki/BYD_Seal",
-  "uretim": "{{ubl",
-  "uretim_yillari": [],
-  "model_yillari": "",
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "drivetrain",
+   "electric_range",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production",
+   "range",
+   "related"
+  ],
+  "sayfa": "BYD Seal 05 DM-i",
+  "url": "https://en.wikipedia.org/wiki/BYD_Seal_05_DM-i",
+  "uretim": "January 2025 – present",
+  "uretim_yillari": [
+   2025
+  ],
+  "model_yillari": "2025–2026 (China)",
   "nesil_basliklari": [],
-  "bilgi_kutulari": [],
+  "bilgi_kutulari": [
+   {
+    "ad": "BYD Seal 05 DM-i",
+    "uretim": "January 2025 – present",
+    "model_yillari": "2025–2026 (China)"
+   }
+  ],
+  "yedek_arama": "sayfa BYD_Seal yerine BYD Seal 05 DM-i kullanıldı",
   "id": "seal",
   "marka": "BYD",
   "model": "Seal"
@@ -5367,13 +5462,11 @@
    "battery",
    "body_style",
    "charging",
-   "china: [[changsha, hunan]]; [[changzhou, jiangsu]]; [[hefei, anhui]]<ref name",
    "class",
    "designer",
    "engine",
    "height",
    "image",
-   "india: [[sriperumbudur|sriperumbudur, tamil nadu]] ([[byd auto#in|byd india]], 2022–present)<ref>{{cite news |date",
    "layout",
    "length",
    "manufacturer",
@@ -5386,7 +5479,9 @@
    "production",
    "range",
    "related",
-   "sp"
+   "sp",
+   "successor",
+   "weight"
   ],
   "sayfa": "BYD Atto 3",
   "url": "https://en.wikipedia.org/wiki/BYD_Atto_3",
@@ -5509,31 +5604,30 @@
  },
  {
   "ham_alanlar": [
-   "<!--spain: [[barcelona|barcelona, catalonia]] ([[zona franca (barcelona)|zona franca]])\n<ref name",
    "aka",
    "assembly",
    "battery",
    "body_style",
    "caption",
-   "chery c5 (australia, indonesia){{efn-lr|since may 2025}}<ref name",
-   "chery fx{{efn-lr|serbia, montenegro, bosnia and herzegovina, north macedonia and \nisrael}}<ref>{{cite web |date",
-   "chery o5 (malaysia){{efn-lr|since september 2025}}<ref>{{cite web |last",
-   "chirey omoda 5 (mexico){{efn-lr|december 2022 – april\n2023, before being renamed the omoda c5}}<ref>{{cite web |last",
    "class",
    "designer",
    "drivetrain",
    "engine",
-   "fownix fx (iran)<ref>{{cite web |title",
    "height",
    "image",
    "layout",
    "length",
-   "malaysia: [[kulim, kedah]] ([[inokom]], petrol and electric)<ref>{{cite web |last",
    "manufacturer",
    "model_code",
    "motor",
    "name",
-   "omoda 5<ref>{{cite web |date"
+   "platform",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Omoda C5",
   "url": "https://en.wikipedia.org/wiki/Omoda_C5",
@@ -5559,7 +5653,6 @@
  },
  {
   "ham_alanlar": [
-   "[[chery tiggo 7]] high energy (china, 2024–present)<ref>{{cite web |last",
    "aka",
    "assembly",
    "battery",
@@ -5650,14 +5743,55 @@
   "model": "HS"
  },
  {
-  "ham_alanlar": [],
-  "sayfa": "MG ZS",
-  "url": "https://en.wikipedia.org/wiki/MG_ZS",
-  "uretim": "",
-  "uretim_yillari": [],
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "electric_range",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
+  "sayfa": "MG ZS (crossover)",
+  "url": "https://en.wikipedia.org/wiki/MG_ZS_%28crossover%29",
+  "uretim": "2017–present",
+  "uretim_yillari": [
+   2017
+  ],
   "model_yillari": "",
-  "nesil_basliklari": [],
-  "bilgi_kutulari": [],
+  "nesil_basliklari": [
+   "First generation (ZS11; 2017)",
+   "Second generation (2024)"
+  ],
+  "bilgi_kutulari": [
+   {
+    "ad": "MG ZS",
+    "uretim": "2017–present",
+    "model_yillari": ""
+   },
+   {
+    "ad": "First generation",
+    "uretim": "2017–2022 (China) ; 2017–present (export) ; 2021–2026 (India)",
+    "model_yillari": ""
+   },
+   {
+    "ad": "MG ZS EV",
+    "uretim": "2019 (China) ; 2019–present (export)",
+    "model_yillari": "2020–present"
+   },
+   {
+    "ad": "Second generation",
+    "uretim": "2024–present",
+    "model_yillari": ""
+   }
+  ],
+  "yedek_arama": "sayfa MG_ZS yerine MG ZS (crossover) kullanıldı",
   "id": "zs",
   "marka": "MG",
   "model": "ZS"
@@ -5748,7 +5882,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{ubl",
+    "uretim": "September 2004 – 2010 (Japan) ; February 2005 – 2010 (Hungary) ; May 2005 – August 2011 (India) ; November 2005–2011 (Indonesia) ; June 2005 – September 2018 (China) ; September 2005 – 2009 (Taiwan) ; May 2007 – 2010 (Malaysia) ; November 2009 – August 2021 (Pakistan)",
     "model_yillari": ""
    },
    {
@@ -5758,7 +5892,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "December 2016 – November 2023 (Japan) ; 2017–2024 (India/Thailand) ; 2018–present (Myanmar/Vietnam) ; 2022–present (Pakistan) ; 2023–present (Ghana)",
     "model_yillari": "2017–2024"
    },
    {
@@ -5935,7 +6069,6 @@
  },
  {
   "ham_alanlar": [
-   "2.0&nbsp;l [[skyactiv#skyactiv-hybrid|''e-skyactiv-x'']] i4 <ref name",
    "assembly",
    "battery",
    "body_style",
@@ -5982,9 +6115,6 @@
  },
  {
   "ham_alanlar": [
-   "2019–present<ref name",
-   "8-speed ''[[awf8f35|aw tg-81sc]]'' [[automatic transmission|automatic]]<ref name",
-   "[[rear-motor, rear-wheel-drive]] (ev, 2023–present)<ref name",
    "aka",
    "assembly",
    "battery",
@@ -5997,22 +6127,28 @@
    "engine",
    "height",
    "image",
-   "india: [[hoskote|hoskote, bangalore]]<ref>{{cite web |title",
    "layout",
    "length",
    "manufacturer",
    "model_years",
    "motor",
    "name",
-   "november 2017 – present<ref>{{cite news |language",
    "platform",
-   "predecessor"
+   "predecessor",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase"
   ],
   "sayfa": "Volvo XC40",
   "url": "https://en.wikipedia.org/wiki/Volvo_XC40",
-  "uretim": "{{ubl",
-  "uretim_yillari": [],
-  "model_yillari": "{{ubl",
+  "uretim": "November 2017 – present ; September 2021 – present (coupé SUV)",
+  "uretim_yillari": [
+   2017,
+   2021
+  ],
+  "model_yillari": "2019–present ; 2022–present (coupé SUV)",
   "nesil_basliklari": [
    "2023 facelift",
    "2028 facelift"
@@ -6020,8 +6156,8 @@
   "bilgi_kutulari": [
    {
     "ad": "Volvo XC40",
-    "uretim": "{{ubl",
-    "model_yillari": "{{ubl"
+    "uretim": "November 2017 – present ; September 2021 – present (coupé SUV)",
+    "model_yillari": "2019–present ; 2022–present (coupé SUV)"
    }
   ],
   "id": "xc40",
@@ -6121,7 +6257,7 @@
    {
     "ad": "Volvo S60 (second generation)",
     "uretim": "2010–2018",
-    "model_yillari": "{{ubl"
+    "model_yillari": "2011–2018 (S60) ; 2015–2019 (S60L)"
    },
    {
     "ad": "Volvo S60 (third generation)",
@@ -6135,20 +6271,16 @@
  },
  {
   "ham_alanlar": [
-   "2.0 l ''[[world gasoline engine#2.0 2|tigershark]]'' i4 (china)<ref>{{cite web|url",
    "aka",
    "assembly",
    "battery",
    "body_style",
-   "brazil: [[goiana]], [[pernambuco]]<ref name",
-   "china: [[guangzhou]] ([[gac-stellantis|gac fca]])<ref>{{cite web |url",
    "class",
    "designer",
    "drivetrain",
    "engine",
    "height",
    "image",
-   "italy: [[melfi|melfi, potenza]] ([[:it:stabilimento fiat di melfi|sata]])<ref name",
    "layout",
    "length",
    "manufacturer",
@@ -6159,18 +6291,26 @@
    "production",
    "related",
    "sp",
-   "successor"
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Jeep Renegade",
   "url": "https://en.wikipedia.org/wiki/Jeep_Renegade",
-  "uretim": "{{ubl",
-  "uretim_yillari": [],
+  "uretim": "2014–present ; 2016–2022 (China)",
+  "uretim_yillari": [
+   2014,
+   2016,
+   2022
+  ],
   "model_yillari": "2015–2023 (US & Canada); 2015–2025 (Europe); 2015–present (Latin America)",
   "nesil_basliklari": [],
   "bilgi_kutulari": [
    {
     "ad": "Jeep Renegade",
-    "uretim": "{{ubl",
+    "uretim": "2014–present ; 2016–2022 (China)",
     "model_yillari": "2015–2023 (US & Canada); 2015–2025 (Europe); 2015–present (Latin America)"
    }
   ],
@@ -6217,7 +6357,7 @@
    },
    {
     "ad": "Second generation",
-    "uretim": "{{unbulleted list",
+    "uretim": "2016–2026 ; 2016–2022 (China)",
     "model_yillari": "2017–2027 (USA)"
    },
    {
@@ -6232,9 +6372,6 @@
  },
  {
   "ham_alanlar": [
-   "1.0 l ''[[fiat global small engine|gse firefly]]'' [[inline-three engine|i3]] [[flex fuel]] [[turbocharger|turbo]] [[mild hybrid]]<ref>{{cite web|url",
-   "1.2 ''thp'' (''[[list of psa engines#eb|eb2adtd]]''<ref>{{cite web|url",
-   "6-speed e-[[dual clutch transmission|dct]]<ref>{{cite web |title",
    "aka",
    "assembly",
    "battery",
@@ -6254,9 +6391,12 @@
    "motor",
    "name",
    "platform",
-   "poland: [[tychy]] ([[fca poland]])<ref name",
    "powerout",
-   "production"
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase"
   ],
   "sayfa": "Jeep Avenger",
   "url": "https://en.wikipedia.org/wiki/Jeep_Avenger",
@@ -6364,7 +6504,7 @@
    },
    {
     "ad": "Second generation",
-    "uretim": "{{ubl",
+    "uretim": "2018–present ; 2021–2026 (China)",
     "model_yillari": "2019–present"
    }
   ],
@@ -6374,11 +6514,6 @@
  },
  {
   "ham_alanlar": [
-   "2.9&nbsp;l ''[[alfa romeo 690t engine|690t]]'' [[twin-turbo]] [[v6 engine|v6]]<ref>{{cite web |url",
-   "6-speed [[manual transmission|manual]] (''[[getrag]] g217'')<ref>{{cite web |url",
-   "access-date",
-   "archive-date",
-   "archive-url",
    "assembly",
    "body_style",
    "caption",
@@ -6398,7 +6533,11 @@
    "production",
    "related",
    "sp",
-   "successor"
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
   ],
   "sayfa": "Alfa Romeo Giulia (2015)",
   "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_%282015%29",
