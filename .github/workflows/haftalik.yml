@@ -15,7 +15,7 @@ concurrency:
 jobs:
   guncelle:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -42,12 +42,14 @@ jobs:
 
       - name: NHTSA resmi geri çağırma kayıtlarını çek
         continue-on-error: true
+        timeout-minutes: 12
         run: |
           python nhtsa.py | tee cikti/nhtsa_ozet.txt
           { echo '### NHTSA özeti'; echo '```'; tail -n 3 cikti/nhtsa_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
 
       - name: araclo.com sayfa metinlerini indir (ham veri)
         continue-on-error: true
+        timeout-minutes: 12
         run: |
           python araclo.py | tee cikti/araclo_ozet.txt
           { echo '### araclo özeti'; echo '```'; tail -n 2 cikti/araclo_ozet.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
