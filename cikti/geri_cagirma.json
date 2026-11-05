@@ -1,0 +1,659 @@
+{
+ "kaynak": "ABD NHTSA recallsByVehicle",
+ "guncelleme": "2026-11-05",
+ "modeller": {
+  "clio": {
+   "durum": "hata",
+   "sorgu": "Renault Clio",
+   "kayitlar": []
+  },
+  "megane": {
+   "durum": "hata",
+   "sorgu": "Renault Megane",
+   "kayitlar": []
+  },
+  "captur": {
+   "durum": "hata",
+   "sorgu": "Renault Captur",
+   "kayitlar": []
+  },
+  "austral": {
+   "durum": "hata",
+   "sorgu": "Renault Austral",
+   "kayitlar": []
+  },
+  "sandero": {
+   "durum": "hata",
+   "sorgu": "Dacia Sandero",
+   "kayitlar": []
+  },
+  "duster": {
+   "durum": "hata",
+   "sorgu": "Dacia Duster",
+   "kayitlar": []
+  },
+  "jogger": {
+   "durum": "hata",
+   "sorgu": "Dacia Jogger",
+   "kayitlar": []
+  },
+  "egea": {
+   "durum": "hata",
+   "sorgu": "Fiat Egea",
+   "kayitlar": []
+  },
+  "egeacross": {
+   "durum": "hata",
+   "sorgu": "Fiat Egea Cross",
+   "kayitlar": []
+  },
+  "doblo": {
+   "durum": "hata",
+   "sorgu": "Fiat Doblo",
+   "kayitlar": []
+  },
+  "fiorino": {
+   "durum": "hata",
+   "sorgu": "Fiat Fiorino",
+   "kayitlar": []
+  },
+  "corolla": {
+   "durum": "hata",
+   "sorgu": "Toyota Corolla",
+   "kayitlar": []
+  },
+  "chr": {
+   "durum": "hata",
+   "sorgu": "Toyota C-HR",
+   "kayitlar": []
+  },
+  "yaris": {
+   "durum": "hata",
+   "sorgu": "Toyota Yaris",
+   "kayitlar": []
+  },
+  "corollacross": {
+   "durum": "hata",
+   "sorgu": "Toyota Corolla Cross",
+   "kayitlar": []
+  },
+  "hilux": {
+   "durum": "hata",
+   "sorgu": "Toyota Hilux",
+   "kayitlar": []
+  },
+  "rav4": {
+   "durum": "hata",
+   "sorgu": "Toyota RAV4",
+   "kayitlar": []
+  },
+  "yariscross": {
+   "durum": "hata",
+   "sorgu": "Toyota Yaris Cross",
+   "kayitlar": []
+  },
+  "golf": {
+   "durum": "hata",
+   "sorgu": "Volkswagen Golf",
+   "kayitlar": []
+  },
+  "polo": {
+   "durum": "hata",
+   "sorgu": "Volkswagen Polo",
+   "kayitlar": []
+  },
+  "troc": {
+   "durum": "hata",
+   "sorgu": "Volkswagen T-Roc",
+   "kayitlar": []
+  },
+  "passat": {
+   "durum": "hata",
+   "sorgu": "Volkswagen Passat",
+   "kayitlar": []
+  },
+  "tiguan": {
+   "durum": "hata",
+   "sorgu": "Volkswagen Tiguan",
+   "kayitlar": []
+  },
+  "tcross": {
+   "durum": "hata",
+   "sorgu": "Volkswagen T-Cross",
+   "kayitlar": []
+  },
+  "id4": {
+   "durum": "hata",
+   "sorgu": "Volkswagen ID.4",
+   "kayitlar": []
+  },
+  "octavia": {
+   "durum": "hata",
+   "sorgu": "Skoda Octavia",
+   "kayitlar": []
+  },
+  "superb": {
+   "durum": "hata",
+   "sorgu": "Skoda Superb",
+   "kayitlar": []
+  },
+  "fabia": {
+   "durum": "hata",
+   "sorgu": "Skoda Fabia",
+   "kayitlar": []
+  },
+  "kamiq": {
+   "durum": "hata",
+   "sorgu": "Skoda Kamiq",
+   "kayitlar": []
+  },
+  "karoq": {
+   "durum": "hata",
+   "sorgu": "Skoda Karoq",
+   "kayitlar": []
+  },
+  "scala": {
+   "durum": "hata",
+   "sorgu": "Skoda Scala",
+   "kayitlar": []
+  },
+  "kodiaq": {
+   "durum": "hata",
+   "sorgu": "Skoda Kodiaq",
+   "kayitlar": []
+  },
+  "leon": {
+   "durum": "hata",
+   "sorgu": "Seat Leon",
+   "kayitlar": []
+  },
+  "ibiza": {
+   "durum": "hata",
+   "sorgu": "Seat Ibiza",
+   "kayitlar": []
+  },
+  "arona": {
+   "durum": "hata",
+   "sorgu": "Seat Arona",
+   "kayitlar": []
+  },
+  "ateca": {
+   "durum": "hata",
+   "sorgu": "Seat Ateca",
+   "kayitlar": []
+  },
+  "formentor": {
+   "durum": "hata",
+   "sorgu": "Cupra Formentor",
+   "kayitlar": []
+  },
+  "leon_c": {
+   "durum": "hata",
+   "sorgu": "Cupra Leon",
+   "kayitlar": []
+  },
+  "a3": {
+   "durum": "hata",
+   "sorgu": "Audi A3",
+   "kayitlar": []
+  },
+  "a4": {
+   "durum": "hata",
+   "sorgu": "Audi A4",
+   "kayitlar": []
+  },
+  "q3": {
+   "durum": "hata",
+   "sorgu": "Audi Q3",
+   "kayitlar": []
+  },
+  "q5": {
+   "durum": "hata",
+   "sorgu": "Audi Q5",
+   "kayitlar": []
+  },
+  "i20": {
+   "durum": "hata",
+   "sorgu": "Hyundai i20",
+   "kayitlar": []
+  },
+  "bayon": {
+   "durum": "hata",
+   "sorgu": "Hyundai Bayon",
+   "kayitlar": []
+  },
+  "i30": {
+   "durum": "hata",
+   "sorgu": "Hyundai i30",
+   "kayitlar": []
+  },
+  "elantra": {
+   "durum": "hata",
+   "sorgu": "Hyundai Elantra",
+   "kayitlar": []
+  },
+  "tucson": {
+   "durum": "hata",
+   "sorgu": "Hyundai Tucson",
+   "kayitlar": []
+  },
+  "kona": {
+   "durum": "hata",
+   "sorgu": "Hyundai Kona Elektrik",
+   "kayitlar": []
+  },
+  "ioniq5": {
+   "durum": "hata",
+   "sorgu": "Hyundai Ioniq 5",
+   "kayitlar": []
+  },
+  "i10": {
+   "durum": "hata",
+   "sorgu": "Hyundai i10",
+   "kayitlar": []
+  },
+  "ceed": {
+   "durum": "hata",
+   "sorgu": "Kia Ceed",
+   "kayitlar": []
+  },
+  "sportage": {
+   "durum": "hata",
+   "sorgu": "Kia Sportage",
+   "kayitlar": []
+  },
+  "stonic": {
+   "durum": "hata",
+   "sorgu": "Kia Stonic",
+   "kayitlar": []
+  },
+  "niro": {
+   "durum": "hata",
+   "sorgu": "Kia Niro",
+   "kayitlar": []
+  },
+  "picanto": {
+   "durum": "hata",
+   "sorgu": "Kia Picanto",
+   "kayitlar": []
+  },
+  "rio": {
+   "durum": "hata",
+   "sorgu": "Kia Rio",
+   "kayitlar": []
+  },
+  "sorento": {
+   "durum": "hata",
+   "sorgu": "Kia Sorento",
+   "kayitlar": []
+  },
+  "p208": {
+   "durum": "hata",
+   "sorgu": "Peugeot 208",
+   "kayitlar": []
+  },
+  "p2008": {
+   "durum": "hata",
+   "sorgu": "Peugeot 2008",
+   "kayitlar": []
+  },
+  "p308": {
+   "durum": "hata",
+   "sorgu": "Peugeot 308",
+   "kayitlar": []
+  },
+  "p3008": {
+   "durum": "hata",
+   "sorgu": "Peugeot 3008",
+   "kayitlar": []
+  },
+  "p5008": {
+   "durum": "hata",
+   "sorgu": "Peugeot 5008",
+   "kayitlar": []
+  },
+  "rifter": {
+   "durum": "hata",
+   "sorgu": "Peugeot Rifter",
+   "kayitlar": []
+  },
+  "c3": {
+   "durum": "hata",
+   "sorgu": "Citroen C3",
+   "kayitlar": []
+  },
+  "c4": {
+   "durum": "hata",
+   "sorgu": "Citroen C4",
+   "kayitlar": []
+  },
+  "celysee": {
+   "durum": "hata",
+   "sorgu": "Citroen C-Elysee",
+   "kayitlar": []
+  },
+  "berlingo": {
+   "durum": "hata",
+   "sorgu": "Citroen Berlingo",
+   "kayitlar": []
+  },
+  "c5aircross": {
+   "durum": "hata",
+   "sorgu": "Citroen C5 Aircross",
+   "kayitlar": []
+  },
+  "corsa": {
+   "durum": "hata",
+   "sorgu": "Opel Corsa",
+   "kayitlar": []
+  },
+  "astra": {
+   "durum": "hata",
+   "sorgu": "Opel Astra",
+   "kayitlar": []
+  },
+  "mokka": {
+   "durum": "hata",
+   "sorgu": "Opel Mokka",
+   "kayitlar": []
+  },
+  "crossland": {
+   "durum": "hata",
+   "sorgu": "Opel Crossland",
+   "kayitlar": []
+  },
+  "grandland": {
+   "durum": "hata",
+   "sorgu": "Opel Grandland",
+   "kayitlar": []
+  },
+  "insignia": {
+   "durum": "hata",
+   "sorgu": "Opel Insignia",
+   "kayitlar": []
+  },
+  "focus": {
+   "durum": "hata",
+   "sorgu": "Ford Focus",
+   "kayitlar": []
+  },
+  "fiesta": {
+   "durum": "hata",
+   "sorgu": "Ford Fiesta",
+   "kayitlar": []
+  },
+  "puma": {
+   "durum": "hata",
+   "sorgu": "Ford Puma",
+   "kayitlar": []
+  },
+  "kuga": {
+   "durum": "hata",
+   "sorgu": "Ford Kuga",
+   "kayitlar": []
+  },
+  "courier": {
+   "durum": "hata",
+   "sorgu": "Ford Tourneo Courier",
+   "kayitlar": []
+  },
+  "juke": {
+   "durum": "hata",
+   "sorgu": "Nissan Juke",
+   "kayitlar": []
+  },
+  "qashqai": {
+   "durum": "hata",
+   "sorgu": "Nissan Qashqai",
+   "kayitlar": []
+  },
+  "micra": {
+   "durum": "hata",
+   "sorgu": "Nissan Micra",
+   "kayitlar": []
+  },
+  "xtrail": {
+   "durum": "hata",
+   "sorgu": "Nissan X-Trail",
+   "kayitlar": []
+  },
+  "civic": {
+   "durum": "hata",
+   "sorgu": "Honda Civic",
+   "kayitlar": []
+  },
+  "city": {
+   "durum": "hata",
+   "sorgu": "Honda City",
+   "kayitlar": []
+  },
+  "crv": {
+   "durum": "hata",
+   "sorgu": "Honda CR-V",
+   "kayitlar": []
+  },
+  "hrv": {
+   "durum": "hata",
+   "sorgu": "Honda HR-V",
+   "kayitlar": []
+  },
+  "jazz": {
+   "durum": "hata",
+   "sorgu": "Honda Jazz",
+   "kayitlar": []
+  },
+  "b1": {
+   "durum": "hata",
+   "sorgu": "BMW 1 Serisi",
+   "kayitlar": []
+  },
+  "b3": {
+   "durum": "hata",
+   "sorgu": "BMW 3 Serisi",
+   "kayitlar": []
+  },
+  "b5": {
+   "durum": "hata",
+   "sorgu": "BMW 5 Serisi",
+   "kayitlar": []
+  },
+  "x1": {
+   "durum": "hata",
+   "sorgu": "BMW X1",
+   "kayitlar": []
+  },
+  "i4": {
+   "durum": "hata",
+   "sorgu": "BMW i4",
+   "kayitlar": []
+  },
+  "aclass": {
+   "durum": "hata",
+   "sorgu": "Mercedes-Benz A Serisi",
+   "kayitlar": []
+  },
+  "cclass": {
+   "durum": "hata",
+   "sorgu": "Mercedes-Benz C-Class",
+   "kayitlar": []
+  },
+  "eclass": {
+   "durum": "hata",
+   "sorgu": "Mercedes-Benz E-Class",
+   "kayitlar": []
+  },
+  "cla": {
+   "durum": "hata",
+   "sorgu": "Mercedes-Benz CLA",
+   "kayitlar": []
+  },
+  "gla": {
+   "durum": "hata",
+   "sorgu": "Mercedes-Benz GLA",
+   "kayitlar": []
+  },
+  "cooper": {
+   "durum": "hata",
+   "sorgu": "Mini Cooper",
+   "kayitlar": []
+  },
+  "countryman": {
+   "durum": "hata",
+   "sorgu": "Mini Countryman",
+   "kayitlar": []
+  },
+  "t10x": {
+   "durum": "abd_yok",
+   "kayitlar": []
+  },
+  "t10f": {
+   "durum": "abd_yok",
+   "kayitlar": []
+  },
+  "modely": {
+   "durum": "hata",
+   "sorgu": "Tesla Model Y",
+   "kayitlar": []
+  },
+  "model3": {
+   "durum": "hata",
+   "sorgu": "Tesla Model 3",
+   "kayitlar": []
+  },
+  "sealu": {
+   "durum": "hata",
+   "sorgu": "BYD Seal U",
+   "kayitlar": []
+  },
+  "seal": {
+   "durum": "hata",
+   "sorgu": "BYD Seal",
+   "kayitlar": []
+  },
+  "atto3": {
+   "durum": "hata",
+   "sorgu": "BYD Atto 3",
+   "kayitlar": []
+  },
+  "tiggo7": {
+   "durum": "hata",
+   "sorgu": "Chery Tiggo 7",
+   "kayitlar": []
+  },
+  "tiggo8": {
+   "durum": "hata",
+   "sorgu": "Chery Tiggo 8 Pro",
+   "kayitlar": []
+  },
+  "omoda5": {
+   "durum": "hata",
+   "sorgu": "Omoda Omoda 5",
+   "kayitlar": []
+  },
+  "j7": {
+   "durum": "hata",
+   "sorgu": "Jaecoo Jaecoo 7",
+   "kayitlar": []
+  },
+  "hs": {
+   "durum": "hata",
+   "sorgu": "MG HS",
+   "kayitlar": []
+  },
+  "zs": {
+   "durum": "hata",
+   "sorgu": "MG ZS",
+   "kayitlar": []
+  },
+  "mg7": {
+   "durum": "hata",
+   "sorgu": "MG MG7",
+   "kayitlar": []
+  },
+  "swift": {
+   "durum": "hata",
+   "sorgu": "Suzuki Swift",
+   "kayitlar": []
+  },
+  "vitara": {
+   "durum": "hata",
+   "sorgu": "Suzuki Vitara",
+   "kayitlar": []
+  },
+  "m3": {
+   "durum": "hata",
+   "sorgu": "Mazda Mazda3",
+   "kayitlar": []
+  },
+  "cx5": {
+   "durum": "hata",
+   "sorgu": "Mazda CX-5",
+   "kayitlar": []
+  },
+  "cx30": {
+   "durum": "hata",
+   "sorgu": "Mazda CX-30",
+   "kayitlar": []
+  },
+  "xc40": {
+   "durum": "hata",
+   "sorgu": "Volvo XC40",
+   "kayitlar": []
+  },
+  "xc60": {
+   "durum": "hata",
+   "sorgu": "Volvo XC60",
+   "kayitlar": []
+  },
+  "s60": {
+   "durum": "hata",
+   "sorgu": "Volvo S60",
+   "kayitlar": []
+  },
+  "renegade": {
+   "durum": "hata",
+   "sorgu": "Jeep Renegade",
+   "kayitlar": []
+  },
+  "compass": {
+   "durum": "hata",
+   "sorgu": "Jeep Compass",
+   "kayitlar": []
+  },
+  "avenger": {
+   "durum": "hata",
+   "sorgu": "Jeep Avenger",
+   "kayitlar": []
+  },
+  "defender": {
+   "durum": "hata",
+   "sorgu": "Land Rover Defender",
+   "kayitlar": []
+  },
+  "evoque": {
+   "durum": "hata",
+   "sorgu": "Land Rover Range Rover Evoque",
+   "kayitlar": []
+  },
+  "giulia": {
+   "durum": "hata",
+   "sorgu": "Alfa Romeo Giulia",
+   "kayitlar": []
+  },
+  "stelvio": {
+   "durum": "hata",
+   "sorgu": "Alfa Romeo Stelvio",
+   "kayitlar": []
+  },
+  "asx": {
+   "durum": "hata",
+   "sorgu": "Mitsubishi ASX",
+   "kayitlar": []
+  },
+  "l200": {
+   "durum": "hata",
+   "sorgu": "Mitsubishi L200",
+   "kayitlar": []
+  }
+ }
+}
