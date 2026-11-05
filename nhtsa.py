@@ -1,7 +1,7 @@
 """ABD NHTSA resmi geri çağırma kayıtlarını çeker (ücretsiz, anahtarsız API).
 Kapsam: yalnızca ABD'de satılan model/yıllar. Türkiye'ye özgü modeller sonuçsuz kalır.
 Çıktı: cikti/geri_cagirma.json  {id: {durum, sorgu, kayitlar:[...]}}"""
-import json, re, sys, time, urllib.parse, urllib.request
+import json, re, sys, time, urllib.error, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 API = 'https://api.nhtsa.gov/recalls/recallsByVehicle?'
@@ -14,6 +14,7 @@ def sorgu_model(ad, marka):
     return re.split(r'\s*[/(]', ad)[0].strip()
 
 ARD_HATA = [0]
+HATALAR = []
 SINIR = 20
 
 def getir(url, deneme=2):
@@ -25,8 +26,10 @@ def getir(url, deneme=2):
                 ARD_HATA[0] = 0
                 return json.load(r)
         except Exception as e:
-            son = str(e)
-            ARD_HATA[0] += 1
+            son = type(e).__name__ + ': ' + str(e)[:120]
+            if len(HATALAR) < 5: HATALAR.append(son + ' | ' + url[-70:])
+            if not (isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500):
+                ARD_HATA[0] += 1
             time.sleep(1)
     return {'hata': son}
 
@@ -69,3 +72,4 @@ if __name__ == '__main__':
               open('cikti/geri_cagirma.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     from collections import Counter
     print('OZET', dict(Counter(v['durum'] for v in s.values())))
+    for h in HATALAR: print('HATA ORNEGI:', h)
