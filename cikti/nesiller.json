@@ -1,5 +1,17 @@
 [
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Renault Clio",
   "url": "https://en.wikipedia.org/wiki/Renault_Clio",
   "uretim": "1990–present",
@@ -57,6 +69,17 @@
   "model": "Clio"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Renault Mégane",
   "url": "https://en.wikipedia.org/wiki/Renault_M%C3%A9gane",
   "uretim": "1995–present{{citation needed|date= September 2026}}",
@@ -109,6 +132,17 @@
   "model": "Megane (Sedan / HB)"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Renault Captur",
   "url": "https://en.wikipedia.org/wiki/Renault_Captur",
   "uretim": "2013–present",
@@ -147,6 +181,33 @@
   "model": "Captur"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "transmission",
+   "weight"
+  ],
   "sayfa": "Renault Austral",
   "url": "https://en.wikipedia.org/wiki/Renault_Austral",
   "uretim": "July 2022 – present",
@@ -167,6 +228,17 @@
   "model": "Austral"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Dacia Sandero",
   "url": "https://en.wikipedia.org/wiki/Dacia_Sandero",
   "uretim": "2008–present",
@@ -192,7 +264,7 @@
    },
    {
     "ad": "Sandero II",
-    "uretim": "{{ubl |2012–2020 (Romania)|2014–2024 (Brazil) |2014–2022 (Russia)|2016–2021 (Algeria)|2016–2025 (Argentina)| 2015-2026 (Colombia)}}",
+    "uretim": "2012–2020 (Romania); 2014–2024 (Brazil); 2014–2022 (Russia); 2016–2021 (Algeria); 2016–2025 (Argentina); 2015-2026 (Colombia)",
     "model_yillari": ""
    },
    {
@@ -206,6 +278,17 @@
   "model": "Sandero / Sandero Stepway"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Dacia Duster",
   "url": "https://en.wikipedia.org/wiki/Dacia_Duster",
   "uretim": "2010–present",
@@ -245,6 +328,33 @@
   "model": "Duster"
  },
  {
+  "ham_alanlar": [
+   "1.5 l ''[[renault k-type engine#k9k|k9k]] dci 100'' i4 turbo (north africa)<ref>{{cite web|url",
+   "[[dacia dokker]] (passenger version)<ref name",
+   "[[dacia lodgy]]<ref name",
+   "[[dacia logan mcv]]<ref name",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "morocco: [[tangier]] (july 2024–present)<ref>{{cite web|url",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "romania: [[mioveni]] (2021–2024)<ref>{{cite web|url",
+   "transmission"
+  ],
   "sayfa": "Dacia Jogger",
   "url": "https://en.wikipedia.org/wiki/Dacia_Jogger",
   "uretim": "2021–present",
@@ -265,6 +375,29 @@
   "model": "Jogger"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Fiat Tipo (2015)",
   "url": "https://en.wikipedia.org/wiki/Fiat_Tipo_%282015%29",
   "uretim": "2015–2026; 1,417,047 built",
@@ -286,6 +419,7 @@
   "model": "Egea (Sedan / HB / SW)"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "Fiat Tipo",
   "url": "https://en.wikipedia.org/wiki/Fiat_Tipo",
   "uretim": "",
@@ -298,6 +432,14 @@
   "model": "Egea Cross"
  },
  {
+  "ham_alanlar": [
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Fiat Doblò",
   "url": "https://en.wikipedia.org/wiki/Fiat_Dobl%C3%B2",
   "uretim": "2000–present",
@@ -337,6 +479,15 @@
   "model": "Doblo"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Fiat Fiorino",
   "url": "https://en.wikipedia.org/wiki/Fiat_Fiorino",
   "uretim": "1977–2024 ; 1980–present (Latin America)",
@@ -387,6 +538,17 @@
   "model": "Fiorino"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "Toyota Corolla",
   "url": "https://en.wikipedia.org/wiki/Toyota_Corolla",
   "uretim": "November 1966 – present",
@@ -420,6 +582,20 @@
   "model": "Corolla"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Toyota C-HR",
   "url": "https://en.wikipedia.org/wiki/Toyota_C-HR",
   "uretim": "2016–present",
@@ -454,6 +630,17 @@
   "model": "C-HR"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Toyota Yaris",
   "url": "https://en.wikipedia.org/wiki/Toyota_Yaris",
   "uretim": "{{unbulleted list",
@@ -478,6 +665,33 @@
   "model": "Yaris"
  },
  {
+  "ham_alanlar": [
+   "'''japan''': [[toyota, aichi]] ([[takaoka plant]] 2021–2025); [[kanegasaki, iwate]] (iwate plant 2025–present)<ref>{{cite news |date",
+   "'''taiwan''': [[zhongli district|zhongli]] ([[kuozui motors|kuozui]])<ref>{{cite web|title",
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "6.5-[[ampere hour|ah]] [[nickel-metal hydride]] (1.8&nbsp;l hybrid models 2020-2024)<ref>{{cite news |url",
+   "7",
+   "8",
+   "9",
+   "[[lexus ux]]<ref name",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout"
+  ],
   "sayfa": "Toyota Corolla Cross",
   "url": "https://en.wikipedia.org/wiki/Toyota_Corolla_Cross",
   "uretim": "July 2020 – present",
@@ -498,6 +712,21 @@
   "model": "Corolla Cross"
  },
  {
+  "ham_alanlar": [
+   "[[hino briska|toyota briska]]<ref name",
+   "aka",
+   "body_style",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Toyota Hilux",
   "url": "https://en.wikipedia.org/wiki/Toyota_Hilux",
   "uretim": "March 1968 – present",
@@ -584,6 +813,17 @@
   "model": "Hilux"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Toyota RAV4",
   "url": "https://en.wikipedia.org/wiki/Toyota_RAV4",
   "uretim": "1994–present",
@@ -648,6 +888,16 @@
   "model": "RAV4"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production",
+   "sp"
+  ],
   "sayfa": "Toyota Yaris Cross",
   "url": "https://en.wikipedia.org/wiki/Toyota_Yaris_Cross",
   "uretim": "{{unbulleted list",
@@ -680,6 +930,17 @@
   "model": "Yaris Cross"
  },
  {
+  "ham_alanlar": [
+   "alt",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Volkswagen Golf",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_Golf",
   "uretim": "1974–present",
@@ -706,6 +967,15 @@
   "model": "Golf"
  },
  {
+  "ham_alanlar": [
+   "alt",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Volkswagen Polo",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_Polo",
   "uretim": "1975–present",
@@ -736,6 +1006,14 @@
   "model": "Polo"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Volkswagen T-Roc",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_T-Roc",
   "uretim": "2017–present",
@@ -771,6 +1049,19 @@
   "model": "T-Roc"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Volkswagen Passat",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_Passat",
   "uretim": "1973–present",
@@ -797,6 +1088,17 @@
   "model": "Passat"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production"
+  ],
   "sayfa": "Volkswagen Tiguan",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_Tiguan",
   "uretim": "2007–present",
@@ -820,7 +1122,7 @@
    {
     "ad": "First generation",
     "uretim": "2007–2018; 2009–2020 (China)",
-    "model_yillari": "{{plainlist| * 2009–2016 (North America) * 2017–2018 (North America, Tiguan Limited) }}"
+    "model_yillari": "* 2009–2016 (North America) * 2017–2018 (North America, Tiguan Limited)"
    },
    {
     "ad": "Second generation",
@@ -838,6 +1140,30 @@
   "model": "Tiguan"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Volkswagen T-Cross",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_T-Cross",
   "uretim": "December 2018 – present",
@@ -858,10 +1184,13 @@
   "model": "T-Cross"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "Volkswagen ID.4",
   "url": "https://en.wikipedia.org/wiki/Volkswagen_ID.4",
-  "uretim": "",
-  "uretim_yillari": [],
+  "uretim": "2020–present",
+  "uretim_yillari": [
+   2020
+  ],
   "model_yillari": "",
   "nesil_basliklari": [],
   "bilgi_kutulari": [],
@@ -870,6 +1199,16 @@
   "model": "ID.4 / ID.7"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production",
+   "sp"
+  ],
   "sayfa": "Škoda Octavia",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia",
   "uretim": "1996–present",
@@ -916,6 +1255,14 @@
   "model": "Octavia"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Škoda Superb",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Superb",
   "uretim": "2001–present",
@@ -961,6 +1308,14 @@
   "model": "Superb"
  },
  {
+  "ham_alanlar": [
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Škoda Fabia",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Fabia",
   "uretim": "1999–present",
@@ -1006,6 +1361,28 @@
   "model": "Fabia"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "sp",
+   "transmission",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Škoda Kamiq",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Kamiq",
   "uretim": "July 2019–present",
@@ -1026,6 +1403,33 @@
   "model": "Kamiq"
  },
  {
+  "ham_alanlar": [
+   "2018–2026 (china)<ref>{{cite web |date",
+   "assembly",
+   "body_style",
+   "china: [[ningbo]] ([[saic volkswagen|saic-vw]])<ref>{{cite web|title",
+   "class",
+   "czech republic: [[kvasiny]];<ref>{{cite web|title",
+   "designer",
+   "engine",
+   "germany: [[osnabrück]] (2018–2019)<ref name",
+   "height",
+   "image",
+   "july 2017 – present<ref>{{cite web | url",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "slovakia: [[bratislava]] ([[volkswagen bratislava plant]], 2020–2023)<ref>{{cite web |date",
+   "transmission",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Škoda Karoq",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Karoq",
   "uretim": "{{ubl",
@@ -1044,6 +1448,29 @@
   "model": "Karoq"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Škoda Scala",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Scala",
   "uretim": "February 2019 – present",
@@ -1064,6 +1491,16 @@
   "model": "Scala"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Škoda Kodiaq",
   "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Kodiaq",
   "uretim": "2016–present",
@@ -1097,6 +1534,21 @@
   "model": "Kodiaq"
  },
  {
+  "ham_alanlar": [
+   "3-[[vehicle door|door]] [[hatchback]] (2013–2018)<ref>{{cite web|url",
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "SEAT León",
   "url": "https://en.wikipedia.org/wiki/SEAT_Le%C3%B3n",
   "uretim": "October 1999 – present",
@@ -1142,6 +1594,18 @@
   "model": "Leon"
  },
  {
+  "ham_alanlar": [
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor"
+  ],
   "sayfa": "SEAT Ibiza",
   "url": "https://en.wikipedia.org/wiki/SEAT_Ibiza",
   "uretim": "1984–present",
@@ -1196,6 +1660,26 @@
   "model": "Ibiza"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "transmission",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "SEAT Arona",
   "url": "https://en.wikipedia.org/wiki/SEAT_Arona",
   "uretim": "2017–present",
@@ -1216,6 +1700,30 @@
   "model": "Arona"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "successor",
+   "transmission",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "SEAT Ateca",
   "url": "https://en.wikipedia.org/wiki/SEAT_Ateca",
   "uretim": "2016–2026",
@@ -1237,6 +1745,32 @@
   "model": "Ateca"
  },
  {
+  "ham_alanlar": [
+   "2.5&nbsp;l [[turbo fuel stratified injection|tfsi]] [[straight-five engine|i5]] (vz5)<ref>{{cite web|url",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "electric_range",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "sp",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Cupra Formentor",
   "url": "https://en.wikipedia.org/wiki/Cupra_Formentor",
   "uretim": "September 2020–present",
@@ -1257,6 +1791,21 @@
   "model": "Formentor"
  },
  {
+  "ham_alanlar": [
+   "3-[[vehicle door|door]] [[hatchback]] (2013–2018)<ref>{{cite web|url",
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "SEAT León",
   "url": "https://en.wikipedia.org/wiki/SEAT_Le%C3%B3n",
   "uretim": "October 1999 – present",
@@ -1302,6 +1851,18 @@
   "model": "Leon (Cupra)"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production",
+   "sp",
+   "transmission"
+  ],
   "sayfa": "Audi A3",
   "url": "https://en.wikipedia.org/wiki/Audi_A3",
   "uretim": "1996–present",
@@ -1362,6 +1923,21 @@
   "model": "A3"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Audi A4",
   "url": "https://en.wikipedia.org/wiki/Audi_A4",
   "uretim": "1994–2025",
@@ -1413,6 +1989,16 @@
   "model": "A4"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production"
+  ],
   "sayfa": "Audi Q3",
   "url": "https://en.wikipedia.org/wiki/Audi_Q3",
   "uretim": "2011–present",
@@ -1463,6 +2049,15 @@
   "model": "Q3"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Audi Q5",
   "url": "https://en.wikipedia.org/wiki/Audi_Q5",
   "uretim": "2008–present",
@@ -1503,7 +2098,7 @@
    },
    {
     "ad": "Third generation",
-    "uretim": "{{Unbulleted list | November 2024–present | April 2025–present (Sportback) }}",
+    "uretim": "November 2024–present; April 2025–present (Sportback)",
     "model_yillari": "2025–present"
    }
   ],
@@ -1512,6 +2107,16 @@
   "model": "Q5"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Hyundai i20",
   "url": "https://en.wikipedia.org/wiki/Hyundai_i20",
   "uretim": "2008–present",
@@ -1557,6 +2162,18 @@
   "model": "i20"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Hyundai Bayon",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Bayon",
   "uretim": "2021–present",
@@ -1591,6 +2208,19 @@
   "model": "Bayon"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "Hyundai i30",
   "url": "https://en.wikipedia.org/wiki/Hyundai_i30",
   "uretim": "2007–present",
@@ -1633,6 +2263,17 @@
   "model": "i30"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Hyundai Elantra",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Elantra",
   "uretim": "1990–present",
@@ -1703,6 +2344,19 @@
   "model": "Elantra"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production",
+   "sp"
+  ],
   "sayfa": "Hyundai Tucson",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Tucson",
   "uretim": "2004–present",
@@ -1756,6 +2410,18 @@
   "model": "Tucson"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production"
+  ],
   "sayfa": "Hyundai Kona",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Kona",
   "uretim": "2017–present",
@@ -1789,6 +2455,33 @@
   "model": "Kona Elektrik"
  },
  {
+  "ham_alanlar": [
+   "257&nbsp;kw ([[direct current|dc]], 84&nbsp;kwh, ccs adapter)<ref>{{cite web|title",
+   "assembly",
+   "battery",
+   "body_style",
+   "charging",
+   "class",
+   "designer",
+   "electric_range",
+   "height",
+   "image",
+   "india: [[chennai]] ([[hyundai motor india|hmil]])<ref>{{cite web |title",
+   "indonesia: [[cikarang|cikarang, west java]] ([[hyundai motor manufacturing indonesia|hmmi]])<ref>{{cite web |title",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "singapore: [[jurong]] ([[list of hyundai motor company manufacturing facilities#hyundai motor group innovation center in singapore|hmgics]])<ref>{{cite news |last",
+   "south korea: [[ulsan]] ([[hyundai ulsan plant|ulsan plant 1]])<ref>{{cite web|last",
+   "sp"
+  ],
   "sayfa": "Hyundai Ioniq 5",
   "url": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
   "uretim": "March 2021 – present",
@@ -1811,6 +2504,17 @@
   "model": "Ioniq 5"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "Hyundai i10",
   "url": "https://en.wikipedia.org/wiki/Hyundai_i10",
   "uretim": "2007–present",
@@ -1850,6 +2554,20 @@
   "model": "i10"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "successor"
+  ],
   "sayfa": "Kia Ceed",
   "url": "https://en.wikipedia.org/wiki/Kia_Ceed",
   "uretim": "2006–present",
@@ -1889,6 +2607,19 @@
   "model": "Ceed / XCeed"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Kia Sportage",
   "url": "https://en.wikipedia.org/wiki/Kia_Sportage",
   "uretim": "1993–present",
@@ -1941,6 +2672,30 @@
   "model": "Sportage"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Kia Stonic",
   "url": "https://en.wikipedia.org/wiki/Kia_Stonic",
   "uretim": "2017–present",
@@ -1961,6 +2716,22 @@
   "model": "Stonic"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Kia Niro",
   "url": "https://en.wikipedia.org/wiki/Kia_Niro",
   "uretim": "2016–present",
@@ -1996,6 +2767,17 @@
   "model": "Niro"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Kia Picanto",
   "url": "https://en.wikipedia.org/wiki/Kia_Picanto",
   "uretim": "2003–present",
@@ -2038,6 +2820,20 @@
   "model": "Picanto"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Kia Rio",
   "url": "https://en.wikipedia.org/wiki/Kia_Rio",
   "uretim": "November 1999 – December 2023",
@@ -2095,6 +2891,17 @@
   "model": "Rio"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Kia Sorento",
   "url": "https://en.wikipedia.org/wiki/Kia_Sorento",
   "uretim": "2002–present",
@@ -2144,6 +2951,17 @@
   "model": "Sorento"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "Peugeot 208",
   "url": "https://en.wikipedia.org/wiki/Peugeot_208",
   "uretim": "March 2012 – present",
@@ -2177,6 +2995,18 @@
   "model": "208"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "Peugeot 2008",
   "url": "https://en.wikipedia.org/wiki/Peugeot_2008",
   "uretim": "2013–present",
@@ -2213,6 +3043,14 @@
   "model": "2008"
  },
  {
+  "ham_alanlar": [
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Peugeot 308",
   "url": "https://en.wikipedia.org/wiki/Peugeot_308",
   "uretim": "2007–present",
@@ -2256,6 +3094,18 @@
   "model": "308"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "predecessor",
+   "production",
+   "related",
+   "successor"
+  ],
   "sayfa": "Peugeot 3008",
   "url": "https://en.wikipedia.org/wiki/Peugeot_3008",
   "uretim": "2008–present",
@@ -2296,6 +3146,17 @@
   "model": "3008"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "successor"
+  ],
   "sayfa": "Peugeot 5008",
   "url": "https://en.wikipedia.org/wiki/Peugeot_5008",
   "uretim": "2009–present",
@@ -2335,6 +3196,23 @@
   "model": "5008"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "image",
+   "kazakhstan: [[kostanay]] (saryarka avtoprom)<ref>{{cite web|url",
+   "layout",
+   "manufacturer",
+   "morocco: [[casablanca]] (somaca casablanca plant)<ref>{{cite web |url",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "sp"
+  ],
   "sayfa": "Citroën Berlingo",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
   "uretim": "1996–present",
@@ -2375,6 +3253,18 @@
   "model": "Rifter / Partner"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "Citroën C3",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C3",
   "uretim": "April 2002 – present",
@@ -2427,6 +3317,17 @@
   "model": "C3"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Citroën C4",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C4",
   "uretim": "2004–present",
@@ -2470,6 +3371,29 @@
   "model": "C4"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "body_style",
+   "class",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Citroën C-Elysée",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C-Elys%C3%A9e",
   "uretim": "2012–2022",
@@ -2493,6 +3417,23 @@
   "model": "C-Elysee"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "image",
+   "kazakhstan: [[kostanay]] (saryarka avtoprom)<ref>{{cite web|url",
+   "layout",
+   "manufacturer",
+   "morocco: [[casablanca]] (somaca casablanca plant)<ref>{{cite web |url",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "sp"
+  ],
   "sayfa": "Citroën Berlingo",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
   "uretim": "1996–present",
@@ -2533,6 +3474,15 @@
   "model": "Berlingo"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Citroën C5 Aircross",
   "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C5_Aircross",
   "uretim": "2017–present",
@@ -2566,9 +3516,20 @@
   "model": "C5 Aircross"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Opel Corsa",
   "url": "https://en.wikipedia.org/wiki/Opel_Corsa",
-  "uretim": "{{plainlist| *1982–present (Europe) *1993–present (Vauxhall brand)}}",
+  "uretim": "*1982–present (Europe) *1993–present (Vauxhall brand)",
   "uretim_yillari": [
    1982,
    1993
@@ -2582,7 +3543,7 @@
   "bilgi_kutulari": [
    {
     "ad": "Opel Corsa",
-    "uretim": "{{plainlist| *1982–present (Europe) *1993–present (Vauxhall brand)}}",
+    "uretim": "*1982–present (Europe) *1993–present (Vauxhall brand)",
     "model_yillari": ""
    },
    {
@@ -2592,7 +3553,7 @@
    },
    {
     "ad": "Corsa B",
-    "uretim": "{{ubl |1993–2000 (Europe, Turkey and Thailand)|1994–2016 (Brazil)|1997–2016 (Argentina)|1995–2011 (Mexico)|1996–2007 (South Africa)|2000–2005 (India)|1993–1996 (China; Meilu JJ7090; CKD)|2001–2005 (China; Buick)|2005–2009 (China; Chevrolet) }}",
+    "uretim": "1993–2000 (Europe, Turkey and Thailand); 1994–2016 (Brazil); 1997–2016 (Argentina); 1995–2011 (Mexico); 1996–2007 (South Africa); 2000–2005 (India); 1993–1996 (China; Meilu JJ7090; CKD); 2001–2005 (China; Buick); 2005–2009 (China; Chevrolet)",
     "model_yillari": ""
    },
    {
@@ -2621,6 +3582,17 @@
   "model": "Corsa"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Opel Astra",
   "url": "https://en.wikipedia.org/wiki/Opel_Astra",
   "uretim": "1991–present",
@@ -2679,6 +3651,15 @@
   "model": "Astra"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production",
+   "sp"
+  ],
   "sayfa": "Opel Mokka",
   "url": "https://en.wikipedia.org/wiki/Opel_Mokka",
   "uretim": "2012–present",
@@ -2709,6 +3690,32 @@
   "model": "Mokka"
  },
  {
+  "ham_alanlar": [
+   "6-speed [[automatic transmission|automatic]]<ref>{{cite web|url",
+   "aka",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Opel Crossland",
   "url": "https://en.wikipedia.org/wiki/Opel_Crossland",
   "uretim": "2017–2024",
@@ -2730,6 +3737,17 @@
   "model": "Crossland"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "Opel Grandland",
   "url": "https://en.wikipedia.org/wiki/Opel_Grandland",
   "uretim": "2017–present",
@@ -2763,6 +3781,18 @@
   "model": "Grandland"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "class",
+   "designer",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Opel Insignia",
   "url": "https://en.wikipedia.org/wiki/Opel_Insignia",
   "uretim": "2008–2022",
@@ -2803,6 +3833,19 @@
   "model": "Insignia"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Ford Focus",
   "url": "https://en.wikipedia.org/wiki/Ford_Focus",
   "uretim": "1998–2025",
@@ -2829,6 +3872,17 @@
   "model": "Focus"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production",
+   "successor"
+  ],
   "sayfa": "Ford Fiesta",
   "url": "https://en.wikipedia.org/wiki/Ford_Fiesta",
   "uretim": "June 1976 – July 2023",
@@ -2893,6 +3947,33 @@
   "model": "Fiesta"
  },
  {
+  "ham_alanlar": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Ford Puma (crossover)",
   "url": "https://en.wikipedia.org/wiki/Ford_Puma_%28crossover%29",
   "uretim": "2019–present",
@@ -2913,6 +3994,19 @@
   "model": "Puma"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Ford Kuga",
   "url": "https://en.wikipedia.org/wiki/Ford_Kuga",
   "uretim": "2008–present",
@@ -2952,6 +4046,18 @@
   "model": "Kuga"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Ford Transit Courier",
   "url": "https://en.wikipedia.org/wiki/Ford_Transit_Courier",
   "uretim": "2014–present",
@@ -2985,6 +4091,16 @@
   "model": "Tourneo Courier"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Nissan Juke",
   "url": "https://en.wikipedia.org/wiki/Nissan_Juke",
   "uretim": "2010–present",
@@ -3025,6 +4141,19 @@
   "model": "Juke (F16)"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "alt",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Nissan Qashqai",
   "url": "https://en.wikipedia.org/wiki/Nissan_Qashqai",
   "uretim": "2006–present",
@@ -3065,6 +4194,18 @@
   "model": "Qashqai"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "alt",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Nissan Micra",
   "url": "https://en.wikipedia.org/wiki/Nissan_Micra",
   "uretim": "1982–present",
@@ -3132,6 +4273,19 @@
   "model": "Micra"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Nissan X-Trail",
   "url": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
   "uretim": "2000–present",
@@ -3185,6 +4339,17 @@
   "model": "X-Trail"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Honda Civic",
   "url": "https://en.wikipedia.org/wiki/Honda_Civic",
   "uretim": "1972–present",
@@ -3217,6 +4382,15 @@
   "model": "Civic"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Honda City",
   "url": "https://en.wikipedia.org/wiki/Honda_City",
   "uretim": "1981–1995; 1996–present",
@@ -3282,6 +4456,20 @@
   "model": "City"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Honda CR-V",
   "url": "https://en.wikipedia.org/wiki/Honda_CR-V",
   "uretim": "1995–present",
@@ -3319,6 +4507,16 @@
   "model": "CR-V"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Honda HR-V",
   "url": "https://en.wikipedia.org/wiki/Honda_HR-V",
   "uretim": "1999–2006; 2013–present",
@@ -3355,6 +4553,7 @@
   "model": "HR-V"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "Honda Jazz",
   "url": "https://en.wikipedia.org/wiki/Honda_Jazz",
   "uretim": "",
@@ -3367,6 +4566,16 @@
   "model": "Jazz"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "BMW 1 Series",
   "url": "https://en.wikipedia.org/wiki/BMW_1_Series",
   "uretim": "2004–present",
@@ -3392,6 +4601,17 @@
   "model": "1 Serisi"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "successor"
+  ],
   "sayfa": "BMW 3 Series",
   "url": "https://en.wikipedia.org/wiki/BMW_3_Series",
   "uretim": "1975–present",
@@ -3421,6 +4641,16 @@
   "model": "3 Serisi"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "BMW 5 Series",
   "url": "https://en.wikipedia.org/wiki/BMW_5_Series",
   "uretim": "1972–present",
@@ -3450,6 +4680,19 @@
   "model": "5 Serisi"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "related"
+  ],
   "sayfa": "BMW X1",
   "url": "https://en.wikipedia.org/wiki/BMW_X1",
   "uretim": "2009–present",
@@ -3474,6 +4717,33 @@
   "model": "X1"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "charging",
+   "class",
+   "designer",
+   "electric_range",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "maximum {{convert|580|km|miles|0|abbr",
+   "maximum {{convert|590|km|miles|0|abbr",
+   "model_code",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "production",
+   "related",
+   "successor",
+   "transmission"
+  ],
   "sayfa": "BMW i4",
   "url": "https://en.wikipedia.org/wiki/BMW_i4",
   "uretim": "October 2021 – present",
@@ -3497,6 +4767,16 @@
   "model": "i4"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Mercedes-Benz A-Class",
   "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
   "uretim": "1996–present",
@@ -3546,6 +4826,16 @@
   "model": "A Serisi"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Mercedes-Benz C-Class",
   "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class",
   "uretim": "1992–present",
@@ -3608,6 +4898,16 @@
   "model": "C Serisi"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Mercedes-Benz E-Class",
   "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class",
   "uretim": "1953-Present (E-Class nomenclature adopted in July 1993)",
@@ -3641,6 +4941,16 @@
   "model": "E Serisi"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Mercedes-Benz CLA",
   "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
   "uretim": "2013–present",
@@ -3688,6 +4998,17 @@
   "model": "CLA"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production"
+  ],
   "sayfa": "Mercedes-Benz GLA",
   "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLA",
   "uretim": "2013–present",
@@ -3731,6 +5052,21 @@
   "model": "GLA"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "alt",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "mini one (2001–2022)<ref>{{cite web |title",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Mini Hatch",
   "url": "https://en.wikipedia.org/wiki/Mini_Hatch",
   "uretim": "2001–present",
@@ -3787,6 +5123,19 @@
   "model": "Cooper"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production",
+   "sp"
+  ],
   "sayfa": "Mini Countryman",
   "url": "https://en.wikipedia.org/wiki/Mini_Countryman",
   "uretim": "2010–present",
@@ -3827,6 +5176,33 @@
   "model": "Countryman"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "charging",
+   "class",
+   "designer",
+   "electric_range",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_years",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production",
+   "related",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Togg T10X",
   "url": "https://en.wikipedia.org/wiki/Togg_T10X",
   "uretim": "October 2022 – present",
@@ -3847,6 +5223,33 @@
   "model": "T10X"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "charging",
+   "class",
+   "designer",
+   "drivetrain",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "motor",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "range",
+   "related",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase"
+  ],
   "sayfa": "Togg T10F",
   "url": "https://en.wikipedia.org/wiki/Togg_T10F",
   "uretim": "2025–present",
@@ -3867,10 +5270,13 @@
   "model": "T10F"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "Tesla Model Y",
   "url": "https://en.wikipedia.org/wiki/Tesla_Model_Y",
-  "uretim": "",
-  "uretim_yillari": [],
+  "uretim": "January 2020 – present",
+  "uretim_yillari": [
+   2020
+  ],
   "model_yillari": "",
   "nesil_basliklari": [],
   "bilgi_kutulari": [],
@@ -3879,10 +5285,13 @@
   "model": "Model Y"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "Tesla Model 3",
   "url": "https://en.wikipedia.org/wiki/Tesla_Model_3",
-  "uretim": "",
-  "uretim_yillari": [],
+  "uretim": "2017–present",
+  "uretim_yillari": [
+   2017
+  ],
   "model_yillari": "",
   "nesil_basliklari": [],
   "bilgi_kutulari": [],
@@ -3891,6 +5300,33 @@
   "model": "Model 3"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "chassis",
+   "china: [[xi'an, shaanxi]]<ref>{{cite web |title",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "motor",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "successor",
+   "thailand: [[rayong]] ([[byd auto#th|byd auto (thailand)]], 2024–present)<ref>{{cite web |last"
+  ],
   "sayfa": "BYD Song Plus",
   "url": "https://en.wikipedia.org/wiki/BYD_Song_Plus",
   "uretim": "{{ubl",
@@ -3912,9 +5348,10 @@
   "model": "Seal U"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "BYD Seal",
   "url": "https://en.wikipedia.org/wiki/BYD_Seal",
-  "uretim": "",
+  "uretim": "{{ubl",
   "uretim_yillari": [],
   "model_yillari": "",
   "nesil_basliklari": [],
@@ -3924,6 +5361,33 @@
   "model": "Seal"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "charging",
+   "china: [[changsha, hunan]]; [[changzhou, jiangsu]]; [[hefei, anhui]]<ref name",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "india: [[sriperumbudur|sriperumbudur, tamil nadu]] ([[byd auto#in|byd india]], 2022–present)<ref>{{cite news |date",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "motor",
+   "name",
+   "platform",
+   "powerout",
+   "predecessor",
+   "production",
+   "range",
+   "related",
+   "sp"
+  ],
   "sayfa": "BYD Atto 3",
   "url": "https://en.wikipedia.org/wiki/BYD_Atto_3",
   "uretim": "January 2022 – present",
@@ -3946,6 +5410,14 @@
   "model": "Atto 3"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Chery Tiggo 7",
   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_7",
   "uretim": "2016–present",
@@ -3987,6 +5459,15 @@
   "model": "Tiggo 7"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Chery Tiggo 8",
   "url": "https://en.wikipedia.org/wiki/Chery_Tiggo_8",
   "uretim": "2017–present",
@@ -4027,6 +5508,33 @@
   "model": "Tiggo 8 Pro"
  },
  {
+  "ham_alanlar": [
+   "<!--spain: [[barcelona|barcelona, catalonia]] ([[zona franca (barcelona)|zona franca]])\n<ref name",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "chery c5 (australia, indonesia){{efn-lr|since may 2025}}<ref name",
+   "chery fx{{efn-lr|serbia, montenegro, bosnia and herzegovina, north macedonia and \nisrael}}<ref>{{cite web |date",
+   "chery o5 (malaysia){{efn-lr|since september 2025}}<ref>{{cite web |last",
+   "chirey omoda 5 (mexico){{efn-lr|december 2022 – april\n2023, before being renamed the omoda c5}}<ref>{{cite web |last",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "fownix fx (iran)<ref>{{cite web |title",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "malaysia: [[kulim, kedah]] ([[inokom]], petrol and electric)<ref>{{cite web |last",
+   "manufacturer",
+   "model_code",
+   "motor",
+   "name",
+   "omoda 5<ref>{{cite web |date"
+  ],
   "sayfa": "Omoda C5",
   "url": "https://en.wikipedia.org/wiki/Omoda_C5",
   "uretim": "February 2022 – present",
@@ -4050,6 +5558,33 @@
   "model": "Omoda 5"
  },
  {
+  "ham_alanlar": [
+   "[[chery tiggo 7]] high energy (china, 2024–present)<ref>{{cite web |last",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "class",
+   "designer",
+   "drivetrain",
+   "electric_range",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "motor",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Jaecoo J7",
   "url": "https://en.wikipedia.org/wiki/Jaecoo_J7",
   "uretim": "2023–present",
@@ -4070,6 +5605,18 @@
   "model": "Jaecoo 7"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "MG HS",
   "url": "https://en.wikipedia.org/wiki/MG_HS",
   "uretim": "2018–present",
@@ -4103,6 +5650,7 @@
   "model": "HS"
  },
  {
+  "ham_alanlar": [],
   "sayfa": "MG ZS",
   "url": "https://en.wikipedia.org/wiki/MG_ZS",
   "uretim": "",
@@ -4115,6 +5663,18 @@
   "model": "ZS"
  },
  {
+  "ham_alanlar": [
+   "alt",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "MG7",
   "url": "https://en.wikipedia.org/wiki/MG7",
   "uretim": "2007–2013; 2022–present",
@@ -4150,6 +5710,18 @@
   "model": "MG7"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "Suzuki Swift",
   "url": "https://en.wikipedia.org/wiki/Suzuki_Swift",
   "uretim": "September 2004 – present; Nameplate first used in 1984",
@@ -4200,6 +5772,15 @@
   "model": "Swift"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Suzuki Vitara",
   "url": "https://en.wikipedia.org/wiki/Suzuki_Vitara",
   "uretim": "1988–present",
@@ -4245,6 +5826,17 @@
   "model": "Vitara"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Mazda3",
   "url": "https://en.wikipedia.org/wiki/Mazda3",
   "uretim": "2003–present",
@@ -4267,7 +5859,7 @@
    },
    {
     "ad": "First generation",
-    "uretim": "{{Plainlist| *June 2003 – November 2008 *2006–2013 (China) *2005–2010 (Iran) *2003–2014 (Colombia) }}",
+    "uretim": "*June 2003 – November 2008 *2006–2013 (China) *2005–2010 (Iran) *2003–2014 (Colombia)",
     "model_yillari": "2004–2009 ; 2007–2013 (China) ; 2006–2010 (Iran) ; 2004–2014 (Colombia)"
    },
    {
@@ -4291,6 +5883,18 @@
   "model": "Mazda3"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production"
+  ],
   "sayfa": "Mazda CX-5",
   "url": "https://en.wikipedia.org/wiki/Mazda_CX-5",
   "uretim": "2012–present",
@@ -4330,6 +5934,33 @@
   "model": "CX-5"
  },
  {
+  "ham_alanlar": [
+   "2.0&nbsp;l [[skyactiv#skyactiv-hybrid|''e-skyactiv-x'']] i4 <ref name",
+   "assembly",
+   "battery",
+   "body_style",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Mazda CX-30",
   "url": "https://en.wikipedia.org/wiki/Mazda_CX-30",
   "uretim": "2019–present",
@@ -4350,6 +5981,33 @@
   "model": "CX-30"
  },
  {
+  "ham_alanlar": [
+   "2019–present<ref name",
+   "8-speed ''[[awf8f35|aw tg-81sc]]'' [[automatic transmission|automatic]]<ref name",
+   "[[rear-motor, rear-wheel-drive]] (ev, 2023–present)<ref name",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "charging",
+   "class",
+   "designer",
+   "drivetrain",
+   "electric_range",
+   "engine",
+   "height",
+   "image",
+   "india: [[hoskote|hoskote, bangalore]]<ref>{{cite web |title",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_years",
+   "motor",
+   "name",
+   "november 2017 – present<ref>{{cite news |language",
+   "platform",
+   "predecessor"
+  ],
   "sayfa": "Volvo XC40",
   "url": "https://en.wikipedia.org/wiki/Volvo_XC40",
   "uretim": "{{ubl",
@@ -4371,6 +6029,19 @@
   "model": "XC40"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "successor"
+  ],
   "sayfa": "Volvo XC60",
   "url": "https://en.wikipedia.org/wiki/Volvo_XC60",
   "uretim": "2008–present",
@@ -4407,6 +6078,20 @@
   "model": "XC60"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "predecessor",
+   "production",
+   "related",
+   "successor"
+  ],
   "sayfa": "Volvo S60",
   "url": "https://en.wikipedia.org/wiki/Volvo_S60",
   "uretim": "2000–2024; 2013–present (China)",
@@ -4449,6 +6134,33 @@
   "model": "S60"
  },
  {
+  "ham_alanlar": [
+   "2.0 l ''[[world gasoline engine#2.0 2|tigershark]]'' i4 (china)<ref>{{cite web|url",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "brazil: [[goiana]], [[pernambuco]]<ref name",
+   "china: [[guangzhou]] ([[gac-stellantis|gac fca]])<ref>{{cite web |url",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "italy: [[melfi|melfi, potenza]] ([[:it:stabilimento fiat di melfi|sata]])<ref name",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "production",
+   "related",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Jeep Renegade",
   "url": "https://en.wikipedia.org/wiki/Jeep_Renegade",
   "uretim": "{{ubl",
@@ -4467,6 +6179,18 @@
   "model": "Renegade"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "model_years",
+   "name",
+   "production"
+  ],
   "sayfa": "Jeep Compass",
   "url": "https://en.wikipedia.org/wiki/Jeep_Compass",
   "uretim": "2006–present",
@@ -4507,6 +6231,33 @@
   "model": "Compass"
  },
  {
+  "ham_alanlar": [
+   "1.0 l ''[[fiat global small engine|gse firefly]]'' [[inline-three engine|i3]] [[flex fuel]] [[turbocharger|turbo]] [[mild hybrid]]<ref>{{cite web|url",
+   "1.2 ''thp'' (''[[list of psa engines#eb|eb2adtd]]''<ref>{{cite web|url",
+   "6-speed e-[[dual clutch transmission|dct]]<ref>{{cite web |title",
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "charging",
+   "class",
+   "designer",
+   "drivetrain",
+   "electric_range",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "motor",
+   "name",
+   "platform",
+   "poland: [[tychy]] ([[fca poland]])<ref name",
+   "powerout",
+   "production"
+  ],
   "sayfa": "Jeep Avenger",
   "url": "https://en.wikipedia.org/wiki/Jeep_Avenger",
   "uretim": "2023–present",
@@ -4527,6 +6278,33 @@
   "model": "Avenger"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "assembly",
+   "battery",
+   "body_style",
+   "caption",
+   "chassis",
+   "class",
+   "designer",
+   "drivetrain",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_years",
+   "motor",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "propulsion",
+   "related",
+   "sp",
+   "transmission"
+  ],
   "sayfa": "Land Rover Defender (L663)",
   "url": "https://en.wikipedia.org/wiki/Land_Rover_Defender_%28L663%29",
   "uretim": "2019–present",
@@ -4547,6 +6325,17 @@
   "model": "Defender"
  },
  {
+  "ham_alanlar": [
+   "caption",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "Range Rover Evoque",
   "url": "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
   "uretim": "July 2011 – present",
@@ -4584,6 +6373,33 @@
   "model": "Range Rover Evoque"
  },
  {
+  "ham_alanlar": [
+   "2.9&nbsp;l ''[[alfa romeo 690t engine|690t]]'' [[twin-turbo]] [[v6 engine|v6]]<ref>{{cite web |url",
+   "6-speed [[manual transmission|manual]] (''[[getrag]] g217'')<ref>{{cite web |url",
+   "access-date",
+   "archive-date",
+   "archive-url",
+   "assembly",
+   "body_style",
+   "caption",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor"
+  ],
   "sayfa": "Alfa Romeo Giulia (2015)",
   "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_%282015%29",
   "uretim": "2015–present",
@@ -4604,6 +6420,31 @@
   "model": "Giulia"
  },
  {
+  "ham_alanlar": [
+   "assembly",
+   "body_style",
+   "class",
+   "designer",
+   "engine",
+   "height",
+   "image",
+   "layout",
+   "length",
+   "manufacturer",
+   "model_code",
+   "model_years",
+   "name",
+   "platform",
+   "predecessor",
+   "production",
+   "related",
+   "sp",
+   "successor",
+   "transmission",
+   "weight",
+   "wheelbase",
+   "width"
+  ],
   "sayfa": "Alfa Romeo Stelvio",
   "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_Stelvio",
   "uretim": "2016–present",
@@ -4624,6 +6465,17 @@
   "model": "Stelvio"
  },
  {
+  "ham_alanlar": [
+   "body_style",
+   "caption",
+   "class",
+   "image",
+   "manufacturer",
+   "name",
+   "predecessor",
+   "production",
+   "sp"
+  ],
   "sayfa": "Mitsubishi ASX",
   "url": "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
   "uretim": "2010–present",
@@ -4652,6 +6504,17 @@
   "model": "ASX"
  },
  {
+  "ham_alanlar": [
+   "aka",
+   "caption",
+   "chassis",
+   "class",
+   "image",
+   "layout",
+   "manufacturer",
+   "name",
+   "production"
+  ],
   "sayfa": "Mitsubishi Triton",
   "url": "https://en.wikipedia.org/wiki/Mitsubishi_Triton",
   "uretim": "1978–present",

@@ -4,28 +4,28 @@
 crossland | Opel Crossland | bizim [2017, 2026, 'D'] | wiki 2017–2024 | bizim bitiş 2026, Wikipedia üretim bitişi 2024
 
 --- BELİRSİZ ---
-egeacross | [2021, 2026, 'K'] |  | Wikipedia yılı bulunamadı
-yaris | [2020, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı
+egeacross | [2021, 2026, 'K'] |  | Wikipedia yılı bulunamadı | ham üretim: '' | alanlar: 
+yaris | [2020, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı | ham üretim: '{{unbulleted list' | alanlar: aka,body_style,caption,class,image,manufacturer,name,predecessor,production
 corollacross | [2022, 2026, 'D'] | July 2020 – present | başlangıç 2022 hiçbir nesil başlangıcıyla eşleşmiyor: [2020]
-yariscross | [2021, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı
+yariscross | [2021, 2026, 'D'] | {{unbulleted list | Wikipedia yılı bulunamadı | ham üretim: '{{unbulleted list' | alanlar: body_style,caption,class,image,manufacturer,name,production,sp
 passat | [2015, 2026, 'D'] | 1973–present | başlangıç 2015 hiçbir nesil başlangıcıyla eşleşmiyor: [1973, 1993, 2001, 2005, 2010, 2019]
-id4 | [2022, 2026, 'D'] |  | Wikipedia yılı bulunamadı
-karoq | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
+id4 | [2022, 2026, 'D'] | 2020–present | başlangıç 2022 hiçbir nesil başlangıcıyla eşleşmiyor: [2020]
+karoq | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı | ham üretim: '{{ubl' | alanlar: 2018–2026 (china)<ref>{{cite web |date,assembly,body_style,china: [[ningbo]] ([[saic volkswagen|saic-vw]])<ref>{{cite web|title,class,czech republic: [[kvasiny]];<ref>{{cite web|title,designer,engine,germany: [[osnabrück]] (2018–2019)<ref name,height,image,july 2017 – present<ref>{{cite web | url
 kona | [2019, 2026, 'D'] | 2017–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [2017, 2023]
 c5aircross | [2019, 2026, 'D'] | 2017–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [2017, 2025]
 juke | [2021, 2026, 'K'] | 2010–present | başlangıç 2021 hiçbir nesil başlangıcıyla eşleşmiyor: [2009, 2010, 2019, 2027]
 crv | [2019, 2026, 'D'] | 1995–present | başlangıç 2019 hiçbir nesil başlangıcıyla eşleşmiyor: [1995, 2001, 2002, 2007, 2012, 2017, 2023]
 hrv | [2015, 2026, 'D'] | 1999–2006; 2013–present | başlangıç 2015 hiçbir nesil başlangıcıyla eşleşmiyor: [1999, 2013, 2021]
-jazz | [2020, 2026, 'D'] |  | Wikipedia yılı bulunamadı
-modely | [2023, 2026, 'V'] |  | Wikipedia yılı bulunamadı
-model3 | [2023, 2026, 'D'] |  | Wikipedia yılı bulunamadı
-sealu | [2024, 2026, 'V'] | {{ubl | Wikipedia yılı bulunamadı
-seal | [2024, 2026, 'V'] |  | Wikipedia yılı bulunamadı
+jazz | [2020, 2026, 'D'] |  | Wikipedia yılı bulunamadı | ham üretim: '' | alanlar: 
+modely | [2023, 2026, 'V'] | January 2020 – present | başlangıç 2023 hiçbir nesil başlangıcıyla eşleşmiyor: [2020]
+model3 | [2023, 2026, 'D'] | 2017–present | başlangıç 2023 hiçbir nesil başlangıcıyla eşleşmiyor: [2017]
+sealu | [2024, 2026, 'V'] | {{ubl | Wikipedia yılı bulunamadı | ham üretim: '{{ubl' | alanlar: aka,assembly,battery,body_style,caption,chassis,china: [[xi'an, shaanxi]]<ref>{{cite web |title,class,designer,drivetrain,engine,height
+seal | [2024, 2026, 'V'] | {{ubl | Wikipedia yılı bulunamadı | ham üretim: '{{ubl' | alanlar: 
 j7 | [2025, 2026, 'D'] | 2023–present | başlangıç 2025 hiçbir nesil başlangıcıyla eşleşmiyor: [2023]
 hs | [2022, 2026, 'V'] | 2018–present | başlangıç 2022 hiçbir nesil başlangıcıyla eşleşmiyor: [2018, 2024]
-zs | [2022, 2026, 'D'] |  | Wikipedia yılı bulunamadı
+zs | [2022, 2026, 'D'] |  | Wikipedia yılı bulunamadı | ham üretim: '' | alanlar: 
 mg7 | [2025, 2026, 'V'] | 2007–2013; 2022–present | başlangıç 2025 hiçbir nesil başlangıcıyla eşleşmiyor: [2007, 2022]
-xc40 | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
-renegade | [2015, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı
+xc40 | [2018, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı | ham üretim: '{{ubl' | alanlar: 2019–present<ref name,8-speed ''[[awf8f35|aw tg-81sc]]'' [[automatic transmission|automatic]]<ref name,[[rear-motor, rear-wheel-drive]] (ev, 2023–present)<ref name,aka,assembly,battery,body_style,charging,class,designer,drivetrain,electric_range
+renegade | [2015, 2026, 'D'] | {{ubl | Wikipedia yılı bulunamadı | ham üretim: '{{ubl' | alanlar: 2.0 l ''[[world gasoline engine#2.0 2|tigershark]]'' i4 (china)<ref>{{cite web|url,aka,assembly,battery,body_style,brazil: [[goiana]], [[pernambuco]]<ref name,china: [[guangzhou]] ([[gac-stellantis|gac fca]])<ref>{{cite web |url,class,designer,drivetrain,engine,height
 giulia | [2017, 2026, 'D'] | 2015–present | başlangıç 2017 hiçbir nesil başlangıcıyla eşleşmiyor: [2015]
 stelvio | [2018, 2026, 'D'] | 2016–present | başlangıç 2018 hiçbir nesil başlangıcıyla eşleşmiyor: [2016]
