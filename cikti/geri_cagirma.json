@@ -373,14 +373,106 @@
    "kayitlar": []
   },
   "focus": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Ford Focus",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "18V845000",
+     "yil": 2018,
+     "bilesen": "POWER TRAIN:MANUAL TRANSMISSION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus vehicles equipped with a 1.0L Fox GTDI engine and a 6-speed manual transmission.  The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+     "sonuc": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+     "tarih": "28/11/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V845000"
+    },
+    {
+     "kampanya": "18V735000",
+     "yil": 2018,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+     "sonuc": "The excessive vaccuum may result in an engine stall while driving, without warning and without the ability to restart the vehicle, increasing the risk of a crash.",
+     "tarih": "23/10/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V735000"
+    },
+    {
+     "kampanya": "23V905000",
+     "yil": 2018,
+     "bilesen": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus and 2018-2022 Ford EcoSport vehicles.  The oil pump drive belt or drive belt tensioner may fail, resulting in a loss of engine oil pressure.",
+     "sonuc": "A loss of oil pressure can result in an engine stall and a loss of power braking assist, increasing the risk of a crash.",
+     "tarih": "22/12/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V905000"
+    },
+    {
+     "kampanya": "26V011000",
+     "yil": 2018,
+     "bilesen": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+     "sonuc": "An electrical short circuit can increase the risk of a fire.",
+     "tarih": "16/01/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V011000"
+    },
+    {
+     "kampanya": "26V012000",
+     "yil": 2018,
+     "bilesen": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+     "sonuc": "An electrical short circuit can increase the risk of a fire.",
+     "tarih": "16/01/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V012000"
+    },
+    {
+     "kampanya": "26V369000",
+     "yil": 2018,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+     "sonuc": "An engine that stalls while driving increases the risk of a crash.",
+     "tarih": "09/06/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V369000"
+    },
+    {
+     "kampanya": "26V376000",
+     "yil": 2018,
+     "bilesen": "POWER TRAIN:MANUAL TRANSMISSION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+     "sonuc": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+     "tarih": "09/06/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V376000"
+    }
+   ]
   },
   "fiesta": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Ford Fiesta",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "19V629000",
+     "yil": 2019,
+     "bilesen": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2019 Fiesta vehicles.  The brake calipers may have been manufactured with the incorrect assembly fluid, which can cause the caliper's rubber seals to swell.",
+     "sonuc": "The swollen seals can cause the brakes to drag, potentially overheating the brakes and increasing the risk of a crash.",
+     "tarih": "28/08/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V629000"
+    },
+    {
+     "kampanya": "24V951000",
+     "yil": 2019,
+     "bilesen": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2019 Flex, Fiesta, and Lincoln MKT vehicles.  The rearview camera may intermittently display a blank or distorted image.",
+     "sonuc": "A rearview camera that displays a blank or distorted image can reduce the drivers view of what is behind the vehicle, increasing the risk of a crash.",
+     "tarih": "20/12/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V951000"
+    },
+    {
+     "kampanya": "25V695000",
+     "yil": 2019,
+     "bilesen": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image wh",
+     "sonuc": "A rearview camera that fails to properly display an image can reduce the driver’s view behind the vehicle, increasing the risk of a crash.",
+     "tarih": "14/10/2025",
+     "url": "https://www.nhtsa.gov/?nhtsaId=25V695000"
+    }
+   ]
   },
   "puma": {
    "durum": "hata",
