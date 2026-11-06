@@ -28,6 +28,7 @@ jobs:
           python test_wiki.py
           python test_nhtsa.py
           python test_araclo.py
+          python test_parse_araclo.py
 
       - name: Wikipedia'dan nesil ve yılları çek, karşılaştır
         run: |
@@ -64,6 +65,10 @@ jobs:
         timeout-minutes: 10
         run: |
           python araclo.py > cikti/araclo_ozet.txt || true
+
+      - name: araclo sayfalarını kayıtlara ayrıştır
+        continue-on-error: true
+        run: python parse_araclo.py cikti/araclo cikti/araclo_kayitlar.json > cikti/araclo_parse.txt
 
       - name: araclo özeti
         if: always()
