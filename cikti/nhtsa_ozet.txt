@@ -1,139 +1,32 @@
-austral abd_yok 0
-captur abd_yok 0
-sandero abd_yok 0
-megane abd_yok 0
-clio abd_yok 0
-jogger abd_yok 0
-duster abd_yok 0
-egeacross abd_yok 0
-egea abd_yok 0
-doblo abd_yok 0
-fiorino abd_yok 0
-corolla kayit_var 14
-corollacross kayit_var 4
-chr kayit_var 6
-yaris kayit_var 1
-yariscross abd_yok 0
-rav4 kayit_var 15
-hilux abd_yok 0
-golf kayit_var 22
-polo abd_yok 0
-troc abd_yok 0
-tcross abd_yok 0
-id4 kayit_var 19
-passat kayit_var 18
-tiguan kayit_var 33
-fabia abd_yok 0
-octavia abd_yok 0
-superb abd_yok 0
-kamiq abd_yok 0
-karoq abd_yok 0
-scala abd_yok 0
-kodiaq abd_yok 0
-arona abd_yok 0
-leon abd_yok 0
-ibiza abd_yok 0
-formentor abd_yok 0
-leon_c abd_yok 0
-ateca abd_yok 0
-a3 kayit_var 12
-q3 kayit_var 16
-a4 kayit_var 8
-q5 kayit_var 24
-i20 abd_yok 0
-bayon abd_yok 0
-elantra kayit_var 13
-tucson kayit_var 15
-i30 abd_yok 0
-kona abd_yok 0
-ioniq5 kayit_var 15
-i10 abd_yok 0
-ceed abd_yok 0
-stonic abd_yok 0
-sportage kayit_var 14
-niro kayit_var 6
-picanto abd_yok 0
-rio kayit_var 5
-sorento kayit_var 13
-p208 abd_yok 0
-p308 abd_yok 0
-p2008 abd_yok 0
-p3008 abd_yok 0
-rifter abd_yok 0
-p5008 abd_yok 0
-c3 hata 0
-c4 hata 0
-celysee hata 0
-berlingo hata 0
-corsa hata 0
-c5aircross hata 0
-mokka hata 0
-astra hata 0
-grandland hata 0
-insignia hata 0
-crossland hata 0
-fiesta hata 0
-puma hata 0
-kuga hata 0
-focus hata 0
-juke hata 0
-micra hata 0
-courier hata 0
-qashqai hata 0
-xtrail hata 0
-city hata 0
-crv hata 0
-civic hata 0
-jazz hata 0
-hrv kayit_var 12
-b1 abd_yok 0
-b3 abd_yok 0
-b5 abd_yok 0
-i4 kayit_var 11
-x1 kayit_var 18
-aclass abd_yok 0
-cclass abd_yok 0
-eclass abd_yok 0
-cla abd_yok 0
-t10x abd_yok 0
-t10f abd_yok 0
-modely kayit_var 26
-gla abd_yok 0
-sealu abd_yok 0
-model3 kayit_var 17
-countryman kayit_var 8
-cooper kayit_var 18
-seal abd_yok 0
-atto3 abd_yok 0
-tiggo7 abd_yok 0
-j7 abd_yok 0
-tiggo8 abd_yok 0
-omoda5 abd_yok 0
-mg7 abd_yok 0
-hs abd_yok 0
-zs abd_yok 0
-swift abd_yok 0
-m3 kayit_var 11
-vitara abd_yok 0
-cx5 kayit_var 4
-cx30 kayit_var 7
-xc40 kayit_var 13
-s60 kayit_var 11
-xc60 kayit_var 21
-avenger abd_yok 0
-renegade kayit_var 14
-defender kayit_var 19
-compass kayit_var 15
-evoque kayit_var 19
-giulia kayit_var 17
-stelvio kayit_var 18
-asx abd_yok 0
-l200 abd_yok 0
-OZET {'abd_yok': 68, 'kayit_var': 39, 'hata': 24}
-HATA TURLERI {'HTTP 400': 623, 'HTTP 403': 576}
-HATA ORNEGI: HTTP 400 | make=Renault&model=Captur&modelYear=2020
-HATA ORNEGI: HTTP 400 | make=Renault&model=Megane&modelYear=2016
-HATA ORNEGI: HTTP 400 | make=Renault&model=Clio&modelYear=2015
-HATA ORNEGI: HTTP 400 | make=Renault&model=Austral&modelYear=2023
-HATA ORNEGI: HTTP 400 | make=Renault&model=Megane&modelYear=2017
-HATA ORNEGI: HTTP 400 | make=Renault&model=Captur&modelYear=2021
+c4 abd_yok 0
+c3 abd_yok 0
+celysee abd_yok 0
+berlingo abd_yok 0
+c5aircross abd_yok 0
+corsa abd_yok 0
+mokka abd_yok 0
+astra abd_yok 0
+crossland abd_yok 0
+grandland abd_yok 0
+insignia abd_yok 0
+fiesta kayit_var 3
+focus kayit_var 15
+puma abd_yok 0
+kuga abd_yok 0
+juke abd_yok 0
+courier abd_yok 0
+micra abd_yok 0
+qashqai abd_yok 0
+xtrail abd_yok 0
+civic kayit_var 19
+city abd_yok 0
+crv kayit_var 15
+jazz abd_yok 0
+OZET {'abd_yok': 88, 'kayit_var': 43}
+HATA TURLERI {'HTTP 400': 182}
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C3&modelYear=2017
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C3&modelYear=2018
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C3&modelYear=2019
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C4&modelYear=2021
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C3&modelYear=2020
+HATA ORNEGI: HTTP 400 | make=Citroen&model=C4&modelYear=2022

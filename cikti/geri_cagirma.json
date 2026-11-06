@@ -2795,119 +2795,591 @@
    "kayitlar": []
   },
   "c3": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Citroen C3",
    "kayitlar": []
   },
   "c4": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Citroen C4",
    "kayitlar": []
   },
   "celysee": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Citroen C-Elysee",
    "kayitlar": []
   },
   "berlingo": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Citroen Berlingo",
    "kayitlar": []
   },
   "c5aircross": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Citroen C5 Aircross",
    "kayitlar": []
   },
   "corsa": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Corsa",
    "kayitlar": []
   },
   "astra": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Astra",
    "kayitlar": []
   },
   "mokka": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Mokka",
    "kayitlar": []
   },
   "crossland": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Crossland",
    "kayitlar": []
   },
   "grandland": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Grandland",
    "kayitlar": []
   },
   "insignia": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Opel Insignia",
    "kayitlar": []
   },
   "focus": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Ford Focus",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "18V845000",
+     "yil": 2016,
+     "bilesen": "POWER TRAIN:MANUAL TRANSMISSION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus vehicles equipped with a 1.0L Fox GTDI engine and a 6-speed manual transmission.  The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+     "sonuc": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+     "tarih": "28/11/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V845000"
+    },
+    {
+     "kampanya": "16V698000",
+     "yil": 2015,
+     "bilesen": "LATCHES/LOCKS/LINKAGES:HATCHBACK/LIFTGATE:LOCK",
+     "ozet": "Ford Motor Company (Ford) is recalling certain model year 2013-2017 Ford Focus hatchback vehicles manufactured February 14, 2012, to August 26, 2016 and equipped with a manual transmission.  The hatchback of the affected vehicles may be unlatched with a single press of the interior latch release but",
+     "sonuc": "With only a single press needed, the driver may accidently unlatch the hatchback, increasing the risk of injury to any unsecured passengers in the back.",
+     "tarih": "28/09/2016",
+     "url": "https://www.nhtsa.gov/?nhtsaId=16V698000"
+    },
+    {
+     "kampanya": "17V528000",
+     "yil": 2017,
+     "bilesen": "SEAT BELTS:REAR/OTHER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2017 Focus vehicles.  The rear left side seat back frame may have an insufficient weld between the outboard pivot bracket and the pivot nut joint, resulting in the seat back having reduced strength.  As such, these vehicles fail to comply with the requi",
+     "sonuc": "The reduced seat back strength may increase the risk of injury in the event of a crash.",
+     "tarih": "28/08/2017",
+     "url": "https://www.nhtsa.gov/?nhtsaId=17V528000"
+    },
+    {
+     "kampanya": "17V052000",
+     "yil": 2016,
+     "bilesen": "STRUCTURE:BODY",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016 Focus and C-Max vehicles.  The floor pan may have improperly welded left-hand apron joints.",
+     "sonuc": "Improperly welded apron joints may reduce the front-end structural integrity of the vehicle, increasing the risk of injury in the event of a crash.",
+     "tarih": "24/01/2017",
+     "url": "https://www.nhtsa.gov/?nhtsaId=17V052000"
+    },
+    {
+     "kampanya": "18V735000",
+     "yil": 2015,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+     "sonuc": "The excessive vaccuum may result in an engine stall while driving, without warning and without the ability to restart the vehicle, increasing the risk of a crash.",
+     "tarih": "23/10/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V735000"
+    },
+    {
+     "kampanya": "23V905000",
+     "yil": 2016,
+     "bilesen": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus and 2018-2022 Ford EcoSport vehicles.  The oil pump drive belt or drive belt tensioner may fail, resulting in a loss of engine oil pressure.",
+     "sonuc": "A loss of oil pressure can result in an engine stall and a loss of power braking assist, increasing the risk of a crash.",
+     "tarih": "22/12/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V905000"
+    },
+    {
+     "kampanya": "26V011000",
+     "yil": 2015,
+     "bilesen": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+     "sonuc": "An electrical short circuit can increase the risk of a fire.",
+     "tarih": "16/01/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V011000"
+    },
+    {
+     "kampanya": "26V012000",
+     "yil": 2016,
+     "bilesen": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+     "sonuc": "An electrical short circuit can increase the risk of a fire.",
+     "tarih": "16/01/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V012000"
+    },
+    {
+     "kampanya": "18V169000",
+     "yil": 2015,
+     "bilesen": "POWER TRAIN:MANUAL TRANSMISSION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Fusion vehicles equipped with a 1.6L GTDI engine and 6-speed manual transmission and 2015-2016 Ford Focus vehicles equipped with a 1.0L GTDI engine and 6-speed manual transmission.  Also included are four 2017 Ford Focus vehicles that had",
+     "sonuc": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+     "tarih": "12/03/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V169000"
+    },
+    {
+     "kampanya": "26V369000",
+     "yil": 2015,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+     "sonuc": "An engine that stalls while driving increases the risk of a crash.",
+     "tarih": "09/06/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V369000"
+    },
+    {
+     "kampanya": "26V376000",
+     "yil": 2015,
+     "bilesen": "POWER TRAIN:MANUAL TRANSMISSION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+     "sonuc": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+     "tarih": "09/06/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V376000"
+    },
+    {
+     "kampanya": "15V436000",
+     "yil": 2015,
+     "bilesen": "ELECTRICAL SYSTEM:IGNITION",
+     "ozet": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Escape vehicles manufactured April 1, 2014, to June 12, 2015, Ford Focus vehicles manufactured June 17, 2014, to June 12, 2015, and Ford C-Max vehicles manufactured April 22, 2014, to June 12, 2015.  In the affected vehicles, the en",
+     "sonuc": "If the engine does not turn off as expected, someone could move the transmission shifter out of park and the vehicle may move unintentionally, increasing the risk of a crash.",
+     "tarih": "08/07/2015",
+     "url": "https://www.nhtsa.gov/?nhtsaId=15V436000"
+    },
+    {
+     "kampanya": "20V331000",
+     "yil": 2015,
+     "bilesen": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+     "sonuc": "A door that is not securely latched could open while the vehicle is in motion, increasing the risk of injury to a vehicle occupant.",
+     "tarih": "08/06/2020",
+     "url": "https://www.nhtsa.gov/?nhtsaId=20V331000"
+    },
+    {
+     "kampanya": "16V643000",
+     "yil": 2015,
+     "bilesen": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+     "ozet": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+     "sonuc": "A door that is not securely latched could open while the vehicle is in motion, increasing the risk of injury to a vehicle occupant.",
+     "tarih": "06/09/2016",
+     "url": "https://www.nhtsa.gov/?nhtsaId=16V643000"
+    },
+    {
+     "kampanya": "19V515000",
+     "yil": 2017,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2012 and 2017 Focus vehicles equipped with 2.0L GDI gasoline engines and 2013-2014 Focus ST vehicles equipped with 2.0L GTDI engines, previously recalled under 18V-735.  The affected vehicles did not have the Powertrain Control Module (PCM) updated as i",
+     "sonuc": "The excessive vacuum may result in an engine stall while driving, without warning and without the ability to restart the vehicle, increasing the risk of a crash.",
+     "tarih": "05/07/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V515000"
+    }
+   ]
   },
   "fiesta": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Ford Fiesta",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "19V629000",
+     "yil": 2019,
+     "bilesen": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2019 Fiesta vehicles.  The brake calipers may have been manufactured with the incorrect assembly fluid, which can cause the caliper's rubber seals to swell.",
+     "sonuc": "The swollen seals can cause the brakes to drag, potentially overheating the brakes and increasing the risk of a crash.",
+     "tarih": "28/08/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V629000"
+    },
+    {
+     "kampanya": "24V951000",
+     "yil": 2019,
+     "bilesen": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2019 Flex, Fiesta, and Lincoln MKT vehicles.  The rearview camera may intermittently display a blank or distorted image.",
+     "sonuc": "A rearview camera that displays a blank or distorted image can reduce the drivers view of what is behind the vehicle, increasing the risk of a crash.",
+     "tarih": "20/12/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V951000"
+    },
+    {
+     "kampanya": "25V695000",
+     "yil": 2019,
+     "bilesen": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+     "ozet": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image wh",
+     "sonuc": "A rearview camera that fails to properly display an image can reduce the driver’s view behind the vehicle, increasing the risk of a crash.",
+     "tarih": "14/10/2025",
+     "url": "https://www.nhtsa.gov/?nhtsaId=25V695000"
+    }
+   ]
   },
   "puma": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Ford Puma",
    "kayitlar": []
   },
   "kuga": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Ford Kuga",
    "kayitlar": []
   },
   "courier": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Ford Tourneo Courier",
    "kayitlar": []
   },
   "juke": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Nissan Juke",
    "kayitlar": []
   },
   "qashqai": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Nissan Qashqai",
    "kayitlar": []
   },
   "micra": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Nissan Micra",
    "kayitlar": []
   },
   "xtrail": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Nissan X-Trail",
    "kayitlar": []
   },
   "civic": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Honda Civic",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "23V458000",
+     "yil": 2020,
+     "bilesen": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2020-2021 Civic, 2020-2023 Ridgeline, 2021-2023 Passport, 2021-2022 Pilot, and 2020 Acura MDX vehicles.  The tie rod fastener that connects the brake booster and the brake master cylinder may have been improperly assembled during manufacturing, w",
+     "sonuc": "Brake master cylinder separation can cause a loss of brake function and increase the risk of a crash.",
+     "tarih": "29/06/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V458000"
+    },
+    {
+     "kampanya": "20V314000",
+     "yil": 2018,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura NSX, 2019 Acura RDX, RLX and RLX Sport Hybrid, 2018-2019 Honda Accord, Civic Hatchback, Civic Type R and HR-V, 2019-2020 Insight and 2019 Fit vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+     "sonuc": "If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+     "tarih": "28/05/2020",
+     "url": "https://www.nhtsa.gov/?nhtsaId=20V314000"
+    },
+    {
+     "kampanya": "18V663000",
+     "yil": 2017,
+     "bilesen": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic and CR-V vehicles.  The magnet that controls the\r\ntorque sensor output signal for the electronic power steering system may not be properly secured, allowing the magnet to become dislodged.  During a full lock turn, the dislo",
+     "sonuc": "The unintended steering input reduces vehicle maneuverability and increases the risk of a crash.",
+     "tarih": "27/09/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V663000"
+    },
+    {
+     "kampanya": "18V266000",
+     "yil": 2017,
+     "bilesen": "AIR BAGS",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017 Honda Civic Hatchback and Civic Type R vehicles.  Driver and front passenger seatback pads sold as replacement service parts were made without slit openings for the seat-mounted side air bags. In the event of a crash necessitating air bag de",
+     "sonuc": "If the seat-mounted air bags cannot not deploy correctly in the event of a crash, there would be an increased risk of injury.",
+     "tarih": "26/04/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V266000"
+    },
+    {
+     "kampanya": "21V215000",
+     "yil": 2019,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+     "sonuc": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+     "tarih": "25/03/2021",
+     "url": "https://www.nhtsa.gov/?nhtsaId=21V215000"
+    },
+    {
+     "kampanya": "26V332000",
+     "yil": 2016,
+     "bilesen": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+     "sonuc": "Air bags that deploy unintentionally during a crash increase the risk of injury.",
+     "tarih": "22/05/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V332000"
+    },
+    {
+     "kampanya": "18V421000",
+     "yil": 2018,
+     "bilesen": "EQUIPMENT:OTHER:LABELS",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2018 Honda Civic vehicles.  The manufacturing date area of the certification labels may have random characters which can affect the owner's ability to determine if a safety recall includes their vehicle.",
+     "sonuc": "If the owner is not able to verify if their vehicle is involved in safety recall, it can increase the risk of injury or crash.",
+     "tarih": "20/06/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V421000"
+    },
+    {
+     "kampanya": "23V858000",
+     "yil": 2016,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+     "sonuc": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+     "tarih": "19/12/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V858000"
+    },
+    {
+     "kampanya": "23V704000",
+     "yil": 2022,
+     "bilesen": "STEERING:RACK AND PINION",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2022-2024 Civic 4-door and Civic 5-door vehicles that received a replacement power steering rack as part of a service repair.  The steering rack may have been incorrectly assembled, which can allow the tire to chafe against the lower suspension o",
+     "sonuc": "A damaged tire can fail and increase the risk of a crash or injury.",
+     "tarih": "19/10/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V704000"
+    },
+    {
+     "kampanya": "18V817000",
+     "yil": 2017,
+     "bilesen": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic Hatchback and Civic Type R vehicles.  The owners guide in these vehicles may not have been included or  if included, the owner's guide may not have been properly provided required information.  As such, these vehicles fail t",
+     "sonuc": "If the information is missing or improper, it can increase the risk of injury or a crash.",
+     "tarih": "16/11/2018",
+     "url": "https://www.nhtsa.gov/?nhtsaId=18V817000"
+    },
+    {
+     "kampanya": "24V859000",
+     "yil": 2023,
+     "bilesen": "SEATS:CRITICAL FASTENERS",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2023-2024 Honda Accord, Accord Hybrid, Civic Sedan, Civic Hatchback, Pilot, and 2024 HR-V, Acura Integra and Acura Integra Type S vehicles.  The driver's seat cushion frame may not have been tightened properly, which can result in an unsecured se",
+     "sonuc": "An unsecured driver's seat may not adequately restrain the driver during a crash, increasing the risk of injury.",
+     "tarih": "15/11/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V859000"
+    },
+    {
+     "kampanya": "24V763000",
+     "yil": 2025,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2023-2024 Honda Accord, Accord Hybrid, 2023-2025 Honda CR-V Hybrid, and 2025 Honda Civic and Civic Hybrid vehicles.  The high-pressure fuel pump may crack and leak fuel.",
+     "sonuc": "A fuel leak in the presence of an ignition source can increase the risk of a fire.",
+     "tarih": "15/10/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V763000"
+    },
+    {
+     "kampanya": "23V430000",
+     "yil": 2023,
+     "bilesen": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+     "ozet": "Honda (America Honda Motor Co.) is recalling certain 2023 Civic, Acura RDX, Acura Integra, and 2022 Honda Accord vehicles.  A ball valve in the vehicle stability assist (VSA) modulator may leak brake fluid, which can result in unintended vehicle movement when the brake hold feature is engaged or an ",
+     "sonuc": "Unintended vehicle movement or an unexpected increase in brake pedal travel can increase the risk of a crash or injury.",
+     "tarih": "15/06/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V430000"
+    },
+    {
+     "kampanya": "16V725000",
+     "yil": 2016,
+     "bilesen": "PARKING BRAKE",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Honda Civic two door and four door 1.5L turbo and 2.0L vehicles.  The electric parking brake (EPB) may not engage if it is applied immediately after turning the ignition off.",
+     "sonuc": "If the EPB is not applied, the vehicle may roll away, increasing the risk of a crash.",
+     "tarih": "11/10/2016",
+     "url": "https://www.nhtsa.gov/?nhtsaId=16V725000"
+    },
+    {
+     "kampanya": "16V526000",
+     "yil": 2016,
+     "bilesen": "EXTERIOR LIGHTING",
+     "ozet": "American Honda Motor Co. (Honda) is recalling certain model year 2016 Civic 2-Door vehicles manufactured February 23, 2016, through May 20, 2016.  The affected vehicles may have a damaged LED side marker light circuit board inside the taillight assembly, making the marker light inoperable.  As such,",
+     "sonuc": "If a side marker light does not function, vehicle visibility can be decreased to other drivers, increasing the risk of a crash.",
+     "tarih": "11/07/2016",
+     "url": "https://www.nhtsa.gov/?nhtsaId=16V526000"
+    },
+    {
+     "kampanya": "17V706000",
+     "yil": 2017,
+     "bilesen": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017 Honda Civic Sedan and Coupe vehicles.  The right halfshaft may have been improperly heat treated, reducing its strength.",
+     "sonuc": "The improper heat treatment can result in the halfshaft breaking, preventing the engine from moving the vehicle, and can allow a possible roll away situation if the parking brake is not engaged.  This",
+     "tarih": "09/11/2017",
+     "url": "https://www.nhtsa.gov/?nhtsaId=17V706000"
+    },
+    {
+     "kampanya": "16V074000",
+     "yil": 2016,
+     "bilesen": "ENGINE AND ENGINE COOLING:ENGINE",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Civic vehicles manufactured September 22, 2015, to February 3, 2016 and equipped with 2.0L engines.  The affected vehicles have engines with piston assemblies that may have been manufactured without a piston wrist pin circlip or w",
+     "sonuc": "If a circlip is missing or incorrectly installed, the piston wrist pin may not be secure and may drift and damage the engine cylinder causing the engine to seize, and increasing the risk of a crash or",
+     "tarih": "09/02/2016",
+     "url": "https://www.nhtsa.gov/?nhtsaId=16V074000"
+    },
+    {
+     "kampanya": "24V744000",
+     "yil": 2022,
+     "bilesen": "STEERING",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2023-2025 Acura Integra, Civic Type R, CR-V Hybrid, CR-V, HR-V, 2022-2025 Civic, Civic Hatchback, 2024-2025 Acura Integra Type S, 2025 CR-V Fuel Cell EV, Civic Hybrid, and Civic Hatchback Hybrid vehicles.  The steering gearbox assembly may have b",
+     "sonuc": "Difficulty steering can increase the risk of a crash.",
+     "tarih": "04/10/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V744000"
+    },
+    {
+     "kampanya": "24V064000",
+     "yil": 2020,
+     "bilesen": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+     "sonuc": "An air bag that deploys unintentionally during a crash can increase the risk of injury.",
+     "tarih": "01/02/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V064000"
+    }
+   ]
   },
   "city": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Honda City",
    "kayitlar": []
   },
   "crv": {
-   "durum": "hata",
+   "durum": "kayit_var",
    "sorgu": "Honda CR-V",
-   "kayitlar": []
+   "kayitlar": [
+    {
+     "kampanya": "23V524000",
+     "yil": 2020,
+     "bilesen": "EQUIPMENT:OTHER:LABELS",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017, 2020, and 2022 CR-V vehicles.  The certification label on the driver's side door states incorrect Gross Vehicle Weight Rating (GVWR), Gross Axle Weight Rating (GAWR), and tire size information.  As such, these vehicles fail to comply with t",
+     "sonuc": "An incorrectly sized tire may cause premature tread wear, or a tire blow out, increasing the risk of a crash.",
+     "tarih": "27/07/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V524000"
+    },
+    {
+     "kampanya": "19V694000",
+     "yil": 2019,
+     "bilesen": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles.  The owner's guide incorrectly describes when the \"Passenger Airbag Off\" indicator should illuminate.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 208, \"",
+     "sonuc": "If the front passenger does not correctly understand how the airbag functions, they may be at an increased risk of personal injury in the event of a crash.",
+     "tarih": "26/09/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V694000"
+    },
+    {
+     "kampanya": "22V380000",
+     "yil": 2020,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2020 CR-V vehicles.  The clip for the absorber inside the fuel tank was not secured properly and may detach, which can cause an inaccurate fuel gauge reading.",
+     "sonuc": "An inaccurate fuel gauge may result in the vehicle unexpectedly running out of fuel and stalling, increasing the risk of a crash.",
+     "tarih": "26/05/2022",
+     "url": "https://www.nhtsa.gov/?nhtsaId=22V380000"
+    },
+    {
+     "kampanya": "21V215000",
+     "yil": 2019,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+     "sonuc": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+     "tarih": "25/03/2021",
+     "url": "https://www.nhtsa.gov/?nhtsaId=21V215000"
+    },
+    {
+     "kampanya": "26V332000",
+     "yil": 2019,
+     "bilesen": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+     "sonuc": "Air bags that deploy unintentionally during a crash increase the risk of injury.",
+     "tarih": "22/05/2026",
+     "url": "https://www.nhtsa.gov/?nhtsaId=26V332000"
+    },
+    {
+     "kampanya": "19V383000",
+     "yil": 2019,
+     "bilesen": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles.  The metal core of the steering wheel may have burrs which can damage the harnesses routed within, potentially disabling the driver's air bag or causing it to deploy without warning.",
+     "sonuc": "In the event of a crash, a disabled air bag would increase the risk of injury.  An uncommanded deployment of the driver's air bag also increases the risk of injury and a crash.",
+     "tarih": "21/05/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V383000"
+    },
+    {
+     "kampanya": "23V858000",
+     "yil": 2019,
+     "bilesen": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+     "sonuc": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+     "tarih": "19/12/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V858000"
+    },
+    {
+     "kampanya": "21V900000",
+     "yil": 2021,
+     "bilesen": "SEAT BELTS:REAR/OTHER:RETRACTOR",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2021 Accord Sedan, Accord Hybrid, CR-V, Ridgeline, 2022 Insight and CR-V Hybrid vehicles.  The automatic locking retractor on the second-row center seat belt assembly may deactivate improperly, which can result in an unsecured child restraint sys",
+     "sonuc": "An unsecured child restraint system can increase the risk of injury during a crash.",
+     "tarih": "18/11/2021",
+     "url": "https://www.nhtsa.gov/?nhtsaId=21V900000"
+    },
+    {
+     "kampanya": "23V092000",
+     "yil": 2023,
+     "bilesen": "SEATS:FRONT ASSEMBLY:RECLINER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2023 CR-V vehicles.  The front passenger seat back frame may not have been welded properly, which can cause the seat back position to fail in the event of a crash.  As such, these vehicles fail to comply with the requirements of Federal Motor Veh",
+     "sonuc": "A seat back position that fails may not adequately restrain the occupant during a crash, increasing the risk of injury.",
+     "tarih": "16/02/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V092000"
+    },
+    {
+     "kampanya": "23V158000",
+     "yil": 2019,
+     "bilesen": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+     "sonuc": "An unlatched seat belt cannot properly restrain the seat occupant during a crash, increasing their risk of injury.",
+     "tarih": "09/03/2023",
+     "url": "https://www.nhtsa.gov/?nhtsaId=23V158000"
+    },
+    {
+     "kampanya": "19V865000",
+     "yil": 2019,
+     "bilesen": "STRUCTURE:FRAME AND MEMBERS",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 CR-V vehicles.  The rear subframe bolts were improperly\r\nmanufactured and may loosen, allowing the rear subframe to separate.",
+     "sonuc": "A separated rear subframe reduces vehicle handling and can suddenly disable the vehicle, increasing the risk of a crash.",
+     "tarih": "05/12/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V865000"
+    },
+    {
+     "kampanya": "24V744000",
+     "yil": 2023,
+     "bilesen": "STEERING",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2023-2025 Acura Integra, Civic Type R, CR-V Hybrid, CR-V, HR-V, 2022-2025 Civic, Civic Hatchback, 2024-2025 Acura Integra Type S, 2025 CR-V Fuel Cell EV, Civic Hybrid, and Civic Hatchback Hybrid vehicles.  The steering gearbox assembly may have b",
+     "sonuc": "Difficulty steering can increase the risk of a crash.",
+     "tarih": "04/10/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V744000"
+    },
+    {
+     "kampanya": "24V508000",
+     "yil": 2024,
+     "bilesen": "TIRES:MARKINGS",
+     "ozet": "Honda (America Honda Motor Co.) is recalling certain 2024 CR-V vehicles.  The tire identification number (TIN) is missing the four-digit date code.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 139, \"New Pneumatic Radial Tires for Light",
+     "sonuc": "An owner whose TIN information is missing may not recognize that their vehicle is involved in a safety recall and continue to drive on recalled tires, increasing the risk of a crash.",
+     "tarih": "02/07/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V508000"
+    },
+    {
+     "kampanya": "19V569000",
+     "yil": 2019,
+     "bilesen": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles. The joint weld between the fuel tank and the vapor return line may have been insufficiently welded, causing the weld to fail.",
+     "sonuc": "The failed weld may allow fuel to leak, increasing the risk of a fire in the presence of an ignition source.",
+     "tarih": "01/08/2019",
+     "url": "https://www.nhtsa.gov/?nhtsaId=19V569000"
+    },
+    {
+     "kampanya": "24V064000",
+     "yil": 2020,
+     "bilesen": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+     "ozet": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+     "sonuc": "An air bag that deploys unintentionally during a crash can increase the risk of injury.",
+     "tarih": "01/02/2024",
+     "url": "https://www.nhtsa.gov/?nhtsaId=24V064000"
+    }
+   ]
   },
   "hrv": {
    "durum": "kayit_var",
@@ -3024,7 +3496,7 @@
    ]
   },
   "jazz": {
-   "durum": "hata",
+   "durum": "abd_yok",
    "sorgu": "Honda Jazz",
    "kayitlar": []
   },
