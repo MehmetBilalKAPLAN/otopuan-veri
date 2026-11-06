@@ -30,6 +30,8 @@ def getir(url, deneme=2):
             if len(HATALAR) < 5: HATALAR.append(son + ' | ' + url[-70:])
             if not (isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500):
                 ARD_HATA[0] += 1
+            if isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500:
+                return {'hata': son, 'kod': e.code}
             time.sleep(1)
     return {'hata': son}
 
@@ -38,11 +40,14 @@ def model_icin(item, yillar, bekle=0.3):
     if not marka:
         return {'durum': 'abd_yok', 'kayitlar': []}
     mdl = sorgu_model(item['model'], marka)
-    kayit, gorulen, hata = [], set(), 0
+    kayit, gorulen, hata, yok400 = [], set(), 0, 0
     for y in yillar:
         d = getir(API + urllib.parse.urlencode({'make': marka, 'model': mdl, 'modelYear': y}))
         time.sleep(bekle)
-        if 'hata' in d: hata += 1; continue
+        if 'hata' in d:
+            hata += 1
+            if d.get('kod') == 400: yok400 += 1
+            continue
         for r in d.get('results', []):
             k = r.get('NHTSACampaignNumber')
             if k in gorulen: continue
@@ -51,6 +56,8 @@ def model_icin(item, yillar, bekle=0.3):
                           'ozet': (r.get('Summary') or '')[:300], 'sonuc': (r.get('Consequence') or '')[:200],
                           'tarih': r.get('ReportReceivedDate', ''),
                           'url': 'https://www.nhtsa.gov/?nhtsaId=' + str(k)})
+    if yillar and yok400 == len(yillar):
+        return {'durum': 'abd_yok', 'sorgu': marka + ' ' + mdl, 'kayitlar': []}
     durum = 'hata' if hata == len(yillar) and yillar else ('kayit_var' if kayit else 'kayit_yok')
     return {'durum': durum, 'sorgu': marka + ' ' + mdl, 'kayitlar': sorted(kayit, key=lambda x: x['tarih'], reverse=True)}
 

@@ -14,4 +14,6 @@ assert nhtsa.model_icin({'id': 't', 'marka': 'TOGG', 'model': 'T10X'}, [2024], 0
 assert nhtsa.sorgu_model('Golf', '') == 'Golf' and nhtsa.sorgu_model('Tiggo 7 (Pro)', '') == 'Tiggo 7'
 nhtsa.getir = lambda u, d=3: {'hata': 'x'}
 assert nhtsa.model_icin({'id': 'a', 'marka': 'Honda', 'model': 'Civic'}, [2020], 0)['durum'] == 'hata'
+nhtsa.getir = lambda u, d=3: {'hata': 'HTTP 400', 'kod': 400}
+assert nhtsa.model_icin({'id': 'a', 'marka': 'Dacia', 'model': 'Duster'}, [2020, 2021], 0)['durum'] == 'abd_yok'
 print('nhtsa testleri tamam')
