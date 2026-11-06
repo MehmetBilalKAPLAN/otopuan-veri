@@ -13,26 +13,28 @@ def sorgu_model(ad, marka):
     if ad in MODEL: return MODEL[ad]
     return re.split(r'\s*[/(]', ad)[0].strip()
 
-ARD_HATA = [0]
+from collections import Counter
+HATA_SAY = Counter()
 HATALAR = []
-SINIR = 20
 
-def getir(url, deneme=2):
-    if ARD_HATA[0] >= SINIR:
-        return {'hata': 'ag_kesildi'}
+def getir(url, deneme=3):
+    son = ''
     for i in range(deneme):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'otopuan-veri/1.0'}), timeout=10) as r:
-                ARD_HATA[0] = 0
+            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'otopuan-veri/1.0'}), timeout=20) as r:
                 return json.load(r)
+        except urllib.error.HTTPError as e:
+            HATA_SAY['HTTP %d' % e.code] += 1
+            son = 'HTTP %d' % e.code
+            if len(HATALAR) < 6: HATALAR.append('HTTP %d | %s' % (e.code, url.split('?')[1]))
+            if e.code == 400:
+                return {'hata': son, 'kod': 400}
+            time.sleep(2 * (i + 1))
         except Exception as e:
-            son = type(e).__name__ + ': ' + str(e)[:120]
-            if len(HATALAR) < 5: HATALAR.append(son + ' | ' + url[-70:])
-            if not (isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500):
-                ARD_HATA[0] += 1
-            if isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500:
-                return {'hata': son, 'kod': e.code}
-            time.sleep(1)
+            son = type(e).__name__
+            HATA_SAY[son] += 1
+            if len(HATALAR) < 6: HATALAR.append('%s %s | %s' % (son, str(e)[:80], url.split('?')[1]))
+            time.sleep(2 * (i + 1))
     return {'hata': son}
 
 def model_icin(item, yillar, bekle=0.3):
@@ -61,7 +63,7 @@ def model_icin(item, yillar, bekle=0.3):
     durum = 'hata' if hata == len(yillar) and yillar else ('kayit_var' if kayit else 'kayit_yok')
     return {'durum': durum, 'sorgu': marka + ' ' + mdl, 'kayitlar': sorted(kayit, key=lambda x: x['tarih'], reverse=True)}
 
-def run(items, bizim, bekle=0.15, isci=8):
+def run(items, bizim, bekle=0.3, isci=4):
     def is_(it):
         b = bizim.get(it['id'])
         yillar = list(range(max(b[0], 2015), min(b[1], 2026) + 1)) if b else []
@@ -79,4 +81,5 @@ if __name__ == '__main__':
               open('cikti/geri_cagirma.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     from collections import Counter
     print('OZET', dict(Counter(v['durum'] for v in s.values())))
+    print('HATA TURLERI', dict(HATA_SAY))
     for h in HATALAR: print('HATA ORNEGI:', h)
