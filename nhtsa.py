@@ -17,7 +17,7 @@ from collections import Counter
 HATA_SAY = Counter()
 HATALAR = []
 
-def getir(url, deneme=3):
+def getir(url, deneme=4):
     son = ''
     for i in range(deneme):
         try:
@@ -29,7 +29,7 @@ def getir(url, deneme=3):
             if len(HATALAR) < 6: HATALAR.append('HTTP %d | %s' % (e.code, url.split('?')[1]))
             if e.code == 400:
                 return {'hata': son, 'kod': 400}
-            time.sleep(2 * (i + 1))
+            time.sleep(8 * (i + 1) if e.code in (403, 429) else 2 * (i + 1))
         except Exception as e:
             son = type(e).__name__
             HATA_SAY[son] += 1
@@ -63,20 +63,41 @@ def model_icin(item, yillar, bekle=0.3):
     durum = 'hata' if hata == len(yillar) and yillar else ('kayit_var' if kayit else 'kayit_yok')
     return {'durum': durum, 'sorgu': marka + ' ' + mdl, 'kayitlar': sorted(kayit, key=lambda x: x['tarih'], reverse=True)}
 
-def run(items, bizim, bekle=0.3, isci=4):
-    def is_(it):
+def run(items, bizim, bekle=0.5, isci=2, onceki=None):
+    onceki = onceki or {}
+    def is_(it, bk):
         b = bizim.get(it['id'])
         yillar = list(range(max(b[0], 2015), min(b[1], 2026) + 1)) if b else []
-        r = model_icin(it, yillar, bekle)
+        r = model_icin(it, yillar, bk)
         print(it['id'], r['durum'], len(r['kayitlar']), flush=True)
         return it['id'], r
+    sonuc, bekleyen = {}, []
+    for it in items:
+        o = onceki.get(it['id'])
+        if o and o.get('durum') in ('kayit_var', 'kayit_yok', 'abd_yok'):
+            sonuc[it['id']] = o
+        else:
+            bekleyen.append(it)
     with ThreadPoolExecutor(isci) as ex:
-        return dict(ex.map(is_, items))
+        sonuc.update(dict(ex.map(lambda it: is_(it, bekle), bekleyen)))
+    # ikinci tur: hata kalanlar, tek tek ve yavas
+    yeniden = [it for it in bekleyen if sonuc[it['id']]['durum'] == 'hata']
+    if yeniden:
+        print('IKINCI TUR', len(yeniden), flush=True)
+        time.sleep(30)
+        for it in yeniden:
+            sonuc[it['id']] = is_(it, 1.5)[1]
+    return {it['id']: sonuc[it['id']] for it in items}
 
 if __name__ == '__main__':
     items = json.load(open('modeller.json', encoding='utf-8'))
     bizim = json.load(open('bizim_yillar.json', encoding='utf-8'))
-    s = run(items, bizim)
+    import os
+    onceki = {}
+    if os.path.exists('cikti/geri_cagirma.json'):
+        try: onceki = json.load(open('cikti/geri_cagirma.json', encoding='utf-8')).get('modeller', {})
+        except Exception: onceki = {}
+    s = run(items, bizim, onceki=onceki)
     json.dump({'kaynak': 'ABD NHTSA recallsByVehicle', 'guncelleme': time.strftime('%Y-%m-%d'), 'modeller': s},
               open('cikti/geri_cagirma.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     from collections import Counter
