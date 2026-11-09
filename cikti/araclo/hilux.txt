@@ -64,15 +64,65 @@ MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırla
 Derslere Başla
 Giriş Yap
 Toyota Hilux Kronik Sorunları
-Detaylar, kullanıcı değerlendirmeleri ve dokümanlar
+4 nesil · 5 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
 Model
 Toyota Hilux
 Toyota Hilux genel bakış
+Hilux 9. nesil 2026– 2.8 D-4D Mild Hybrid
+Hilux 8. nesil (makyajlı) 2020–2026 2.4 D-4D
+2.8 D-4D
+Hilux 8. nesil 2015–2020 2.4 D-4D
+2.8 D-4D
+Hilux 7. nesil (makyajlı) 2011–2015 2.5 D-4D
+3.0 D-4D
 Toyota Hilux Nesiller ve motorlar arasında gezin
-Detaylar Kronik Sorunlar Değerlendirmeler Dokümanlar
+Detaylar Kronik Sorunlar 8 Değerlendirmeler Dokümanlar
 Toyota Hilux Kronik Sorunları
-Kayıtlı sorun yok
-Bu araç için onaylanmış kronik sorun kaydı henüz yok.
+8 bilinen sorun · önem sırasıyla · nesle göre
+1 kritik 1 yüksek 5 orta 1 düşük
+Toyota-1KD-FTV-3.0D4D motorunda · 4
+Kritik Piston çatlaması 100.000–150.000 km Onarım maliyeti yüksek
+Belirtiler
+Ani güç kaybı, motor üç silindirle çalışır gibi titrer, vuruntu ve yağ kapağından basınçlı buhar
+Alırken kontrol edin
+Yağ doldurma kapağını açıp rölantide üflemeye bakın, kompresyon testi yaptırın, yazılımla güç artırılmış araçtan kaçının
+Yüksek Enjektör yuvası contası kaçağı ve kurum birikmesi 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Rölantide beyaz ya da mavi duman, soğukta tıkırtı; ilerlerse kurum yağ süzgecini tıkar ve motor yağsız kalır
+Alırken kontrol edin
+Conta değişim faturasını isteyin, soğuk çalıştırmada sesi dinleyin, karter tapası deliğinden süzgece baktırın
+Orta Enjektör arızası 120.000–140.000 km Onarım maliyeti yüksek
+Belirtiler
+Soğukta artan vuruntu, düzensiz rölanti, duman ve yakıt tüketiminde artış
+Alırken kontrol edin
+Enjektör geri dönüş testi yaptırın, enjektör değişim faturalarını sorun
+Düşük EGR valfi ve emme manifoldunda kurum birikmesi Onarım maliyeti düşük
+Belirtiler
+Çekiş düşer, gaz tepkisi zayıflar
+Alırken kontrol edin
+Yük altında çekişi deneyin, emme manifoldu temizliği yapılıp yapılmadığını sorun
+Toyota-2GD-FTV-2.4D4D motorunda · 1
+Orta Partikül filtresinin kendini temizleyememesi 2015–2020 Onarım maliyeti yüksek
+Belirtiler
+Egzozdan beyaz duman ve kötü koku, sık filtre uyarısı, güç kaybı modu ve yakıt tüketiminde artış
+Alırken kontrol edin
+2020 öncesi üretimde Toyota servisinde şasi numarasıyla filtre güncellemesinin yapıldığını sorun; uzun test sürüşünde dumana bakın
+Toyota-1GD-FTV-2.8D4D motorunda · 3
+Orta Partikül filtresinin kendini temizleyememesi 2015–2020 Onarım maliyeti yüksek
+Belirtiler
+Egzozdan beyaz duman ve kötü koku, sık filtre uyarısı, güç kaybı modu ve yakıt tüketiminde artış
+Alırken kontrol edin
+2020 öncesi üretimde Toyota servisinde şasi numarasıyla filtre güncellemesinin yapıldığını sorun; uzun test sürüşünde dumana bakın
+Orta EGR soğutucusunun kaçırması ve isle tıkanması 150.000–220.000 km Onarım maliyeti orta
+Belirtiler
+Görünür kaçak olmadan antifriz eksilir, motor ısınmaya eğilim gösterir
+Alırken kontrol edin
+Antifriz seviyesinin geçmişini sorun, soğutma sistemine basınç testi yaptırın
+Orta Egzoza yakıt püskürten ek enjektörün tıkanması 2015–2020 Onarım maliyeti orta
+Belirtiler
+Arıza lambası yanar, güç kaybı modu ve egzozdan duman
+Alırken kontrol edin
+Yetkili serviste ek enjektörün yenilenmiş parçayla değiştirilip değiştirilmediğini sorun
 Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
 Araclo
 Otomobil platformu ve araç özellikleri rehberi.

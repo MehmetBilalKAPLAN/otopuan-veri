@@ -64,15 +64,149 @@ MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırla
 Derslere Başla
 Giriş Yap
 Hyundai i30 Kronik Sorunları
-Detaylar, kullanıcı değerlendirmeleri ve dokümanlar
+6 nesil · 8 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
 Model
 Hyundai i30
 Hyundai i30 genel bakış
+i30 PD (makyajlı) 2025– 1.5 T-GDI 48V
+1.6 T-GDI
+i30 PD 2017–2019 1.4 MPI
+1.4 T-GDI
+1.6 CRDi
+i30 GD (makyajlı) 2015–2017 1.4 MPI
+1.6 GDI
+1.6 T-GDI
+1.6 CRDi
+i30 GD 2012–2015 1.6 GDI
+1.6 CRDi
+i30 FD (makyajlı) 2010–2012 1.4 CVVT
+1.6 CVVT
+1.6 CRDi
+i30 FD 2007–2010 1.4 CVVT
+1.6 CVVT
+1.6 CRDi
 Hyundai i30 Nesiller ve motorlar arasında gezin
-Detaylar Kronik Sorunlar Değerlendirmeler Dokümanlar
+Detaylar Kronik Sorunlar 22 Değerlendirmeler Dokümanlar
 Hyundai i30 Kronik Sorunları
-Kayıtlı sorun yok
-Bu araç için onaylanmış kronik sorun kaydı henüz yok.
+22 bilinen sorun · önem sırasıyla · nesle göre
+9 yüksek 10 orta 3 düşük
+GAMMA-1.4MPI motorunda · 3
+Yüksek Katalizörün parçalanıp silindirleri çizmesi 2010–2014 Onarım maliyeti yüksek
+Belirtiler
+Egzozdan tıkırtı, güç kaybı; kırıntı motora geçerse yağ eksiltme ve kompresyon kaybı
+Alırken kontrol edin
+Egzoz tarafından tıkırtı var mı dinleyin, mümkünse kompresyon ölçümü yaptırın
+Orta Triger zinciri uzaması ve gergi arızası 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırmada zincir şakırtısı; yağı geç değişen araçta daha erken başlar
+Alırken kontrol edin
+Motoru soğukken çalıştırıp ilk saniyeleri dinleyin; yağ değişim kayıtlarını isteyin
+Orta Silindirlerin ovalleşmesiyle yağ eksiltme Onarım maliyeti yüksek
+Belirtiler
+Bakım arasında yağ seviyesi düşer; motor bir kez hararet yaptıysa daha belirgin
+Alırken kontrol edin
+Yağ seviyesini ve hararet geçmişini sorun, egzozda mavimsi duman olup olmadığına bakın
+GAMMA-1.6MPI motorunda · 2
+Yüksek Katalizörün dağılması ve silindir çizilmesi Onarım maliyeti yüksek
+Belirtiler
+Motor yağ eksiltmeye başlar, çekiş düşer, egzozdan tıkırtı gelir; ileri aşamada kompresyon düşer ve motor tekler
+Alırken kontrol edin
+Yağ seviyesini ve egzozdan mavi duman çıkıp çıkmadığını kontrol edin; kompresyon ölçümü ve katalizör kontrolü isteyin
+Orta Triger zinciri ve gergisinin erken aşınması 80.000–200.000 km Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırmada motordan metalik şakırtı gelir, ilerledikçe motor arıza lambası yanar
+Alırken kontrol edin
+Soğuk motoru çalıştırıp ilk saniyeleri dinleyin; zincir setinin değişip değişmediğini sorun
+GAMMA-1.6TGDI motorunda · 4
+Yüksek Piston segmanı kaynaklı yağ tüketimi 100.000 km sonrası 2016–2018 Onarım maliyeti yüksek
+Belirtiler
+Yağ seviyesi sık düşer, egzozdan mavimsi duman çıkar; ilerlerse katalizör tıkanır ve arıza lambası yanar
+Alırken kontrol edin
+Yağ ekleme geçmişini sorun, egzoz ucunda yağlı kurum arayın; şüphede serviste yağ tüketim testi isteyin
+Yüksek Erken ateşleme kaynaklı buji ve piston hasarı Onarım maliyeti yüksek
+Belirtiler
+Ani tekleme ve arıza lambası; ağır durumda bir silindirde buji erir, supap ya da piston zarar görür
+Alırken kontrol edin
+Motor yazılımının güncel olduğunu ve üreticinin onayladığı yağın kullanıldığını sorun
+Orta Emme supaplarında karbon birikmesi 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Rölantide titreme, tekleme, çekiş kaybı ve yakıt tüketiminde artış
+Alırken kontrol edin
+Soğuk çalıştırmada ve rölantide motorun düzgün çalıştığını kontrol edin
+Orta Turbo yağ hattı kaçağı ve atık gaz klapesi arızası Onarım maliyeti orta
+Belirtiler
+Turbo çevresinde yağ izi, güç kaybı, arıza lambası ve motorun güç kısıtlı moda geçmesi
+Alırken kontrol edin
+Motor bölmesinde turbo çevresini yağ kaçağına karşı kontrol edin
+U2-1.6CRDi motorunda · 3
+Yüksek Triger zincirinin uzaması 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırmada birkaç saniye metalik takırtı duyulur; ihmal edilirse zincir atlayıp motoru bozabilir
+Alırken kontrol edin
+Motoru soğukken çalıştırın, ilk saniyelerdeki sesi dinleyin; zincir değişim kaydını sorun
+Yüksek Turbonun değişken kanatçıklarının takılması 100.000–180.000 km Onarım maliyeti yüksek
+Belirtiler
+Hızlanırken güç aniden kesilir, araç acil moda geçer, arıza lambası yanar
+Alırken kontrol edin
+Yokuşta ve tam gazda güç kesilmesi olup olmadığını deneyin; turbodan ıslık ya da yağ kaçağına bakın
+Orta EGR valfi ve emme manifoldu kurumlanması 80.000–130.000 km Onarım maliyeti orta
+Belirtiler
+Çekiş düşer, rölanti dalgalanır, arıza lambası yanabilir; şehir içi kullanımda daha erken görülür
+Alırken kontrol edin
+Düşük devirde hızlanmayı deneyin; EGR ve emme temizliğinin ne zaman yapıldığını sorun
+GAMMA-1.6GDI motorunda · 4
+Yüksek Silindir çizilmesine bağlı yağ tüketimi 70.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Yağ seviyesi hızla düşer, soğukken motordan vuruntu sesi gelir; katalizör zarar görebilir
+Alırken kontrol edin
+Soğuk çalıştırmada motoru dinleyin, yağ ekleme geçmişini sorun; şüphede yağ tüketim testi isteyin
+Orta Emme supaplarında karbon birikmesi 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Rölantide titreme, tekleme, çekiş kaybı ve yakıt tüketiminde artış
+Alırken kontrol edin
+Soğuk çalıştırmada ve rölantide motorun düzgün çalıştığını kontrol edin
+Orta Yüksek basınç yakıt pompası ve enjektör arızası 80.000–150.000 km Onarım maliyeti orta
+Belirtiler
+Zor çalışma, tekleme, çekiş kaybı ve arıza lambası
+Düşük Külbütör kapağı contasından yağ kaçağı Onarım maliyeti düşük
+Belirtiler
+Motor üstünde yağ izi, sıcak motordan yanık yağ kokusu
+Alırken kontrol edin
+Külbütör kapağı kenarlarını yağ sızıntısına karşı kontrol edin
+KAPPA-1.4MPI motorunda · 2
+Orta Yüksek kilometrede segman aşınmasıyla yağ eksiltme 150.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Bakım arasında yağ seviyesi düşer, ileri aşamada egzozdan mavimsi duman çıkar
+Alırken kontrol edin
+Yağ çubuğunu kontrol edin, sahibine bakım arasında yağ ekleyip eklemediğini sorun
+Orta Triger zinciri gergisi aşınması 80.000–120.000 km Onarım maliyeti orta
+Belirtiler
+Soğuk çalıştırmada ilk saniyelerde zincir şakırtısı duyulur
+Alırken kontrol edin
+Motoru soğukken çalıştırıp ilk saniyeleri dinleyin
+KAPPA-1.5TGDI-48V motorunda · 1
+Düşük Emme supaplarında kurum birikmesi 50.000 km sonrası Onarım maliyeti orta
+Belirtiler
+Rölantide titreme, gaza basınca gecikme ve yakıt tüketiminde artış
+Alırken kontrol edin
+Soğuk ve sıcak rölantide titreme olup olmadığına bakın; servis kaydında supap temizliğini sorun
+GAMMA2-1.6TGDI motorunda · 1
+Düşük Debriyaja basınca devrin geç düşmesi 2021–2022 Onarım maliyeti düşük
+Belirtiler
+Vites değişirken devir yüksekte asılı kalır, geçişler sarsıntılı olur; motor beyni yazılımıyla giderilir
+Alırken kontrol edin
+Yetkili serviste motor beyni yazılım güncellemesinin yapılıp yapılmadığını sorun
+7 ileri DCT şanzımanında · 2
+Yüksek Kuru kavrama setinin düşük hızda titremesi Onarım maliyeti yüksek
+Belirtiler
+Kalkışta ve 1.-2. viteste sarsıntı, dur-kalk trafikte vuruntulu geçişler
+Alırken kontrol edin
+Sıcak motorla dur-kalk trafikte ve hafif yokuşta kalkış deneyin; şanzıman yazılımı güncel mi serviste sorun
+Yüksek Kalkışta kavrama gecikmesi ve şanzıman aşırı ısınma uyarısı Onarım maliyeti düşük
+Belirtiler
+Devir yükselir ama araç geç yürür; yoğun trafikte şanzıman ısındı uyarısı çıkar
+Alırken kontrol edin
+Sıcak havada dur-kalk trafikte 15 dakika kullanın, gösterge uyarılarını izleyin; yazılım güncellemesini serviste sorun
 Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
 Araclo
 Otomobil platformu ve araç özellikleri rehberi.

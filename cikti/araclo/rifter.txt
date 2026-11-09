@@ -64,15 +64,59 @@ MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırla
 Derslere Başla
 Giriş Yap
 Peugeot Rifter Kronik Sorunları
-Detaylar, kullanıcı değerlendirmeleri ve dokümanlar
+2 nesil · 2 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
 Model
 Peugeot Rifter
 Peugeot Rifter genel bakış
+Rifter K9 makyajlı 2024– 1.5 BlueHDi
+Rifter K9 2019–2024 1.6 BlueHDi
+1.5 BlueHDi
 Peugeot Rifter Nesiller ve motorlar arasında gezin
-Detaylar Kronik Sorunlar Değerlendirmeler Dokümanlar
+Detaylar Kronik Sorunlar 8 Değerlendirmeler Dokümanlar
 Peugeot Rifter Kronik Sorunları
-Kayıtlı sorun yok
-Bu araç için onaylanmış kronik sorun kaydı henüz yok.
+8 bilinen sorun · önem sırasıyla · nesle göre
+1 kritik 3 yüksek 4 orta
+DV5-1.5BlueHDi motorunda · 2
+Kritik Eksantrik zincirinin erken aşınması ve kopması 2017–2023 Onarım maliyeti yüksek
+Belirtiler
+Motordan anormal metalik ses gelir; zincir koparsa supaplar pistona çarpar ve motor ağır hasar görür
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla zincir kontrol kampanyası ve garanti uzatması kaydını sorun; soğuk çalıştırmada motoru dinleyin
+Yüksek AdBlue deposu ve pompasının arızalanması 2017–2020 Onarım maliyeti yüksek
+Belirtiler
+AdBlue uyarısı yanar, depo dolu olsa da boş görünür; geri sayım bitince motor çalışmaz ya da güç kısılır
+Alırken kontrol edin
+AdBlue uyarı geçmişini ve depo değişim kaydını sorun; yetkili serviste özel kapsam kaydına baktırın
+DV6-1.6TDCi motorunda · 4
+Yüksek Yağ yolları kurumla tıkanınca turbo arızası Onarım maliyeti yüksek
+Belirtiler
+Güç kaybı, turbodan ıslık sesi, mavi duman; kök neden giderilmezse yeni takılan turbo da kısa sürede bozulur
+Alırken kontrol edin
+Yağ değişim kayıtlarına bakın; turbo değiştiyse yağ besleme hatları ve karter süzgecinin de yenilendiğini sorun
+Orta Enjektör contalarının kaçırması 2005–2010 Onarım maliyeti orta
+Belirtiler
+Motor üstünde siyah kurum birikir, tıslama sesi ve egzoz kokusu gelir; kaçan gaz motor yağını kirletir
+Alırken kontrol edin
+Motor kapağını kaldırıp enjektör diplerinde kurum ve yağlı kir olup olmadığına bakın
+Orta EGR valfi arızası Onarım maliyeti orta
+Belirtiler
+Araç acil moda geçer, güç düşer, rölanti bozulur ve arıza lambası yanar
+Orta Partikül filtresinin tıkanması Onarım maliyeti orta
+Belirtiler
+Uyarı lambası yanar, güç kısılır; yakıt yağa karışır, yağ seviyesi yükselir ve rölanti devri artar
+Alırken kontrol edin
+Yağ çubuğunda seviyenin üst çizgiyi aşıp aşmadığına, filtre katkı sıvısının zamanında yenilendiğine bakın
+8 ileri otomatik şanzımanında · 2
+Yüksek Tork konvertörü titremesi ve kirlenmiş solenoidler 100.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Hafif gazda titreme, kayma, vites geçişlerinde düzensizlik; ağır durumda şanzıman değişimi
+Alırken kontrol edin
+Şanzıman yağının 60-80 bin km'de değiştiğini sorun; 60-80 km/s sabit hızda hafif gazda titreme olmamalı
+Orta Düşük hızda sarsıntılı ve gecikmeli vites geçişi Onarım maliyeti düşük
+Belirtiler
+Şehir içinde 1-2 ve 2-3 geçişlerinde vuruntu, yavaşlarken sert vites küçültme; çoğu yazılım güncellemesiyle düzelir
+Alırken kontrol edin
+Soğuk motorla dur-kalk trafikte geçişleri deneyin; serviste şanzıman yazılım güncellemesinin yapıldığını sorun
 Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
 Araclo
 Otomobil platformu ve araç özellikleri rehberi.

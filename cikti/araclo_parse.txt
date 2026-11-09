@@ -1,0 +1,1 @@
+Counter({'tamam': 88, 'kayit_yok': 29})

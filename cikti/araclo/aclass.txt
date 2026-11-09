@@ -64,15 +64,195 @@ MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırla
 Derslere Başla
 Giriş Yap
 Mercedes-Benz A Serisi Kronik Sorunları
-Detaylar, kullanıcı değerlendirmeleri ve dokümanlar
+6 nesil · 10 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
 Model
 Mercedes-Benz A Serisi
 Mercedes-Benz A Serisi genel bakış
+A Serisi W177 (makyajlı) 2023– 1.3 MHEV
+AMG A 45 S
+A Serisi W177 2018–2022 1.3
+1.5 d
+AMG A 35
+A Serisi W176 (makyajlı) 2016–2018 1.6
+AMG A 45
+1.5 d
+A Serisi W176 2012–2015 1.6
+2.0
+AMG A 45
+1.5 CDI
+A Serisi W169 (makyajlı) 2009–2012 1.5
+A Serisi W169 2004–2008 1.5
+2.0
 Mercedes-Benz A Serisi Nesiller ve motorlar arasında gezin
-Detaylar Kronik Sorunlar Değerlendirmeler Dokümanlar
+Detaylar Kronik Sorunlar 31 Değerlendirmeler Dokümanlar
 Mercedes-Benz A Serisi Kronik Sorunları
-Kayıtlı sorun yok
-Bu araç için onaylanmış kronik sorun kaydı henüz yok.
+31 bilinen sorun · önem sırasıyla · nesle göre
+4 kritik 11 yüksek 12 orta 4 düşük
+K9K-1.5dCi motorunda · 5
+Kritik Biyel yatağı aşınması ve sarması (2006 öncesi motorlar) 2001–2006 Onarım maliyeti yüksek
+Belirtiler
+Soğukta motordan vuruntu, yağ basıncı uyarısı; ihmal edilirse motor kilitlenir
+Alırken kontrol edin
+Soğuk çalıştırmada motoru dinleyin, yağ değişim kayıtlarını (10–15 bin km aralık) isteyin
+Kritik Triger ya da V kayışının kopması Onarım maliyeti yüksek
+Belirtiler
+Motor aniden stop eder; supaplar eğilir, ağır motor hasarı olur
+Alırken kontrol edin
+Triger seti, devirdaim ve V kayışı değişim faturasını isteyin; 120 bin km'yi geçmişse değiştirin
+Yüksek Yakıt pompası talaşı ve enjektör arızası 60.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Zor çalışma, siyah duman, tekleme, güç kaybı ve arıza lambası
+Alırken kontrol edin
+Enjektör geri dönüş testi ve enjektör / pompa değişim faturasını sorun
+Yüksek Yağsız kalan turbonun arızalanması 100.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Gaz verince ıslık sesi, mavi duman, çekiş kaybı, motor kısıtlı moda geçer
+Alırken kontrol edin
+Yükte ıslık sesi dinleyin; turbo değiştiyse yağ besleme ve dönüş borularının da yenilenip yenilenmediğini sorun
+Orta EGR valfi ve partikül filtresi tıkanması 60.000 km sonrası Onarım maliyeti orta
+Belirtiler
+Rölanti dalgalanır, çekiş düşer, partikül filtresi uyarısı yanar
+Alırken kontrol edin
+Arıza kayıtlarını cihazla okutun; yalnız kısa şehir içi kullanılmış araçta dikkatli olun
+H5Ht-1.3TCe motorunda · 5
+Kritik Termostat gövdesinden soğutma suyu kaçağı 60.000–100.000 km 2018–2020 Onarım maliyeti yüksek
+Belirtiler
+Soğutma suyu yavaşça eksilir, kalorifer ısıtmaz, motor hasarı riski uyarısı; fark edilmezse motor sarar
+Alırken kontrol edin
+Soğutma suyu seviyesine ve gövde çevresindeki ıslaklığa bakın; gövde değişim faturasını sorun
+Orta Enjeksiyon arızası ve yağa yakıt karışması 2018–2019 Onarım maliyeti orta
+Belirtiler
+Enjeksiyon uyarısı yanar, yağ seviyesi yükselir, yanlış motor uyarısı çıkar
+Alırken kontrol edin
+Motor beyni yazılım güncellemesinin yapıldığını belgeleyin; yağ seviyesinin yükselip yükselmediğine bakın
+Orta Eksantrik faz ayarlayıcısı ve yağ kontrol valfi arızası 25.000–90.000 km 2019–2020 Onarım maliyeti orta
+Belirtiler
+Güç kaybı, enjeksiyon uyarı lambası
+Alırken kontrol edin
+Arıza kodlarını okutun, faz ayarlayıcı değişim kaydını sorun
+Düşük Yağ tüketimi ve zincir kapağından yağ sızıntısı 30.000–95.000 km Onarım maliyeti orta
+Belirtiler
+Bakım arası yağ eksilir, motor önünde yağ izi
+Alırken kontrol edin
+Yağ çubuğuna ve zincir kapağı çevresindeki yağlanmaya bakın
+Düşük Emme supaplarında kurum birikmesi 80.000 km sonrası Onarım maliyeti orta
+Belirtiler
+Rölanti düzensizleşir, gaz tepkisi tembelleşir, tüketim artar
+Alırken kontrol edin
+Sıcak motorda rölantiyi ve gaz tepkisini izleyin
+H5Ht-1.3TCe-MHEV motorunda · 3
+Yüksek Plastik termostat gövdesinden soğutma suyu kaçağı Onarım maliyeti orta
+Belirtiler
+Soğutma suyu eksilir, motor altında ıslaklık ve tatlı koku olur; fark edilmezse hararet ve motor hasarı uyarısı çıkar
+Alırken kontrol edin
+Genleşme kabındaki su seviyesine ve termostat gövdesi çevresinde kuruyup kalmış su izine bakın
+Orta Enjeksiyon beyni yazılım hatası 2023–2024 Onarım maliyeti düşük
+Belirtiler
+Enjeksiyon arıza lambası ya da motor hasarı riski uyarısı yanar, güç düşebilir; yazılım güncellemesiyle düzelir
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla motor beyni güncellemesinin yapılıp yapılmadığını sorun
+Orta Emme supaplarında karbon birikmesi 60.000–120.000 km Onarım maliyeti orta
+Belirtiler
+Rölantide titreme, ara gazda tekleme, soğukta uzun marş ve tüketimde artış
+Alırken kontrol edin
+Soğuk motoru çalıştırıp rölantiyi ve düşük devirde yavaş hızlanmayı deneyin
+M133-2.0 motorunda · 2
+Yüksek Turbo yatağı ve wastegate arızası (ilk üretim) 2013–2014 Onarım maliyeti yüksek
+Belirtiler
+Turbodan ıslık ya da tıslama, güç kaybı, düşük turbo basıncı uyarısıyla acil mod
+Alırken kontrol edin
+Turbonun garantide ya da kampanyada değişip değişmediğini serviste şasi numarasıyla sorun
+Orta Eksantrik ayar mıknatısından kablo demetine yağ sızması 65.000–95.000 km Onarım maliyeti orta
+Belirtiler
+Yağ kablo boyunca motor beynine ilerler; arıza lambası ve düzensiz çalışma
+Alırken kontrol edin
+Eksantrik mıknatısı soketlerinde ve kablo demetinde yağ izi arayın
+M270-1.6 motorunda · 4
+Yüksek Triger zinciri uzaması ve gergi arızası 80.000–130.000 km 2012–2015 Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada ilk birkaç saniye tıkırtı, arıza lambası, rölantide düzensizlik ve hafif güç kaybı
+Alırken kontrol edin
+Motor tamamen soğukken çalıştırıp ilk saniyeleri dinleyin; zincir setinin değişip değişmediğini sorun
+Orta Turbo ve wastegate (basınç tahliye) arızası Onarım maliyeti yüksek
+Belirtiler
+Yük altında ıslık ya da tıkırtı, güç kaybı, araç acil moda geçer
+Alırken kontrol edin
+Yolda tam gazda ıslık ve güç düşüşüne bakın; egzozdan mavi duman olmamalı
+Orta Eksantrik ayar mıknatısından kablo demetine yağ sızması Onarım maliyeti orta
+Belirtiler
+Yağ kablo içinden motor beynine kadar ilerler; arıza lambası, düzensiz çalışma, beyin hasarı
+Alırken kontrol edin
+Eksantrik mıknatısı soketlerinde ve kablo demetinde yağ izi arayın
+Düşük Termostat arızası 110.000–160.000 km Onarım maliyeti düşük
+Belirtiler
+Motor geç ısınır ya da hararet dalgalanır, kalorifer zayıf ısıtır, arıza lambası yanar
+Alırken kontrol edin
+Çalışma sıcaklığına ne kadar sürede çıktığına ve hararet göstergesine bakın
+M270-2.0 motorunda · 4
+Yüksek Triger zinciri uzaması ve gergi arızası 80.000–130.000 km 2012–2015 Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada ilk birkaç saniye tıkırtı, arıza lambası, rölantide düzensizlik ve hafif güç kaybı
+Alırken kontrol edin
+Motor tamamen soğukken çalıştırıp ilk saniyeleri dinleyin; zincir setinin değişip değişmediğini sorun
+Orta Turbo ve wastegate (basınç tahliye) arızası Onarım maliyeti yüksek
+Belirtiler
+Yük altında ıslık ya da tıkırtı, güç kaybı, araç acil moda geçer
+Alırken kontrol edin
+Yolda tam gazda ıslık ve güç düşüşüne bakın; egzozdan mavi duman olmamalı
+Orta Eksantrik ayar mıknatısından kablo demetine yağ sızması Onarım maliyeti orta
+Belirtiler
+Yağ kablo içinden motor beynine kadar ilerler; arıza lambası, düzensiz çalışma, beyin hasarı
+Alırken kontrol edin
+Eksantrik mıknatısı soketlerinde ve kablo demetinde yağ izi arayın
+Düşük Termostat arızası 110.000–160.000 km Onarım maliyeti düşük
+Belirtiler
+Motor geç ısınır ya da hararet dalgalanır, kalorifer zayıf ısıtır, arıza lambası yanar
+Alırken kontrol edin
+Çalışma sıcaklığına ne kadar sürede çıktığına ve hararet göstergesine bakın
+M260-2.0 motorunda · 1
+Orta Emme supaplarında kurum birikmesi 95.000–130.000 km Onarım maliyeti orta
+Belirtiler
+Rölantide titreme, yük altında tekleme, güç kaybı ve yakıt tüketiminde artış
+Alırken kontrol edin
+Soğuk motorda rölanti dengesine bakın; kısa mesafe ağırlıklı kullanılmış araçta daha olası
+8 ileri 8G-DCT şanzımanında · 2
+Kritik Fabrikada yanlış şanzıman yağı miktarı (geri çağırma) 2018–2022 Onarım maliyeti düşük
+Belirtiler
+Yağ kaçağı, araç yolda stop edebilir ya da çekiş kaybedebilir; yangın riski bildirildi
+Alırken kontrol edin
+Yetkili serviste şasi numarasıyla geri çağırma işleminin yapılıp yapılmadığını sorun
+Orta Düşük hızda sarsıntılı geçiş Onarım maliyeti orta
+Belirtiler
+Dur-kalk trafikte ve yokuşta kalkışta sarsıntı, sert vites geçişi
+Alırken kontrol edin
+Dur-kalk trafikte sürün; şanzıman yazılım güncellemesi ve yağ değişim kaydını sorun
+Autotronic CVT şanzımanında · 2
+Yüksek Şanzıman beyninin devir sinyalini kaybetmesi Onarım maliyeti orta
+Belirtiler
+Şanzıman acil moda geçer, "şanzıman servise" uyarısı çıkar, araç güç kaybeder ya da vites tutmaz
+Alırken kontrol edin
+Arıza kayıtlarını okutun; şanzıman beyninin onarılıp onarılmadığını sorun
+Yüksek Kayış ve valf gövdesi aşınması 110.000–190.000 km Onarım maliyeti yüksek
+Belirtiler
+Hızlanırken sarsıntı, kalkışta tereddüt, patinaj, ileri aşamada çekişin tamamen kaybı
+Alırken kontrol edin
+Kalkış ve ara hızlanmada sarsıntıya bakın; şanzıman yağ değişim kaydını sorun
+7 ileri 7G-DCT şanzımanında · 3
+Yüksek Mekatronik ünitesi ve selenoid arızası Onarım maliyeti yüksek
+Belirtiler
+Kalkışta ve yavaş manevrada sarsıntı, 1-2 geçişinde sertlik ya da gecikme, uyarı mesajı, bazı viteslerin kilitlenmesi
+Alırken kontrol edin
+Dur-kalk trafikte ve sıcak şanzımanla kalkış yapın; 60 bin km yağ değişim kaydını isteyin
+Yüksek Vites çatalı ve konum sensörünün aşınma tozuyla kirlenmesi Onarım maliyeti yüksek
+Belirtiler
+Şanzımanın bir yarısı devre dışı kalır; yalnız tek ya da yalnız çift vitesler seçilir
+Alırken kontrol edin
+Tüm vitesleri sırayla geçirin; şanzıman yağı ve filtre değişim geçmişini sorun
+Yüksek Kavrama paketinin aşınması Onarım maliyeti yüksek
+Belirtiler
+Düşük hızda titreme, viteste kayma, kalkışta sarsıntı; sert kullanılan araçlarda daha erken
+Alırken kontrol edin
+Yokuşta yavaş kalkış yapın; titreme ya da kayma olmamalı
 Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
 Araclo
 Otomobil platformu ve araç özellikleri rehberi.

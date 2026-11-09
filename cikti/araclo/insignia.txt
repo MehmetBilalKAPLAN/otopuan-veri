@@ -64,15 +64,140 @@ MEB müfredatına göre ders notları, trafik levhaları ve yasal hız sınırla
 Derslere Başla
 Giriş Yap
 Opel Insignia Kronik Sorunları
-Detaylar, kullanıcı değerlendirmeleri ve dokümanlar
+3 nesil · 9 motor · puanlar, kronik sorunlar ve kullanıcı değerlendirmeleri
 Model
 Opel Insignia
 Opel Insignia genel bakış
+Insignia B (makyajlı) 2020–2022 1.5 D
+2.0 Turbo
+Insignia B 2017–2020 1.5 Turbo
+1.6 CDTI
+2.0 BiTurbo CDTI
+2.0 Turbo
+Insignia A (makyajlı) 2013–2017 1.4 Turbo
+1.6 SIDI Turbo
+2.8 V6 Turbo
+1.6 CDTI
+2.0 CDTI
+2.0 BiTurbo CDTI
 Opel Insignia Nesiller ve motorlar arasında gezin
-Detaylar Kronik Sorunlar Değerlendirmeler Dokümanlar
+Detaylar Kronik Sorunlar 21 Değerlendirmeler Dokümanlar
 Opel Insignia Kronik Sorunları
-Kayıtlı sorun yok
-Bu araç için onaylanmış kronik sorun kaydı henüz yok.
+21 bilinen sorun · önem sırasıyla · nesle göre
+4 kritik 5 yüksek 9 orta 3 düşük
+MDE-1.6CDTI motorunda · 3
+Kritik Zincir gergisinin yağ kaçırması ve zincir uzaması 80.000–130.000 km Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada ilk saniyelerde zincir şakırtısı; ilerlerse zincir atlar, supaplar eğilir
+Alırken kontrol edin
+Gece bekleyen motoru çalıştırıp ilk saniyeleri dinleyin; zincir ve gergi değişim faturasını sorun
+Orta Partikül filtresinin tıkanması Onarım maliyeti orta
+Belirtiler
+Güç kısıtlaması, filtre uyarısı; yarım kalan rejenerasyonlarda yağa mazot karışır
+Alırken kontrol edin
+Kullanım şeklini sorun; filtre doluluk değerini okutun, yağ seviyesinin artıp artmadığına bakın
+Orta EGR valfi kurumlanması ve EGR soğutucusu iç kaçağı Onarım maliyeti orta
+Belirtiler
+Rölantide düzensizlik, güç kaybı; soğutucu kaçağında ilk çalıştırmada beyaz duman ve soğutma suyu eksilmesi
+Alırken kontrol edin
+Soğutma suyu seviyesini ve ilk çalıştırmadaki dumanı kontrol edin; arıza kaydını okutun
+MGE-1.6SIDI-T motorunda · 2
+Kritik Piston kırılması Onarım maliyeti yüksek
+Belirtiler
+Tekleme, kompresyon kaybı; motor revizyonu gerekir
+Alırken kontrol edin
+Kompresyon ölçümü yaptırın; motor yazılım güncellemesini ve yağ şartnamesini sorun
+Yüksek Zincir uzaması 100.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada şakırtı; zincir değişimi pahalı
+Alırken kontrol edin
+Soğuk motoru çalıştırıp dinleyin; zamanlama arıza kaydını okutun
+FamilyB-2.0CDTI motorunda · 5
+Kritik Yağ pompası emme borusu contasının sertleşmesi 80.000–250.000 km Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada yağ lambası geç söner ya da yanıp söner, sonra motordan vuruntu gelir; ihmal edilirse yatak sarar ve motor kilitlenir
+Alırken kontrol edin
+Soğuk çalıştırmada yağ lambasını izleyin, conta değişim faturasını isteyin
+Yüksek Partikül filtresi tıkanması ve yağa mazot karışması Onarım maliyeti orta
+Belirtiler
+Partikül filtresi uyarısı yanar, güç düşer; yağ seviyesi kendiliğinden yükselir ve yağ mazot kokar
+Alırken kontrol edin
+Yağ çubuğunda seviyenin üst çizgiyi aşıp aşmadığına bakın, cihazla filtre doluluğunu okutun
+Orta EGR soğutucusu gövdesinin çatlaması 100.000–180.000 km Onarım maliyeti orta
+Belirtiler
+Görünür kaçak olmadan antifriz eksilir, bazen egzozdan beyaz duman gelir
+Alırken kontrol edin
+Antifriz seviyesini ve EGR gövdesi çevresinde kurumuş antifriz izini kontrol edin
+Orta EGR valfinin kurumlanması Onarım maliyeti düşük
+Belirtiler
+Çekiş düşer, rölanti dalgalanır, araç güç kaybı moduna geçer
+Alırken kontrol edin
+Arıza kodlarını okutun ve yük altında hızlanmayı deneyin
+Düşük Turbo hava hortumlarının çatlaması Onarım maliyeti düşük
+Belirtiler
+Ani güç kaybı, ıslık sesi ve servis uyarısı
+Alırken kontrol edin
+Yüksek viteste tam gaz çekişi deneyin, arıza kodlarını okutun
+FamilyB-2.0BiCDTI motorunda · 1
+Kritik Yağ pompası emme borusu contasının sertleşmesi Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada yağ lambası geç söner ya da yanıp söner; ihmal edilirse yatak sarar ve motor kilitlenir
+Alırken kontrol edin
+Soğuk çalıştırmada yağ lambasını izleyin, conta değişim faturasını isteyin; 4x4 ve manuelde onarım daha uzun sürer
+Family0-1.4T motorunda · 2
+Yüksek Turbo arızası 100.000 km sonrası Onarım maliyeti yüksek
+Belirtiler
+Güç kaybı, uyarı lambası; turbodan ıslık ya da yağ kaçağı
+Alırken kontrol edin
+Tam gazda çekişi ve turbodan gelen sesleri kontrol edin; yağ değişim kayıtlarını isteyin
+Orta Su pompası arızası ve soğutma suyu kaybı 80.000–100.000 km Onarım maliyeti orta
+Belirtiler
+Soğutma suyu eksilir, hararet yükselir
+Alırken kontrol edin
+Soğutma suyu seviyesine ve pompa çevresinde antifriz izine bakın
+HFV6-2.8T motorunda · 4
+Yüksek Triger zinciri, gergi ve kılavuzlarının aşınması 100.000–150.000 km 2009–2010 Onarım maliyeti yüksek
+Belirtiler
+Soğuk çalıştırmada zincir sesi, arıza lambası ve düzensiz çalışma; gergi koparsa zincir atlayıp motor hasar görür
+Alırken kontrol edin
+Soğuk çalıştırmada motoru dinleyin, eksantrik konum arıza kayıtlarına bakın, zincir değişim faturasını isteyin
+Orta Soğutma suyu genleşme deposu ve hortumlarının çatlaması 70.000–200.000 km Onarım maliyeti düşük
+Belirtiler
+Antifriz azaldı uyarısı, motor bölmesinde antifriz kokusu ve buhar; fark edilmezse motor hararet yapar
+Alırken kontrol edin
+Depo plastiğinde sararma ve çatlak arayın, hortumları ve antifriz seviyesini kontrol edin
+Düşük Turbo yağ ve su hatlarında kaçak Onarım maliyeti düşük
+Belirtiler
+Antifriz eksilir ya da turbo çevresinde yağ sızıntısı görülür
+Alırken kontrol edin
+Turbo hatları ve rakor bağlantılarında ıslaklık arayın
+Düşük Isıdan ateşleme bobini ve buji arızası Onarım maliyeti düşük
+Belirtiler
+Tekleme ve arıza lambası, motor sarsıntılı çalışır
+Alırken kontrol edin
+Arıza kayıtlarında tekleme koduna bakın, rölantide titreşimi gözleyin
+LTG-2.0T motorunda · 2
+Yüksek Düşük devirde ön ateşleme ile piston hasarı Onarım maliyeti yüksek
+Belirtiler
+Tekleme, vuruntu, yağ eksilmesi ve egzozdan duman
+Alırken kontrol edin
+Kompresyon testi yaptırın, üreticinin onayladığı yağın kullanıldığını ve yazılım değişikliği olmadığını sorun
+Orta Emme supaplarında kurum birikmesi 60.000–100.000 km Onarım maliyeti orta
+Belirtiler
+Rölanti dalgalanır, soğukta tekleme olur
+Alırken kontrol edin
+Soğuk çalıştırmada rölantiyi dinleyin, tekleme kaydına bakın
+F20SH-2.0T motorunda · 2
+Orta Soğutma suyu kontrol valfi arızası ve kaçağı Onarım maliyeti orta
+Belirtiler
+Arıza lambası yanar, valf çevresinde antifriz izi ve seviye düşmesi
+Alırken kontrol edin
+Arıza kayıtlarını okutun, valf çevresinde kurumuş antifriz izi arayın
+Orta Hararet sensörünün yanlış değer okuması 2019–2022 Onarım maliyeti düşük
+Belirtiler
+Motor normal sıcaklıktayken aşırı ısınma uyarısı verir
+Alırken kontrol edin
+Gösterge sıcaklığını test sürüşünde izleyin, sensör güncellemesinin yapılıp yapılmadığını sorun
 Bilgilendirme amaçlıdır; satın alma öncesi ekspertiz yaptırmanız önerilir.
 Araclo
 Otomobil platformu ve araç özellikleri rehberi.
